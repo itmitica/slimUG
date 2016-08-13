@@ -1,0 +1,20 @@
+[Icon Theme]
+Name=slimAdwaita
+Comment=slightly modified Adwaita
+Inherits=Adwaita,gnome,hicolor
+Directories=actions/scalable,actions/symbolic
+
+[actions/scalable]
+Context=Actions
+Size=16
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[actions/symbolic]
+Size=16
+Context=Actions
+MinSize=16
+MaxSize=512
+Type=Scalable
+

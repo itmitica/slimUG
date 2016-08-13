@@ -1,0 +1,8 @@
+sli(ghtly) m(odified) U(buntu) G(nome)
+
+1. Add gnome extensions (from list)
+2. Copy theme for shell (sli(ghtly) m(odified) White), copy css for dash-to-dock
+3. Tweak tool/dconf-editor/gsettings cli to set shell theme options, change fonts, to change mouse pointer size
+4. Copy "itmitica" grub theme
+5. Install grub-customizer, use grub-customizer to set grub theme
+6. Install spacefm-gtk3, chromium-browser, pepperflashplugin-nonfree, kodi, unrar, 

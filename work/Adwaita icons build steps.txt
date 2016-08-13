@@ -1,0 +1,18 @@
+prerequisites
+-------------
+sudo apt install gnome-common
+sudo apt install ruby
+sudo apt install inkscape
+download from https://github.com/GNOME/adwaita-icon-theme/releases
+OriginalAdwaita folder
+/home/*user*/Downloads/OriginalAdwaita
+
+building steps
+--------------
+./autogen.sh
+./render-symbolic.rb
+./configure --prefix=/home/*user*/Downloads/OriginalAdwaita
+make
+make install
+
+

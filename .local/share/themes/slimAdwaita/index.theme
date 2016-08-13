@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=White
+Comment=An OS X-like modern theme
+Encoding=UTF-8
+Inherit=Advaita
+
+[X-GNOME-Metatheme]
+GtkTheme=White
+MetacityTheme=White
+ButtonLayout=menu:close,minimize,maximize
