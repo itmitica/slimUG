@@ -1,8 +1,8 @@
 [Icon Theme]
-Name=slimAdwaita
-Comment=slightly modified Adwaita
+Name=Faenza
 Inherits=Adwaita,gnome,hicolor
-Directories=actions/scalable,actions/symbolic
+Comment=slightly modified Adwaita
+Directories=actions/scalable,actions/symbolic,apps/64
 
 [actions/scalable]
 Context=Actions
@@ -17,4 +17,9 @@ Context=Actions
 MinSize=16
 MaxSize=512
 Type=Scalable
+
+[apps/64]
+Context=Apps
+Size=64
+Type=Fixed
 
