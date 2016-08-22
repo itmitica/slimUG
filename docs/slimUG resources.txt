@@ -1,0 +1,6 @@
+icons from arc-elementary
+https://www.gnome-look.org/p/1084955/
+and original
+
+gnome shell theme adapted from White
+https://www.gnome-look.org/p/1013759/
