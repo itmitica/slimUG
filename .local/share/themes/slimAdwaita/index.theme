@@ -1,11 +1,25 @@
-[Desktop Entry]
-Type=X-GNOME-Metatheme
-Name=White
-Comment=An OS X-like modern theme
-Encoding=UTF-8
-Inherit=Advaita
+[Icon Theme]
+Name=Faenza
+Inherits=Adwaita,gnome,hicolor
+Comment=slightly modified Adwaita
+Directories=actions/scalable,actions/symbolic,apps/64
 
-[X-GNOME-Metatheme]
-GtkTheme=White
-MetacityTheme=White
-ButtonLayout=menu:close,minimize,maximize
+[actions/scalable]
+Context=Actions
+Size=16
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[actions/symbolic]
+Size=16
+Context=Actions
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[apps/64]
+Context=Apps
+Size=64
+Type=Fixed
+
