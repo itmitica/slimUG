@@ -1,0 +1,6 @@
+zoom: 396
+duplicate original, applly black color
+send to back, move one right arrow, one down arrow
+duplicate original, select with the black duplicate, apply path, difference
+move cutout one arrow left
+apply blur: 7, opacity: 70

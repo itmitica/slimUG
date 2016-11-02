@@ -8865,6 +8865,19 @@
          style="stop-color:#2B6FCA"
          offset="1" />
     </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter6096"
+       x="-0.081742127"
+       width="1.1634843"
+       y="-0.08638615"
+       height="1.1727723">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.4913636"
+         id="feGaussianBlur6098" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -8873,9 +8886,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="-51.699643"
-     inkscape:cy="36.067701"
+     inkscape:zoom="3.96"
+     inkscape:cx="-8.9813177"
+     inkscape:cy="12.212422"
      inkscape:document-units="px"
      inkscape:current-layer="g8407"
      showgrid="false"
@@ -8915,6 +8928,11 @@
           <g
              id="g8407"
              transform="matrix(0.82216028,0,0,0.82216028,4.6181688,182.31125)">
+            <path
+               style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.48266783;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6096)"
+               d="m 23.668704,1010.1724 6.113016,6.4283 0,-0.094 -5.909902,-6.2163 a 0.4373238,0.49693796 0 0 0 -0.203114,-0.1176 z m 12.247412,2.4231 0,10.4496 7.586483,7.9785 a 0.4373238,0.49693796 0 0 1 -0.297544,0.8623 l -6.255553,0 0,17.4001 a 0.4373238,0.49693796 0 0 1 -0.434734,0.4954 l -8.578891,0 0,1.3291 a 0.4373238,0.49693796 0 0 0 0.436518,0.4953 l 9.966835,0 a 0.4373238,0.49693796 0 0 0 0.434734,-0.4953 l 0,-17.4001 6.255553,0 a 0.4373238,0.49693796 0 0 0 0.297544,-0.8623 l -7.586483,-7.9785 0,-11.7753 a 0.4373238,0.49693796 0 0 0 -0.438299,-0.4988 l -1.386163,0 z m -33.1788358,19.2904 -0.9157941,0.9622 a 0.4373238,0.49693796 0 0 0 0.2957626,0.8623 l 4.429308,0 0,-1.8245 -3.8092765,0 z m 14.6509278,5.2472 0,12.1529 a 0.4373238,0.49693796 0 0 1 -0.440081,0.4954 l -8.5771085,0 0,1.3291 a 0.4373238,0.49693796 0 0 0 0.4382987,0.4953 l 9.9632718,0 a 0.4373238,0.49693796 0 0 0 0.44008,-0.4953 l 0,-12.153 6.898747,0 0,-1.8244 -8.723208,0 z"
+               id="path6091"
+               inkscape:connector-curvature="0" />
             <path
                transform="matrix(1.4985228,0,0,1.7027952,-54.397204,-721.06538)"
                sodipodi:type="inkscape:offset"
