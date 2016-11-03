@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="64"
@@ -8878,17 +8877,6 @@
          stdDeviation="13.841252"
          id="feGaussianBlur6167" />
     </filter>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3750"
-       id="radialGradient3748"
-       cx="-94.87291"
-       cy="165.27281"
-       fx="-94.87291"
-       fy="165.27281"
-       r="60.481358"
-       gradientTransform="matrix(0.81293878,1.6998003,-2.1519091,1.0291615,444.09165,30.354636)"
-       gradientUnits="userSpaceOnUse" />
     <linearGradient
        id="linearGradient3750">
       <stop
@@ -8913,10 +8901,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="-31.589463"
-     inkscape:cy="18.645364"
+     inkscape:cx="25.105348"
+     inkscape:cy="17.761481"
      inkscape:document-units="px"
-     inkscape:current-layer="g6132"
+     inkscape:current-layer="g6151"
      showgrid="false"
      inkscape:window-width="1818"
      inkscape:window-height="995"
@@ -8979,7 +8967,7 @@
                 <path
                    id="path6124"
                    d="m 492.37097,360.89922 6.89257,7.24877 c 17.23775,18.17635 26.83235,41.0016 28.06895,66.75282 0.66512,13.85028 -1.12687,24.86383 -6.35827,39.00443 -4.7901,12.94788 -6.41026,15.85961 -57.31337,103.49535 -24.59895,42.35 -45.26418,78.0181 -45.91482,79.2556 l -1.17547,2.2441 12.78775,0 c 28.03375,-0.01 60.82333,-7.69202 87.78671,-20.55303 69.72638,-33.2581 116.75326,-100.07128 124.54707,-176.927 1.46069,-14.40432 0.72759,-42.09512 -1.46045,-55.01585 -1.8901,-11.16127 -6.63331,-29.87265 -9.76001,-38.50576 l -2.35096,-6.50074 -67.87485,-0.24931 -67.87485,-0.24931 z"
-                   style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#radialGradient3748);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.11884689;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+                   style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#62c1f3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:75.57855;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter-blend-mode:normal;filter-gaussianBlur-deviation:0"
                    inkscape:connector-curvature="0" />
                 <path
                    id="path6119"
