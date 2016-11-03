@@ -81,9 +81,9 @@
 
 #dashtodockContainer.running-dots .app-well-app.focused  .overview-icon,
 #dashtodockContainer.dashtodock .app-well-app.focused  .overview-icon {
-    background-color: rgba(255,255,255,0.15);
+    background-color: rgba(255,255,255,0.20);
 }
 
 #dashtodockContainer.dashtodock #dash {
-    background: rgba(0,0,0,0.25);
+    background: rgba(0,0,0,0.20);
 }
