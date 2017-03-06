@@ -684,7 +684,7 @@ StEntry:insensitive,
 
 #panel {
     background-gradient-direction:none;
-    background-color: rgba(0,0,0,0.20);
+    background-color: rgba(0,0,0,0.50);
     /*background-color: #ededed;*/
     /*background-color: rgba(255,255,255,0.75);
 /*    background-color: rgba(46,51,56,0.9);
@@ -701,7 +701,7 @@ StEntry:insensitive,
     box-shadow: inset 0px rgba(0,0,0,0)}
 #panel:overview .panel-button {
       color: rgba(255,255,255,.5);
-      border-radius: 0px 0px 4px 4px}
+      border-radius: 10px 10px 10px 10px}
 #panel:overview .panel-button:hover,
 #panel:overview .panel-button:active {color:white}
 #panel:overview #panelActivities:active,
