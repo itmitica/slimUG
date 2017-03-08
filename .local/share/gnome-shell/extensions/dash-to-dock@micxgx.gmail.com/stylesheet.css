@@ -1,8 +1,23 @@
+/* hide the default "dot" */
+.running-dots .app-well-app-running-dot,
+.dashtodock .app-well-app-running-dot
+{
+  width: 0px;
+  height: 0px;
+}
+
+.app-well-app-running-dot {
+  width: 10px;
+  height: 3px;
+  background-color: #1e1e1e;
+  margin-bottom: 2px; }
+  
+
 /* Shrink the dash by reducing padding and border radius */
 #dashtodockContainer.shrink #dash,
 #dashtodockContainer.dashtodock #dash {
     border:0px;
-    padding:10px;
+    padding:0px;
 }
 
 #dashtodockContainer.shrink.left #dash,
@@ -56,7 +71,7 @@
 #dashtodockContainer.extended.right #dash,
 #dashtodockContainer.extended.bottom #dash,
 #dashtodockContainer.extended.left #dash {
-    border-radius: 0;
+    border-radius: 0px;
 }
 
 #dashtodockContainer.extended.top #dash,
@@ -72,18 +87,30 @@
 }
 
 /* Running and focused application style */
-
-#dashtodockContainer.running-dots .app-well-app.running > .overview-icon,
-#dashtodockContainer.dashtodock .app-well-app.running > .overview-icon {
-	background-image:none;
+#dashtodockContainer.running-dots .app-well-app  .overview-icon,
+#dashtodockContainer.dashtodock .app-well-app  .overview-icon {
+    /*background-color: rgba(248,248,248,0.75);*/
+    /*border: 1px solid rgba(48,48,48,0.75);*/
+    background-image:none;
+    border-radius: 40px;
+    padding: 8px;
+    margin: 2px;
+    /*margin-bottom: 10px;*/
 }
-
 
 #dashtodockContainer.running-dots .app-well-app.focused  .overview-icon,
 #dashtodockContainer.dashtodock .app-well-app.focused  .overview-icon {
-    background-color: rgba(255,255,255,0.15);
+    background-color: #ffffff;
+    background-image:none;
+    /*border: 1px solid rgba(48,48,48,0.75);*/
+    border-radius: 40px;
+    padding: 8px;
+    margin: 2px;
+    /*margin-bottom: 10px;*/
 }
 
 #dashtodockContainer.dashtodock #dash {
-    background: rgba(0,0,0,0.50);
+    background-color: #f4ce66;
+	/*border: 1px solid rgba(48,48,48,0.75);*/
 }
+
