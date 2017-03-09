@@ -1,23 +1,28 @@
 .window-frame {
 	border-radius: 0;
+	border-left: 1px solid #b9b9b9;
 }
 
 .window-frame.maximized {
-	border-left: 1px solid black;
+
 }
 
 .titlebar {
 	border-radius: 0;
+	border-bottom: 1px solid #b9b9b9;
 }
 
 .header-bar {
   background-image: none;
-  background-color: #f4ce66;
+  background-color: #d1cfce;
   box-shadow: none;
 }
 
 
 /*
+d1cfce
+c8c8c5
+5dc4e6
 
 
 .window-frame {
