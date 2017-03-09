@@ -1,9 +1,9 @@
 .window-frame {
 	border-radius: 0;
 	/*border-left: 10px solid #ffbb7c;*/
-	border-left: 2px solid #e1e1e1;
-	border-right: 2px solid #e1e1e1;
-	border-bottom: 2px solid #e1e1e1;
+	border-left: 1px solid #e1e1e1;
+	border-right: 1px solid #e1e1e1;
+	border-bottom: 1px solid #e1e1e1;
 }
 
 .window-frame.maximized {
@@ -12,9 +12,9 @@
 
 .titlebar {
 	border-radius: 0;
-	border-left: 2px solid #e1e1e1;
-	border-right: 2px solid #e1e1e1;
-	border-top: 2px solid #e1e1e1;
+	border-left: 1px solid #e1e1e1;
+	border-right: 1px solid #e1e1e1;
+	border-top: 1px solid #e1e1e1;
 }
 
 .header-bar {
