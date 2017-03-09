@@ -18,13 +18,16 @@
 
 .header-bar {
   background-image: none;
-  background-color: rgb(251,255,241);
+  background-color: #70D6FF;
+  /*background-color: rgb(251,255,241);*/
   /*background-color: transparent;  */
   box-shadow: none;
 }
 
 
 /*
+ 3C91E6 - bleu de france
+ 70D6FF - maya blue
  F9DC5C
  54eaff
  27e1fc
