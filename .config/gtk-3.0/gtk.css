@@ -1,6 +1,7 @@
 .window-frame {
 	border-radius: 0;
-	border-left: 1px solid #C0B7B1;
+	/*border-left: 10px solid #ffbb7c;*/
+	border-top: 0 none;
 }
 
 .window-frame.maximized {
@@ -9,17 +10,25 @@
 
 .titlebar {
 	border-radius: 0;
-	border-bottom: 1px solid #C0B7B1;
+	/*border-bottom: 1px solid #C0B7B1;*/
+	border-bottom: 0 none;
+	border-left: 0 none;
+	/*border-bottom: 10px solid #ffbb7c;*/
 }
 
 .header-bar {
   background-image: none;
-  background-color: #FBFFF1;
+  background-color: rgb(251,255,241);
+  /*background-color: transparent;  */
   box-shadow: none;
 }
 
 
 /*
+ F9DC5C
+ 54eaff
+ 27e1fc
+ d9ff7c
 d1cfce
 c8c8c5
 5dc4e6

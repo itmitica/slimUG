@@ -110,7 +110,7 @@
 }
 
 #dashtodockContainer.dashtodock #dash {
-    background-color: #FBFFF1;
+    background-color: rgba(251,255,241,0.30);
 	/*border: 1px solid rgba(48,48,48,0.75);*/
 }
 
