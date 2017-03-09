@@ -23,7 +23,7 @@
 stage {
     font-family: sfns display, product sans, helvetica, open sans, source sans pro, segoe ui, ubuntu, nokia pure text, lucida grande, cantarell, sans-serif;
     font-size: 13pt;
-    color: #1E1E1E;}
+    color: #C0B7B1;}
 
 /* links */
 .shell-link {
@@ -684,7 +684,7 @@ StEntry:insensitive,
 
 #panel {
     background-gradient-direction:none;
-     background-color: #e9e9e9;
+     background-color: #FBFFF1;
     border-top:0px;border-right:0px;border-left:0px;
     font-weight: bold;
     height: 32px;}
