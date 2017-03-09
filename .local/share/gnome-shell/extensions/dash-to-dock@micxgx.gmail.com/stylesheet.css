@@ -92,7 +92,7 @@
     /*background-color: rgba(248,248,248,0.75);*/
     /*border: 1px solid rgba(48,48,48,0.75);*/
     background-image:none;
-    border-radius: 40px;
+    /*border-radius: 40px;*/
     padding: 8px;
     margin: 2px;
     /*margin-bottom: 10px;*/
@@ -100,17 +100,17 @@
 
 #dashtodockContainer.running-dots .app-well-app.focused  .overview-icon,
 #dashtodockContainer.dashtodock .app-well-app.focused  .overview-icon {
-    background-color: #A2D729;
+    background-color: #ADEF13;
     background-image:none;
-    /*border: 1px solid rgba(48,48,48,0.75);*/
-    border-radius: 40px;
+    border: 1px solid rgba(48,48,48,0.75);
+    /*border-radius: 40px;*/
     padding: 8px;
     margin: 2px;
     /*margin-bottom: 10px;*/
 }
 
 #dashtodockContainer.dashtodock #dash {
-    background-color: rgba(251,255,241,0.20);
+    background-color: rgba(244,255,253,0.65);
 	/*border: 1px solid rgba(48,48,48,0.75);*/
 }
 
