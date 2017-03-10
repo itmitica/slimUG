@@ -1,3 +1,9 @@
+
+GtkWindow {
+	margin: 20px;
+	padding: 20px;
+}
+
 .window-frame.maximized {
 	border-radius: 0;
 	border-left: 1px solid #c0ccd4;
