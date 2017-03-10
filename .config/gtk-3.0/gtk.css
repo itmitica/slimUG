@@ -1,7 +1,6 @@
 
 GtkWindow {
-	margin: 20px;
-	padding: 20px;
+	padding: 14px;
 }
 
 .window-frame.maximized {
