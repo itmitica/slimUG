@@ -100,7 +100,7 @@
 
 #dashtodockContainer.running-dots .app-well-app.focused  .overview-icon,
 #dashtodockContainer.dashtodock .app-well-app.focused  .overview-icon {
-    background-color: #a1c9f2;
+    background-color: #749fe3;
     background-image:none;
     /*border: 2px solid rgba(48,48,48,0.50);*/
     border-radius: 40px;
@@ -111,6 +111,7 @@
 
 #dashtodockContainer.dashtodock #dash {
     background-color: rgba(229,233,236,0.90);
+    margin-right: 5px;
 	/*border: 1px solid rgba(48,48,48,0.75);*/
 }
 

@@ -1,19 +1,57 @@
 
 GtkWindow {
-	padding: 14px;
+/*
+	padding: 10px;
+	background-color: #CED0CE;
+	border-top: 0 none;
+*/
 }
 
 .window-frame {
-	padding: 20px;
+	/*border-top: 0 none;*/
+/*
+	padding-left: 20px;
+	padding-bottom: 20px;
+	padding-right: 2px;
+*/
 }
 
 .window-frame.maximized {
+	/*border-top: 0 none;*/
 	border-radius: 0;
-	border-left: 1px solid #c0ccd4;
+	/*border-left: 1px solid #c0ccd4;*/
+}
+
+.titlebar {
+	/*border-bottom: 0 none;*/
+	padding: 10px;
 }
 
 .maximized .titlebar {
 	border-radius: 0;
-	border-top: 1px solid #c0ccd4;
-	border-left: 1px solid #c0ccd4;	
+	/*border-top: 0 none;
+	border-bottom: 0 none;*/
+	/*border-left: 1px solid #c0ccd4;*/
+/*
+	padding-top: 10px;
+*/
+}
+
+.header-bar {
+/*
+	background-color: #F1F2EE;
+	background-color: #F1F2EE;
+	background-image: none;
+	border-top: 0 none;
+	border-bottom: 0 none;
+*/
+}
+
+.scrollbar {
+/*
+  -GtkScrollbar-has-backward-stepper: true;
+  -GtkScrollbar-has-forward-stepper: true;
+  -GtkRange-slider-width: 30;
+  -GtkRange-stepper-size: 20;
+*/
 }
