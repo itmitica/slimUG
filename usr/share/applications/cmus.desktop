@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=cmus
+GenericName=C* music player
+Comment=cmus is a small, fast and powerful console music player for Unix-like operating systems.
+Exec=bash -c "cmus"
+Icon=cmus
+Terminal=true
+Type=Application
+Categories=Audio;
+
