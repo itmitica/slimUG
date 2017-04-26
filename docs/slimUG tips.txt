@@ -1,2 +1,7 @@
+mpv and open with
+mimeopen -d *.mkv
+mimeopen -d *.mp4
+mimeopen -d *.avi
+
 Gno-menu and Force quit
 Disabling activities hot corner in Gno-menu extension results in Force quit button to position before current window menu in panel.
