@@ -21,7 +21,7 @@
     <AllowOverColor>True</AllowOverColor>
     <InactivePanelBrightness>95</InactivePanelBrightness>
     <FreeSpaceIndicator>
-      <UseGradient>False</UseGradient>
+      <UseGradient>True</UseGradient>
       <ForeColor>0</ForeColor>
       <BackColor>16777215</BackColor>
     </FreeSpaceIndicator>
@@ -298,7 +298,7 @@
   <Fonts>
     <Main>
       <Name>default</Name>
-      <Size>13</Size>
+      <Size>14</Size>
       <Style>1</Style>
       <Quality>0</Quality>
     </Main>
@@ -351,11 +351,11 @@
     <DrivesListButton Enabled="False">
       <ShowLabel>False</ShowLabel>
       <ShowFileSystem>False</ShowFileSystem>
-      <ShowFreeSpace>True</ShowFreeSpace>
+      <ShowFreeSpace>False</ShowFreeSpace>
     </DrivesListButton>
     <SeparateTree>False</SeparateTree>
     <DirectoryTabs>True</DirectoryTabs>
-    <CurrentDirectory>False</CurrentDirectory>
+    <CurrentDirectory>True</CurrentDirectory>
     <TabHeader>False</TabHeader>
     <StatusBar>False</StatusBar>
     <CmdLine>True</CmdLine>
@@ -408,7 +408,7 @@
     <WipePassNumber>1</WipePassNumber>
     <DropReadOnlyFlag>False</DropReadOnlyFlag>
     <ProcessComments>False</ProcessComments>
-    <RenameSelOnlyName>False</RenameSelOnlyName>
+    <RenameSelOnlyName>True</RenameSelOnlyName>
     <ShowCopyTabSelectPanel>False</ShowCopyTabSelectPanel>
     <UseTrash>True</UseTrash>
     <SkipFileOpError>False</SkipFileOpError>
@@ -445,10 +445,10 @@
     <Options>34577</Options>
     <CharacterLimit>32</CharacterLimit>
     <Position>0</Position>
-    <ActionOnDoubleClick>2</ActionOnDoubleClick>
+    <ActionOnDoubleClick>3</ActionOnDoubleClick>
     <OpenedTabs>
       <Left>
-        <ActiveTab>6</ActiveTab>
+        <ActiveTab>3</ActiveTab>
         <Tab>
           <FileView Type="columns">
             <History>
@@ -555,8 +555,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="..">/home/doomy/Downloads/doublecmd-gtk2/</Path>
-                  <Path Filename="..">/home/doomy/Downloads/</Path>
                   <Path Filename=".adobe">/home/doomy/</Path>
                   <Path Filename="..">/home/doomy/.adobe/</Path>
                   <Path Filename="Downloads">/home/doomy/</Path>
@@ -589,7 +587,24 @@
                   <Path Filename="..">/home/doomy/Documents/</Path>
                   <Path Filename="Projects">/home/doomy/</Path>
                   <Path Filename="slimUG">/home/doomy/Projects/</Path>
-                  <Path Filename="">/home/doomy/Projects/slimUG/</Path>
+                  <Path Filename=".local">/home/doomy/Projects/slimUG/</Path>
+                  <Path Filename="share">/home/doomy/Projects/slimUG/.local/</Path>
+                  <Path Filename="icons">/home/doomy/Projects/slimUG/.local/share/</Path>
+                  <Path Filename="..">/home/doomy/Projects/slimUG/.local/share/icons/</Path>
+                  <Path Filename="..">/home/doomy/Projects/slimUG/.local/share/</Path>
+                  <Path Filename="..">/home/doomy/Projects/slimUG/.local/</Path>
+                  <Path Filename="usr">/home/doomy/Projects/slimUG/</Path>
+                  <Path Filename="share">/home/doomy/Projects/slimUG/usr/</Path>
+                  <Path Filename="applications">/home/doomy/Projects/slimUG/usr/share/</Path>
+                  <Path Filename="doublecmd.desktop">/home/doomy/Projects/slimUG/usr/share/applications/</Path>
+                  <Path Filename="applications">/home/doomy/Projects/slimUG/usr/share/</Path>
+                  <Path Filename="share">/home/doomy/Projects/slimUG/usr/</Path>
+                  <Path Filename=".config">/home/doomy/Projects/slimUG/</Path>
+                  <Path Filename="..">/home/doomy/Projects/slimUG/.config/</Path>
+                  <Path Filename="usr">/home/doomy/Projects/slimUG/</Path>
+                  <Path Filename="share">/home/doomy/Projects/slimUG/usr/</Path>
+                  <Path Filename="applications">/home/doomy/Projects/slimUG/usr/share/</Path>
+                  <Path Filename="doublecmd.desktop">/home/doomy/Projects/slimUG/usr/share/applications/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -753,7 +768,8 @@
                   <Path Filename="fiscalforms">/home/doomy/Projects/</Path>
                   <Path Filename="..">/home/doomy/Projects/fiscalforms/</Path>
                   <Path Filename="Public">/home/doomy/</Path>
-                  <Path Filename="tabula">/home/doomy/Public/</Path>
+                  <Path Filename="doublecmd-gtk2">/home/doomy/Public/</Path>
+                  <Path Filename="">/home/doomy/Public/doublecmd-gtk2/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -764,7 +780,7 @@
         </Tab>
       </Left>
       <Right>
-        <ActiveTab>5</ActiveTab>
+        <ActiveTab>0</ActiveTab>
         <Tab>
           <FileView Type="columns">
             <History>
@@ -783,7 +799,7 @@
                   <Path Filename="scalable">/home/doomy/.local/share/icons/slimAdwaita/apps/</Path>
                   <Path Filename="..">/home/doomy/.local/share/icons/slimAdwaita/apps/scalable/</Path>
                   <Path Filename="Downloads">/home/doomy/</Path>
-                  <Path Filename="">/home/doomy/Downloads/</Path>
+                  <Path Filename="..">/home/doomy/Downloads/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -852,7 +868,8 @@
                   <Path Filename="backgrounds">/home/doomy/.local/share/themes/slimAdwaita/</Path>
                   <Path Filename="..">/home/doomy/.local/share/themes/slimAdwaita/backgrounds/</Path>
                   <Path Filename="backgrounds">/home/doomy/.local/share/themes/slimAdwaita/</Path>
-                  <Path Filename="">/home/doomy/.local/share/themes/</Path>
+                  <Path Filename="slimAdwaita">/home/doomy/.local/share/themes/</Path>
+                  <Path Filename="">/home/doomy/.local/share/themes/slimAdwaita/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -944,7 +961,8 @@
                   <Path Filename="backgrounds">/home/doomy/.local/share/themes/slimAdwaita/</Path>
                   <Path Filename="slimAdwaita">/home/doomy/.local/share/themes/</Path>
                   <Path Filename=".config">/home/doomy/</Path>
-                  <Path Filename="">/home/doomy/.config/</Path>
+                  <Path Filename="doublecmd">/home/doomy/.config/</Path>
+                  <Path Filename="">/home/doomy/.config/doublecmd/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -993,7 +1011,68 @@
                   <Path Filename="usr">/</Path>
                   <Path Filename="share">/usr/</Path>
                   <Path Filename="applications">/usr/share/</Path>
-                  <Path Filename="atom.desktop">/usr/share/applications/</Path>
+                  <Path Filename="">/usr/share/applications/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/home/doomy/Downloads/doublecmd-gtk2/</Path>
+                  <Path Filename="..">/home/doomy/Downloads/</Path>
+                  <Path Filename="Downloads">/home/doomy/</Path>
+                  <Path Filename="doublecmd-gtk2">/home/doomy/Downloads/</Path>
+                  <Path Filename=".local">/home/doomy/</Path>
+                  <Path Filename="share">/home/doomy/.local/</Path>
+                  <Path Filename="icons">/home/doomy/.local/share/</Path>
+                  <Path Filename="slimAdwaita">/home/doomy/.local/share/icons/</Path>
+                  <Path Filename="apps">/home/doomy/.local/share/icons/slimAdwaita/</Path>
+                  <Path Filename="scalable">/home/doomy/.local/share/icons/slimAdwaita/apps/</Path>
+                  <Path Filename="..">/home/doomy/.local/share/icons/slimAdwaita/apps/scalable/</Path>
+                  <Path Filename="Downloads">/home/doomy/</Path>
+                  <Path Filename="..">/home/doomy/Downloads/</Path>
+                  <Path Filename=".local">/home/doomy/</Path>
+                  <Path Filename="share">/home/doomy/.local/</Path>
+                  <Path Filename="themes">/home/doomy/.local/share/</Path>
+                  <Path Filename="slimAdwaita">/home/doomy/.local/share/themes/</Path>
+                  <Path Filename="gnome-shell">/home/doomy/.local/share/themes/slimAdwaita/</Path>
+                  <Path Filename="..">/home/doomy/.local/share/themes/slimAdwaita/gnome-shell/</Path>
+                  <Path Filename="gnome-shell">/home/doomy/.local/share/themes/slimAdwaita/</Path>
+                  <Path Filename="assets">/home/doomy/.local/share/themes/slimAdwaita/gnome-shell/</Path>
+                  <Path Filename="..">/home/doomy/.local/share/themes/slimAdwaita/gnome-shell/assets/</Path>
+                  <Path Filename="assets">/home/doomy/.local/share/themes/slimAdwaita/gnome-shell/</Path>
+                  <Path Filename="backgrounds">/home/doomy/.local/share/themes/slimAdwaita/</Path>
+                  <Path Filename="..">/home/doomy/.local/share/themes/slimAdwaita/backgrounds/</Path>
+                  <Path Filename="backgrounds">/home/doomy/.local/share/themes/slimAdwaita/</Path>
+                  <Path Filename="slimAdwaita">/home/doomy/.local/share/themes/</Path>
+                  <Path Filename=".config">/home/doomy/</Path>
+                  <Path Filename="..">/home/doomy/.config/</Path>
+                  <Path Filename="..">/home/doomy/</Path>
+                  <Path Filename="..">/home/</Path>
+                  <Path Filename="usr">/</Path>
+                  <Path Filename="share">/usr/</Path>
+                  <Path Filename="applications">/usr/share/</Path>
+                  <Path Filename="..">/usr/share/applications/</Path>
+                  <Path Filename="..">/usr/share/</Path>
+                  <Path Filename="bin">/usr/</Path>
+                  <Path Filename="..">/usr/bin/</Path>
+                  <Path Filename="bin">/usr/</Path>
+                  <Path Filename="X11">/usr/bin/</Path>
+                  <Path Filename="X11">/usr/bin/X11/</Path>
+                  <Path Filename="..">/usr/bin/X11/X11/</Path>
+                  <Path Filename="X11">/usr/bin/X11/</Path>
+                  <Path Filename="X11">/usr/bin/</Path>
+                  <Path Filename="games">/usr/</Path>
+                  <Path Filename="..">/usr/games/</Path>
+                  <Path Filename="">/usr/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -1099,7 +1178,7 @@
   </SyncDirs>
   <InternalAssociations>
     <OfferToAddNewFileType>False</OfferToAddNewFileType>
-    <LastCustomAction>Custom action</LastCustomAction>
+    <LastCustomAction>Edit as root</LastCustomAction>
     <ExpandedContextMenu>False</ExpandedContextMenu>
     <ExecuteViaShell>False</ExecuteViaShell>
     <OpenSystemWithTerminalClose>False</OpenSystemWithTerminalClose>
