@@ -3,23 +3,29 @@
  * Control spacing between each button via .button-box.
  */
 .box-bin { 
-    border-width: 0px;
-    padding: 0px;
-    margin: 0px;
+	/*border-top: 2px solid rgb(190,190,190);
+    border-bottom: 4px solid rgb(190,190,190);
+    border-left: 3px solid rgb(190,190,190);
+    border-right: 3px solid rgb(190,190,190);*/
+    border-radius: 5px;
+	padding: 0px;
+	margin: 0px;
+    /*background-color: rgba(74,144,217,1);*/
 }
 
 .button-box {
-    /*spacing: 4px;*/
+	spacing: 0px;
 }
 
 /* The style for each individual window button */
 .window-button {
-    width: 32px;
-    height: 32px;
+	width: 32px;
+	height: 32px;
 }
 
 /* The style for the window button when hovered over */
 .window-button:hover {
+    background-color: rgba(74,144,217,1);
 }
 
 /* Here you can style each individual button. You need to define style classes
@@ -30,27 +36,27 @@
  */
 /* Style for the minimize button */
 .minimize {
-    background-image: url('min.svg');
+	background-image: url('min.svg');
 }
 
 .minimize:hover {
-    background-image: url('min_hover.svg');
+	background-image: url('min_hover.svg');
 }
 
 /* Style for the maximize button */
 .maximize {
-    background-image: url('max.svg');
+	background-image: url('max.svg');
 }
 
 .maximize:hover {
-    background-image: url('max_hover.svg');
+	background-image: url('max_hover.svg');
 }
 
 /* Style for the close button */
 .close {
-    background-image: url('close.svg');
+	background-image: url('close.svg');
 }
 
 .close:hover {
-    background-image: url('close_hover.svg');
+	background-image: url('close_hover.svg');
 }
