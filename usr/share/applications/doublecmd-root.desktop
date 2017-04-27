@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
-Name=Double Commander
+Name=Root Double Commander
 Categories=System;FileTools;Utility;Core;GTK;FileManager;
-Exec=/home/doomy/Public/doublecmd-gtk2/doublecmd
+Exec=gksudo /home/doomy/Public/doublecmd-gtk2/doublecmd
 Icon=doublecmd
 Type=Application
 Terminal=false
