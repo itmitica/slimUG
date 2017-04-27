@@ -458,7 +458,7 @@
                   <Path Filename="..">/home/doomy/Downloads/doublecmd-gtk2/</Path>
                   <Path Filename="..">/home/doomy/Downloads/</Path>
                   <Path Filename="Videos">/home/doomy/</Path>
-                  <Path Filename="">/home/doomy/Videos/</Path>
+                  <Path Filename="..">/home/doomy/Videos/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -555,19 +555,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename=".adobe">/home/doomy/</Path>
-                  <Path Filename="..">/home/doomy/.adobe/</Path>
-                  <Path Filename="Downloads">/home/doomy/</Path>
-                  <Path Filename="..">/home/doomy/Downloads/</Path>
-                  <Path Filename="Videos">/home/doomy/</Path>
-                  <Path Filename="..">/home/doomy/Videos/</Path>
-                  <Path Filename="Projects">/home/doomy/</Path>
-                  <Path Filename="fix webpage logo">/home/doomy/Projects/</Path>
-                  <Path Filename="..">/home/doomy/Projects/fix webpage logo/</Path>
-                  <Path Filename="forms - clean black and white">/home/doomy/Projects/</Path>
-                  <Path Filename="html5-forms">/home/doomy/Projects/forms - clean black and white/</Path>
-                  <Path Filename="..">/home/doomy/Projects/forms - clean black and white/html5-forms/</Path>
-                  <Path Filename="..">/home/doomy/Projects/forms - clean black and white/</Path>
                   <Path Filename="agreentweak">/home/doomy/Projects/</Path>
                   <Path Filename="..">/home/doomy/Projects/agreentweak/</Path>
                   <Path Filename="..">/home/doomy/Projects/</Path>
@@ -604,7 +591,20 @@
                   <Path Filename="usr">/home/doomy/Projects/slimUG/</Path>
                   <Path Filename="share">/home/doomy/Projects/slimUG/usr/</Path>
                   <Path Filename="applications">/home/doomy/Projects/slimUG/usr/share/</Path>
-                  <Path Filename="doublecmd.desktop">/home/doomy/Projects/slimUG/usr/share/applications/</Path>
+                  <Path Filename="doublecmd-root.desktop">/home/doomy/Projects/slimUG/usr/share/applications/</Path>
+                  <Path Filename="applications">/home/doomy/Projects/slimUG/usr/share/</Path>
+                  <Path Filename="share">/home/doomy/Projects/slimUG/usr/</Path>
+                  <Path Filename="usr">/home/doomy/Projects/slimUG/</Path>
+                  <Path Filename="share">/home/doomy/Projects/slimUG/usr/</Path>
+                  <Path Filename="applications">/home/doomy/Projects/slimUG/usr/share/</Path>
+                  <Path Filename="..">/home/doomy/Projects/slimUG/usr/share/applications/</Path>
+                  <Path Filename="applications">/home/doomy/Projects/slimUG/usr/share/</Path>
+                  <Path Filename="share">/home/doomy/Projects/slimUG/usr/</Path>
+                  <Path Filename=".config">/home/doomy/Projects/slimUG/</Path>
+                  <Path Filename="doublecmd">/home/doomy/Projects/slimUG/.config/</Path>
+                  <Path Filename="..">/home/doomy/Projects/slimUG/.config/doublecmd/</Path>
+                  <Path Filename="doublecmd">/home/doomy/Projects/slimUG/.config/</Path>
+                  <Path Filename=".config">/home/doomy/Projects/slimUG/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -656,7 +656,7 @@
                   <Path Filename="LICENSE">/home/doomy/Projects/slimUG/</Path>
                   <Path Filename="Projects">/home/doomy/</Path>
                   <Path Filename="restapi">/home/doomy/Projects/</Path>
-                  <Path Filename="">/home/doomy/Projects/restapi/</Path>
+                  <Path Filename="..">/home/doomy/Projects/restapi/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -711,7 +711,7 @@
                   <Path Filename="..">/home/doomy/Projects/restapi/</Path>
                   <Path Filename="Projects">/home/doomy/</Path>
                   <Path Filename="fiscalforms">/home/doomy/Projects/</Path>
-                  <Path Filename="">/home/doomy/Projects/fiscalforms/</Path>
+                  <Path Filename="json">/home/doomy/Projects/fiscalforms/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -769,7 +769,13 @@
                   <Path Filename="..">/home/doomy/Projects/fiscalforms/</Path>
                   <Path Filename="Public">/home/doomy/</Path>
                   <Path Filename="doublecmd-gtk2">/home/doomy/Public/</Path>
-                  <Path Filename="">/home/doomy/Public/doublecmd-gtk2/</Path>
+                  <Path Filename="plugins">/home/doomy/Public/doublecmd-gtk2/</Path>
+                  <Path Filename="serviio-1.8">/home/doomy/Public/</Path>
+                  <Path Filename="bin">/home/doomy/Public/serviio-1.8/</Path>
+                  <Path Filename="..">/home/doomy/Public/serviio-1.8/bin/</Path>
+                  <Path Filename="..">/home/doomy/Public/serviio-1.8/</Path>
+                  <Path Filename="doublecmd-gtk2">/home/doomy/Public/</Path>
+                  <Path Filename="doc">/home/doomy/Public/doublecmd-gtk2/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -780,7 +786,7 @@
         </Tab>
       </Left>
       <Right>
-        <ActiveTab>0</ActiveTab>
+        <ActiveTab>4</ActiveTab>
         <Tab>
           <FileView Type="columns">
             <History>
@@ -962,7 +968,7 @@
                   <Path Filename="slimAdwaita">/home/doomy/.local/share/themes/</Path>
                   <Path Filename=".config">/home/doomy/</Path>
                   <Path Filename="doublecmd">/home/doomy/.config/</Path>
-                  <Path Filename="">/home/doomy/.config/doublecmd/</Path>
+                  <Path Filename="shortcuts.scf">/home/doomy/.config/doublecmd/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -1011,7 +1017,7 @@
                   <Path Filename="usr">/</Path>
                   <Path Filename="share">/usr/</Path>
                   <Path Filename="applications">/usr/share/</Path>
-                  <Path Filename="">/usr/share/applications/</Path>
+                  <Path Filename="doublecmd-root.desktop">/usr/share/applications/</Path>
                 </Paths>
               </Entry>
             </History>

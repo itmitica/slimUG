@@ -2,15 +2,16 @@
 <doublecmd>
   <History>
     <Navigation>
+      <Item>/home/doomy/Projects/slimUG/</Item>
+      <Item>/home/doomy/Projects/slimUG/.config/</Item>
+      <Item>/home/doomy/Projects/slimUG/.config/doublecmd/</Item>
+      <Item>/home/doomy/Projects/slimUG/usr/</Item>
       <Item>/home/doomy/Public/doublecmd-gtk2/</Item>
       <Item>/home/doomy/Public/</Item>
       <Item>/home/doomy/Public/serviio-1.8/</Item>
       <Item>/home/doomy/Projects/slimUG/usr/share/</Item>
       <Item>/home/doomy/Projects/slimUG/usr/share/applications/</Item>
-      <Item>/home/doomy/Projects/slimUG/usr/</Item>
-      <Item>/home/doomy/Projects/slimUG/</Item>
       <Item>/home/doomy/Public/serviio-1.8/bin/</Item>
-      <Item>/home/doomy/Projects/slimUG/.config/</Item>
       <Item>/</Item>
       <Item>/home/doomy/Downloads/</Item>
       <Item>/home/doomy/.config/doublecmd/</Item>
@@ -52,7 +53,6 @@
       <Item>/home/doomy/Music/SELECTII/</Item>
       <Item>/home/doomy/Music/SELECTII/chillout/</Item>
       <Item>/home/doomy/Videos/</Item>
-      <Item>/home/doomy/Pictures/</Item>
     </Navigation>
     <CommandLine/>
     <FileMask>
