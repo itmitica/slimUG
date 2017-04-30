@@ -21,8 +21,8 @@
     <AllowOverColor>True</AllowOverColor>
     <InactivePanelBrightness>95</InactivePanelBrightness>
     <FreeSpaceIndicator>
-      <UseGradient>True</UseGradient>
-      <ForeColor>0</ForeColor>
+      <UseGradient>False</UseGradient>
+      <ForeColor>-2147483626</ForeColor>
       <BackColor>16777215</BackColor>
     </FreeSpaceIndicator>
   </Colors>
@@ -358,13 +358,13 @@
     <CurrentDirectory>True</CurrentDirectory>
     <TabHeader>False</TabHeader>
     <StatusBar>False</StatusBar>
-    <CmdLine>True</CmdLine>
+    <CmdLine>False</CmdLine>
     <LogWindow>False</LogWindow>
     <TermWindow>False</TermWindow>
     <KeyButtons>False</KeyButtons>
     <InterfaceFlat>True</InterfaceFlat>
     <DriveFreeSpace>False</DriveFreeSpace>
-    <DriveIndicator>False</DriveIndicator>
+    <DriveIndicator>True</DriveIndicator>
     <ProgressInMenuBar>True</ProgressInMenuBar>
     <PanelOfOperationsInBackground>True</PanelOfOperationsInBackground>
     <HorizontalFilePanels>True</HorizontalFilePanels>
@@ -448,7 +448,7 @@
     <ActionOnDoubleClick>3</ActionOnDoubleClick>
     <OpenedTabs>
       <Left>
-        <ActiveTab>3</ActiveTab>
+        <ActiveTab>0</ActiveTab>
         <Tab>
           <FileView Type="columns">
             <History>
@@ -458,7 +458,9 @@
                   <Path Filename="..">/home/doomy/Downloads/doublecmd-gtk2/</Path>
                   <Path Filename="..">/home/doomy/Downloads/</Path>
                   <Path Filename="Videos">/home/doomy/</Path>
-                  <Path Filename="..">/home/doomy/Videos/</Path>
+                  <Path Filename="nosub">/home/doomy/Videos/</Path>
+                  <Path Filename="..">/home/doomy/Videos/nosub/</Path>
+                  <Path Filename="Genius S01E01 HDTV x264-RMTeam.srt">/home/doomy/Videos/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -496,7 +498,11 @@
                   <Path Filename="Music">/home/doomy/</Path>
                   <Path Filename="SELECTII">/home/doomy/Music/</Path>
                   <Path Filename="chillout">/home/doomy/Music/SELECTII/</Path>
-                  <Path Filename="">/home/doomy/Music/SELECTII/chillout/</Path>
+                  <Path Filename="Body Language - Cant Hang On.mp3">/home/doomy/Music/SELECTII/chillout/</Path>
+                  <Path Filename="Music">/home/doomy/</Path>
+                  <Path Filename="SELECTII">/home/doomy/Music/</Path>
+                  <Path Filename="chillout">/home/doomy/Music/SELECTII/</Path>
+                  <Path Filename="Equador - Blood.mp3">/home/doomy/Music/SELECTII/chillout/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -555,10 +561,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="agreentweak">/home/doomy/Projects/</Path>
-                  <Path Filename="..">/home/doomy/Projects/agreentweak/</Path>
-                  <Path Filename="..">/home/doomy/Projects/</Path>
-                  <Path Filename="Pictures">/home/doomy/</Path>
                   <Path Filename="..">/home/doomy/Pictures/</Path>
                   <Path Filename="Music">/home/doomy/</Path>
                   <Path Filename="SELECTII">/home/doomy/Music/</Path>
@@ -605,6 +607,10 @@
                   <Path Filename="..">/home/doomy/Projects/slimUG/.config/doublecmd/</Path>
                   <Path Filename="doublecmd">/home/doomy/Projects/slimUG/.config/</Path>
                   <Path Filename=".config">/home/doomy/Projects/slimUG/</Path>
+                  <Path Filename="doublecmd">/home/doomy/Projects/slimUG/.config/</Path>
+                  <Path Filename="session.ini">/home/doomy/Projects/slimUG/.config/doublecmd/</Path>
+                  <Path Filename="doublecmd">/home/doomy/Projects/slimUG/.config/</Path>
+                  <Path Filename="">/home/doomy/Projects/slimUG/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -656,7 +662,7 @@
                   <Path Filename="LICENSE">/home/doomy/Projects/slimUG/</Path>
                   <Path Filename="Projects">/home/doomy/</Path>
                   <Path Filename="restapi">/home/doomy/Projects/</Path>
-                  <Path Filename="..">/home/doomy/Projects/restapi/</Path>
+                  <Path Filename="">/home/doomy/Projects/restapi/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -711,7 +717,7 @@
                   <Path Filename="..">/home/doomy/Projects/restapi/</Path>
                   <Path Filename="Projects">/home/doomy/</Path>
                   <Path Filename="fiscalforms">/home/doomy/Projects/</Path>
-                  <Path Filename="json">/home/doomy/Projects/fiscalforms/</Path>
+                  <Path Filename="">/home/doomy/Projects/fiscalforms/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -726,9 +732,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="..">/home/doomy/Downloads/doublecmd-gtk2/</Path>
-                  <Path Filename="..">/home/doomy/Downloads/</Path>
-                  <Path Filename=".adobe">/home/doomy/</Path>
                   <Path Filename="..">/home/doomy/.adobe/</Path>
                   <Path Filename="Downloads">/home/doomy/</Path>
                   <Path Filename="..">/home/doomy/Downloads/</Path>
@@ -776,6 +779,9 @@
                   <Path Filename="..">/home/doomy/Public/serviio-1.8/</Path>
                   <Path Filename="doublecmd-gtk2">/home/doomy/Public/</Path>
                   <Path Filename="doc">/home/doomy/Public/doublecmd-gtk2/</Path>
+                  <Path Filename="serviio-1.8">/home/doomy/Public/</Path>
+                  <Path Filename="bin">/home/doomy/Public/serviio-1.8/</Path>
+                  <Path Filename="serviio-console.sh">/home/doomy/Public/serviio-1.8/bin/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -786,7 +792,7 @@
         </Tab>
       </Left>
       <Right>
-        <ActiveTab>4</ActiveTab>
+        <ActiveTab>0</ActiveTab>
         <Tab>
           <FileView Type="columns">
             <History>
@@ -805,6 +811,32 @@
                   <Path Filename="scalable">/home/doomy/.local/share/icons/slimAdwaita/apps/</Path>
                   <Path Filename="..">/home/doomy/.local/share/icons/slimAdwaita/apps/scalable/</Path>
                   <Path Filename="Downloads">/home/doomy/</Path>
+                  <Path Filename="Colossal.2016.HC.HDRip.XviD.AC3-FK">/home/doomy/Downloads/</Path>
+                  <Path Filename="Torrent Downloaded From ExtraTorrent.cc.txt">/home/doomy/Downloads/Colossal.2016.HC.HDRip.XviD.AC3-FK/</Path>
+                  <Path Filename="Ancient.Aliens.S12E01.HDTV.x264-KILLERS[ettv]">/home/doomy/Downloads/</Path>
+                  <Path Filename="Torrent-Downloaded-from-ExtraTorrent.cc.txt">/home/doomy/Downloads/Ancient.Aliens.S12E01.HDTV.x264-KILLERS[ettv]/</Path>
+                  <Path Filename="Outlaw.Tech.S01E01.HDTV.x264-[NY2] - [SRIGGA]">/home/doomy/Downloads/</Path>
+                  <Path Filename="Torrent Downloaded From ExtraTorrent.cc.txt">/home/doomy/Downloads/Outlaw.Tech.S01E01.HDTV.x264-[NY2] - [SRIGGA]/</Path>
+                  <Path Filename="caja-1.16.5">/home/doomy/Downloads/</Path>
+                  <Path Filename="..">/home/doomy/Downloads/caja-1.16.5/</Path>
+                  <Path Filename="vifm-0.8.2">/home/doomy/Downloads/</Path>
+                  <Path Filename="..">/home/doomy/Downloads/vifm-0.8.2/</Path>
+                  <Path Filename="bsc">/home/doomy/Downloads/</Path>
+                  <Path Filename="licence.txt">/home/doomy/Downloads/bsc/</Path>
+                  <Path Filename="muCommander-0.9.1">/home/doomy/Downloads/</Path>
+                  <Path Filename="readme.txt">/home/doomy/Downloads/muCommander-0.9.1/</Path>
+                  <Path Filename="tuxcmd-0.6.70-bin-x86_64">/home/doomy/Downloads/</Path>
+                  <Path Filename="tuxcmd">/home/doomy/Downloads/tuxcmd-0.6.70-bin-x86_64/</Path>
+                  <Path Filename="Samurai.Jack.S05E07.HDTV.x264-W4F[ettv]">/home/doomy/Downloads/</Path>
+                  <Path Filename="Torrent-Downloaded-from-ExtraTorrent.cc.txt">/home/doomy/Downloads/Samurai.Jack.S05E07.HDTV.x264-W4F[ettv]/</Path>
+                  <Path Filename="Tent.And.Sex.S01E01.Male.Insecurity.HDTV.x264-CBFM - [SRIGGA]">/home/doomy/Downloads/</Path>
+                  <Path Filename="Torrent Downloaded From ExtraTorrent.cc.txt">/home/doomy/Downloads/Tent.And.Sex.S01E01.Male.Insecurity.HDTV.x264-CBFM - [SRIGGA]/</Path>
+                  <Path Filename="VICE.S05E09.HDTV.x264-aAF[ettv]">/home/doomy/Downloads/</Path>
+                  <Path Filename="Torrent-Downloaded-from-ExtraTorrent.cc.txt">/home/doomy/Downloads/VICE.S05E09.HDTV.x264-aAF[ettv]/</Path>
+                  <Path Filename="Doctor.Who.2005.S10E03.HDTV.x264-MTB[ettv]">/home/doomy/Downloads/</Path>
+                  <Path Filename="Torrent-Downloaded-from-ExtraTorrent.cc.txt">/home/doomy/Downloads/Doctor.Who.2005.S10E03.HDTV.x264-MTB[ettv]/</Path>
+                  <Path Filename="Planet of the Apes The Complete TV Series (1974)">/home/doomy/Downloads/</Path>
+                  <Path Filename="Episode 2 The Gladiators.mp4.part">/home/doomy/Downloads/Planet of the Apes The Complete TV Series (1974)/</Path>
                   <Path Filename="..">/home/doomy/Downloads/</Path>
                 </Paths>
               </Entry>
@@ -968,7 +1000,8 @@
                   <Path Filename="slimAdwaita">/home/doomy/.local/share/themes/</Path>
                   <Path Filename=".config">/home/doomy/</Path>
                   <Path Filename="doublecmd">/home/doomy/.config/</Path>
-                  <Path Filename="shortcuts.scf">/home/doomy/.config/doublecmd/</Path>
+                  <Path Filename="history.xml">/home/doomy/.config/doublecmd/</Path>
+                  <Path Filename="">/home/doomy/.config/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -1017,7 +1050,7 @@
                   <Path Filename="usr">/</Path>
                   <Path Filename="share">/usr/</Path>
                   <Path Filename="applications">/usr/share/</Path>
-                  <Path Filename="doublecmd-root.desktop">/usr/share/applications/</Path>
+                  <Path Filename="">/usr/share/applications/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -1226,7 +1259,7 @@
           <Align>0</Align>
           <Font>
             <Name>default</Name>
-            <Size>13</Size>
+            <Size>14</Size>
             <Style>1</Style>
             <Quality>0</Quality>
           </Font>
