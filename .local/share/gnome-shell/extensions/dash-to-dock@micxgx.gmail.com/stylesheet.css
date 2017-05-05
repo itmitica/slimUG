@@ -100,9 +100,10 @@
 
 #dashtodockContainer.running-dots .app-well-app.focused  .overview-icon,
 #dashtodockContainer.dashtodock .app-well-app.focused  .overview-icon {
-    background-color: #749fe3;
+    /*background-color: #749fe3;*/
+    background-color:rgba(255,255,255,0.55);
     background-image:none;
-    /*border: 2px solid rgba(48,48,48,0.50);*/
+    /*border: 2px solid rgba(48,48,48,0.75);*/
     border-radius: 40px;
     padding: 8px;
     margin: 2px;
@@ -110,8 +111,17 @@
 }
 
 #dashtodockContainer.dashtodock #dash {
-    background-color: rgba(229,233,236,0.90);
-    margin-right: 3px;
+    /*background-color: rgba(229,233,236,0.90);*/
+    background-image: url("backgrounds/1962551.jpg");
+    /*background-image: url("backgrounds/47882557-free-spring-wallpaper.jpg");*/
+    /*background-image: url("backgrounds/7040059-sprink-pink-cherry-blossom.jpg");*/
+    /*background-image: url("backgrounds/cherry-blossom-2148846_1920.jpg");*/
+    /*background-image: url("backgrounds/Free-Spring-Wallpaper.jpg");*/
+    /*background-image: url("backgrounds/japan-2218765_1920.jpg");*/
+    /*background-image: url("backgrounds/spring blossom tree.jpg");*/
+    /*background-image: url("backgrounds/.jpg");*/
+    background-position: 0px -32px;
+    /*margin-right: 3px;*/
 	/*border: 1px solid rgba(48,48,48,0.75);*/
 }
 

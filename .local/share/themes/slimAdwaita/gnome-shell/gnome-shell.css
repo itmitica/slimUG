@@ -685,12 +685,18 @@ StEntry:insensitive,
 #panel {
     /*background-gradient-direction:none;*/
     /*background-color: rgba(229,233,236,0.90);*/
-    /*background: transparent;*/
-    background-image: url("blur2.jpg");
-    background-repeat: repeat;
+    background-image: url("backgrounds/1962551.jpg");
+    /*background-image: url("backgrounds/47882557-free-spring-wallpaper.jpg");*/
+    /*background-image: url("backgrounds/7040059-sprink-pink-cherry-blossom.jpg");*/
+    /*background-image: url("backgrounds/cherry-blossom-2148846_1920.jpg");*/
+    /*background-image: url("backgrounds/Free-Spring-Wallpaper.jpg");*/
+    /*background-image: url("backgrounds/japan-2218765_1920.jpg");*/
+    /*background-image: url("backgrounds/spring blossom tree.jpg");*/
+    /*background-image: url("backgrounds/.jpg");*/
+    background-position: 0 0;
     border-top:0px;border-right:0px;border-left:0px;
     font-weight: bold;
-    margin-bottom: 3px;
+    /*margin-bottom: 3px;*/
     height: 32px;}
 #panel:overview {
     background-color: transparent;
@@ -1179,9 +1185,10 @@ box-shadow: 0px 1px 2px rgba(0,0,0,.5);}
 .list-search-result:hover,
 .grid-search-result:hover .overview-icon {
 	color:white;
-	border-color:transparent;
+	border: 1px rgba(255,255,255,0.35);
 	background-gradient-direction:none;
-	background-color: rgba(74,144,217,.5);
+	/*background-color: rgba(74,144,217,.5);*/
+    background-color:rgba(255,255,255,0.35);
 	text-shadow: 0px 1px 2px 0px black !important;
 	transition-duration: 100ms;
 }
@@ -1219,7 +1226,8 @@ SHOW ALL APPS BUTTON
 .search-provider-icon:active,
 .list-search-result:active {
     border: 1px transparent;
-    background: rgba(74,144,217,0.3);
+    /*background: rgba(74,144,217,0.3);*/
+    background:rgba(255,255,255,0.75);
     background-gradient-direction: none;
     box-shadow: inset 0px 0px 5px 0px rgba(74,144,217,0.4);
     transition-duration: 100ms;
