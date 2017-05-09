@@ -685,13 +685,8 @@ StEntry:insensitive,
 #panel {
     /*background-gradient-direction:none;*/
     /*background-color: rgba(229,233,236,0.90);*/
-
-    background-image: url("backgrounds/7040059-sprink-pink-cherry-blossom.jpg");
-    /*background-image: url("backgrounds/Free-Spring-Wallpaper.jpg");*/
-    /*background-image: url("backgrounds/kawazu-1322351_1920.jpg");*/
-    /*background-image: url("backgrounds/pexels-photo-92997.jpg");*/
     
-    /*background-image: url("backgrounds/.jpg");*/
+    background-image: url("backgrounds/current.jpg");
     background-position: 0 0;
     border-top:0px;border-right:0px;border-left:0px;
     font-weight: bold;
