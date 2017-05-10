@@ -22,7 +22,7 @@
 /* default text style */
 stage {
     font-family: sfns display, product sans, helvetica, open sans, source sans pro, segoe ui, ubuntu, nokia pure text, lucida grande, cantarell, sans-serif;
-    font-size: 13pt;
+    font-size: 12pt;
     color: #C0B7B1;}
 
 /* links */
@@ -684,14 +684,14 @@ StEntry:insensitive,
 
 #panel {
     /*background-gradient-direction:none;*/
-    /*background-color: rgba(229,233,236,0.90);*/
-    
-    background-image: url("backgrounds/current.jpg");
-    background-position: 0 0;
+background-color: rgba(224,224,224,0.90);    
+    /*background-image: url("backgrounds/current.jpg");*/
+    /*background-position: 0 0;*/
+   	border: 1px solid rgba(167,171,167,1.0);
     border-top:0px;border-right:0px;border-left:0px;
-    font-weight: bold;
-    /*margin-bottom: 3px;*/
-    height: 32px;}
+    /*font-weight: bold;*/
+    /*margin-bottom: 1px;*/
+    height: 34px;}
 #panel:overview {
     background-color: transparent;
     border-color: transparent;
