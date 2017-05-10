@@ -89,7 +89,7 @@
 /* Running and focused application style */
 #dashtodockContainer.running-dots .app-well-app  .overview-icon,
 #dashtodockContainer.dashtodock .app-well-app  .overview-icon {
-    /*background-color: rgba(248,248,248,0.75);*/
+    /*background-color: #ccff42;*/
     /*border: 2px transparent;*/
     background-image:none;
     border-radius: 40px;
@@ -100,8 +100,8 @@
 
 #dashtodockContainer.running-dots .app-well-app.focused  .overview-icon,
 #dashtodockContainer.dashtodock .app-well-app.focused  .overview-icon {
-    /*background-color: #749fe3;*/
-    background-color:rgba(255,255,255,0.55);
+    background-color: #e8cb00;
+    /*background-color:rgba(193,193,193,1);*/
     background-image:none;
     /*border: 2px solid rgba(48,48,48,0.75);*/
     border-radius: 40px;
@@ -111,7 +111,7 @@
 }
 
 #dashtodockContainer.dashtodock #dash {
-    background-color: rgba(224,224,224,0.90);
+    background-color: #f6f6f6;
 
     /*background-image: url("backgrounds/current.jpg");*/
     /*background-position: 0px -32px;*/

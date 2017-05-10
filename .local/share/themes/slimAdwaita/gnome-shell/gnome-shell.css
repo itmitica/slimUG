@@ -684,7 +684,7 @@ StEntry:insensitive,
 
 #panel {
     /*background-gradient-direction:none;*/
-background-color: rgba(224,224,224,0.90);    
+background-color: #f6f6f6;    
     /*background-image: url("backgrounds/current.jpg");*/
     /*background-position: 0 0;*/
    	border: 1px solid rgba(167,171,167,1.0);
