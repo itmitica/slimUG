@@ -684,10 +684,10 @@ StEntry:insensitive,
 
 #panel {
     /*background-gradient-direction:none;*/
-background-color: #f6f6f6;    
+    background-color: #fff;    
     /*background-image: url("backgrounds/current.jpg");*/
     /*background-position: 0 0;*/
-   	border: 1px solid rgba(167,171,167,1.0);
+   	border: 1px solid rgba(213,213,213,1.0);
     border-top:0px;border-right:0px;border-left:0px;
     /*font-weight: bold;*/
     /*margin-bottom: 1px;*/
@@ -1130,7 +1130,7 @@ box-shadow: 0px 1px 2px rgba(0,0,0,.5);}
 .grid-search-result .overview-icon {/*radius app DASH*/
     border-radius: 5px;
     padding: 6px /*6px*/;
-    border: 1px rgba(255,255,255,0);
+    /*border: 1px rgba(255,255,255,0);*/
     transition-duration: 200ms;
     text-align: center;
     color:white;
@@ -1168,7 +1168,7 @@ box-shadow: 0px 1px 2px rgba(0,0,0,.5);}
 }
 
 .app-well-app.app-folder > .overview-icon { /*ikon folder*/
-    background-color: rgba(255,255,255,0.5);
+    background-color: pink;
     text-shadow: 0px 1px 2px 0px rgba(0,0,0,.5);
     color:white;
 }
@@ -1179,10 +1179,10 @@ box-shadow: 0px 1px 2px rgba(0,0,0,.5);}
 .list-search-result:hover,
 .grid-search-result:hover .overview-icon {
 	color:white;
-	border: 1px rgba(255,255,255,0.35);
+	/*border: 1px rgba(255,255,255,0.35);*/
 	background-gradient-direction:none;
 	/*background-color: rgba(74,144,217,.5);*/
-    background-color:rgba(255,255,255,0.35);
+    background-color: rgba(30, 30, 30, 0.1);
 	text-shadow: 0px 1px 2px 0px black !important;
 	transition-duration: 100ms;
 }
