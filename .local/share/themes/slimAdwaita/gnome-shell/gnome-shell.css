@@ -3047,4 +3047,5 @@ GtkScrolledWindow GtkViewport.frame {
 
 .window-frame {
   border-width: 4px;
-  margin: 10px; }
+  margin: 10px;
+}
