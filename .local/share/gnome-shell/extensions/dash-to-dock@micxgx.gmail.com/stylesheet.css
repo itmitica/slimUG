@@ -16,32 +16,32 @@
 /* Shrink the dash by reducing padding and border radius */
 #dashtodockContainer.shrink #dash,
 #dashtodockContainer.dashtodock #dash {
-    border:0px;
-    padding:0px;
+    /*border:0px;*/
+    /*padding:0px;*/
 }
 
 #dashtodockContainer.shrink.left #dash,
 #dashtodockContainer.dashtodock.left #dash {
     border-left: 0px;
-    border-radius: 0px 9px 9px 0px;
+    /*border-radius: 0px 9px 9px 0px;*/
 }
 
 #dashtodockContainer.shrink.right #dash,
 #dashtodockContainer.dashtodock.right #dash {
     border-right: 0px;
-    border-radius: 9px 0px 0px 9px;
+    /*border-radius: 9px 0px 0px 9px;*/
 }
 
 #dashtodockContainer.shrink.top #dash,
 #dashtodockContainer.dashtodock.top #dash {
     border-top: 0px;
-    border-radius: 0px 0px 9px 9px;
+    /*border-radius: 0px 0px 9px 9px;*/
 }
 
 #dashtodockContainer.shrink.bottom #dash,
 #dashtodockContainer.dashtodock.bottom #dash {
     border-bottom: 0px;
-    border-radius: 9px 9px 0px 0px;
+    /*border-radius: 9px 9px 0px 0px;*/
 }
 
 /* Scrollview style */
@@ -89,12 +89,12 @@
 /* Running and focused application style */
 #dashtodockContainer.running-dots .app-well-app  .overview-icon,
 #dashtodockContainer.dashtodock .app-well-app  .overview-icon {
-    /*background-color: #ccff42;*/
-    /*border: 2px transparent;*/
+    background-color: #fff;
+    border: 2px solid rgba(48,48,48,0.75);
     background-image:none;
-    border-radius: 40px;
+    /*border-radius: 40px;*/
     padding: 8px;
-    margin: 2px;
+    margin: 4px;
     /*margin-bottom: 10px;*/
 }
 
@@ -105,31 +105,33 @@
     /*background-color: #D4CDC3;*/
     /*background-color: #D4E09B;*/
     /*background-color: #F5D547;*/
-    /*background-color: #FFDB4A;*/
+    background-color: #FFDB4A;
     /*background-color: #F5CB5C;*/
     /*background-color: #FAC05E;*/
     /*background-color: #DBE064;*/
     /*background-color: #FCE279;*/
     /*background-color: #7CCAFB;*/
     /*background-color: #a6caf0;*/
-    background-color: #99D17B;
+    /*background-color: #99D17B;*/
     /*background-color: #ABDAB6;*/
-    /*background-color: #FFE435;*/
+    /*background-color: #fba93d;*/
     /*background-color: #C0DA74;*/
     /*background-color: #9DE27C;*/
     /*background-color: #ffd833;*/
+    /*background-color: #b1cb36;*/
+
     /*background-color: pink;*/
     /*background-color:rgba(193,193,193,1);*/
     background-image:none;
-    /*border: 2px solid rgba(48,48,48,0.75);*/
-    border-radius: 40px;
+    border: 2px solid rgba(48,48,48,0.75);
+    /*border-radius: 40px;*/
     padding: 8px;
-    margin: 2px;
+    margin: 4px;
     /*margin-bottom: 10px;*/
 }
 
 #dashtodockContainer.dashtodock #dash {
-    background-color: #fff;
+    background-color: #f1f1f1;
 
     /*background-image: url("backgrounds/current.jpg");*/
     /*background-position: 0px -32px;*/

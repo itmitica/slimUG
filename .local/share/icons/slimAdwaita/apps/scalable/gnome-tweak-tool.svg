@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="gnome-tweak-tool.svg"
-   inkscape:export-filename="/home/doomy/.local/share/icons/slimAdwaita/apps/64/gnome-tweak-tool.png"
+   inkscape:export-filename="/home/doomy/.local/share/icons/slimAdwaita/apps/48/gnome-tweak-tool.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -8873,15 +8873,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4000714"
-     inkscape:cx="-152.47262"
-     inkscape:cy="39.260348"
+     inkscape:cx="-329.96357"
+     inkscape:cy="36.760475"
      inkscape:document-units="px"
      inkscape:current-layer="g6151"
      showgrid="false"
-     inkscape:window-width="1818"
-     inkscape:window-height="995"
-     inkscape:window-x="102"
-     inkscape:window-y="48"
+     inkscape:window-width="1843"
+     inkscape:window-height="1008"
+     inkscape:window-x="77"
+     inkscape:window-y="35"
      inkscape:window-maximized="1"
      units="px"
      showguides="false" />
@@ -8988,7 +8988,7 @@
                     <g
                        id="g6136"
                        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.8;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-                       transform="matrix(0.66666667,0,0,0.66666667,-67.403775,454.49825)">
+                       transform="matrix(0.6,0,0,0.6,-65.912002,516.52135)">
                       <path
                          id="path4"
                          d="m 22.372571,890.30837 c 4.282158,0 8.18085,3.8942 8.18085,8.1772 l 0,16.0004 -16.35276,0 0,-16.0004 c 0,-4.2793 3.892209,-8.1748 8.17191,-8.1772 z m 0.0053,3.9411 c -0.608304,-4e-4 -1.164095,0.5484 -1.164095,1.1569 l 0,1.9151 -1.907972,0 c -0.608303,0 -1.164442,0.5558 -1.164094,1.1641 3.47e-4,0.608 0.556133,1.1623 1.164094,1.1623 l 1.907972,0 0,1.9098 c 0,0.6083 0.555791,1.1627 1.164095,1.1623 0.607961,-3e-4 1.162306,-0.5543 1.162306,-1.1623 l 0,-1.9098 1.915124,0 c 0.607961,0 1.156595,-0.5543 1.156943,-1.1623 3.46e-4,-0.6083 -0.548463,-1.1641 -1.156943,-1.1641 l -1.915124,0 0,-1.9151 c 0,-0.6079 -0.554345,-1.1566 -1.162306,-1.1569 z"
