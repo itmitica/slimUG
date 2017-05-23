@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="36.124443mm"
+   height="304.79999mm"
+   viewBox="0 0 128 1080"
+   id="svg5708"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="dash-background.svg">
+  <defs
+     id="defs5710">
+    <radialGradient
+       id="SVGID_1_"
+       cx="221.76297"
+       cy="130.9987"
+       r="163.4418"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.8316971,-7.4622493,5.6880077,2.1584266,-1322.4923,2196.747)"
+       fx="221.76297"
+       fy="130.9987">
+      <stop
+         offset="0"
+         style="stop-color:#F2F2F2"
+         id="stop237" />
+      <stop
+         offset="1"
+         style="stop-color:#B3B3B3"
+         id="stop239" />
+    </radialGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-1040.1664"
+     inkscape:cy="704.23452"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1845"
+     inkscape:window-height="990"
+     inkscape:window-x="75"
+     inkscape:window-y="35"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5713">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(10.547869,-504.65057)">
+    <rect
+       x="-10.547869"
+       y="504.65057"
+       width="128"
+       height="1080"
+       id="rect241"
+       style="fill:url(#SVGID_1_);opacity:0.8" />
+  </g>
+</svg>

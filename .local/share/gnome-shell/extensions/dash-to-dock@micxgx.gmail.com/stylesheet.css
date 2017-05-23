@@ -140,11 +140,14 @@
 }
 
 #dashtodockContainer.dashtodock #dash {
-    background-color: #f1f1f1;
+    /*background-color: #b3b3b3;*/
 
-    /*background-image: url("backgrounds/current.jpg");*/
+    background-color: transparent;
+    background-image: url("dash-background.svg");
+    background-size: cover;
+    
     /*background-position: 0px -32px;*/
     /*margin-right: 1px;*/
-   	border: 1px solid rgba(213,213,213,0.50);
+   	border: 1px solid rgba(210,210,210,0.75);
 
 }
