@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="accessories-calculator.svg"
-   inkscape:export-filename="/home/doomy/.local/share/icons/slimAdwaita/apps/64/accessories-calculator.png"
+   inkscape:export-filename="/home/doomy/.local/share/icons/slimAdwaita/apps/48/accessories-calculator.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -8873,15 +8873,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8001429"
-     inkscape:cx="-85.914877"
-     inkscape:cy="34.181622"
+     inkscape:cx="135.9388"
+     inkscape:cy="29.926982"
      inkscape:document-units="px"
      inkscape:current-layer="g6150"
      showgrid="false"
-     inkscape:window-width="1521"
-     inkscape:window-height="814"
-     inkscape:window-x="79"
-     inkscape:window-y="37"
+     inkscape:window-width="1531"
+     inkscape:window-height="828"
+     inkscape:window-x="69"
+     inkscape:window-y="35"
      inkscape:window-maximized="1"
      units="px"
      showguides="true"
@@ -8936,10 +8936,10 @@
                   <g
                      transform="matrix(0,-0.56791479,0.56791479,0,-624.91982,1103.125)"
                      id="g4"
-                     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.8;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke-width:1.09395874;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">
+                     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke-width:1.09395874;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">
                     <path
                        inkscape:connector-curvature="0"
-                       style="color:#000000;text-indent:0;text-transform:none;direction:ltr;block-progression:tb;baseline-shift:baseline;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09395874;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+                       style="color:#000000;text-indent:0;text-transform:none;direction:ltr;block-progression:tb;baseline-shift:baseline;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09395874;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
                        d="m 14.0002,955.36216 c -6.1178997,0.4149 -10.9066992,5.8568 -10.9373992,11.2491 0.01,10.9284 -0.061,22.1185 -0.063,31.7477 2e-4,1.5705 1.4302999,2.99964 2.9999994,2.99984 l 39.9687998,0 c 1.5697,-2e-4 2.9998,-1.42934 3,-2.99984 -0.016,-12.0418 0,-26.9966 0,-39.9971 -2e-4,-1.5706 -1.4303,-2.9996 -3,-2.9997 -9.9954,0 -24.2792,0.01 -31.9688,0 z m 39.9688,0 c -1.9674,0.018 -2.9684,1.7842 -3,2.9997 l 0,87.99364 c 2e-4,1.5705 1.4303,2.9996 3,2.9998 10.6075,-0.014 21.2051,0.021 31.8125,0 6.154,-0.017 11.218699,-5.0569 11.218699,-11.218 l 0,-71.52604 c 0,-6.1717 -5.081499,-11.2491 -11.249999,-11.2491 l -31.7812,0 z m 3,5.9995 28.7812,0 c 2.9503,0 5.25,2.2975 5.25,5.2496 l 0,71.52604 c 0,2.9519 -2.2997,5.2184 -5.25,5.2184 -4.3568,0.01 -16.9252,-10e-5 -28.7812,0 l 0,-81.99404 z m -34,8.0306 6,0 0,5.9996 6,0 0,5.9996 -6,0 0,5.9995 -6,0 0,-5.9995 -6,0 0,-5.9996 6,0 0,-5.9996 z m 42.0312,25.9669 0,5.99964 17.9688,0 0,-5.99964 -17.9688,0 z m -59.3123997,7.99954 c -1.6551996,0.018 -2.6954995,1.528 -2.6875996,2.9997 0,6.9919 6e-4,26.8901 0.063,31.7789 -0.031,7.2362 5.9721995,11.2366 11.2499993,11.218 l 31.6562,0 c 1.5697,-2e-4 2.9998,-1.4293 3,-2.9998 l 0,-39.9971 c -2e-4,-1.5706 -1.4303,-2.9996 -3,-2.9997 -14.0248,-10e-5 -28.2622,-2e-4 -40.2811999,0 z m 59.3123997,0 0,5.9995 17.9688,0 0,-5.9995 -17.9688,0 z m -48.0312,18.0298 18,0 0,5.9996 -18,0 0,-5.9996 z"
                        visibility="visible"
                        display="inline"

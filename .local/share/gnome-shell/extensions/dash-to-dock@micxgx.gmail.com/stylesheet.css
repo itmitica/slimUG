@@ -89,9 +89,10 @@
 /* Running and focused application style */
 #dashtodockContainer.running-dots .app-well-app  .overview-icon,
 #dashtodockContainer.dashtodock .app-well-app  .overview-icon {
-    background-color: #fff;
-    border: 2px solid rgba(48,48,48,0.75);
-    background-image:none;
+    background-color: transparent;
+    border: 1px solid rgba(48,48,48,0.25);
+    background-image:url("button.svg");
+    background-size: cover;
     /*border-radius: 40px;*/
     padding: 8px;
     margin: 4px;
@@ -124,12 +125,14 @@
     /*background-color: #FFFF82;*/
     /*background-color: #B5E2FA;*/
     /*background-color: #FFCA3A;*/
-    background-color: #FCFF4B;
+    /*background-color: #FCFF4B;*/
 
     /*background-color: pink;*/
     /*background-color:rgba(193,193,193,1);*/
-    background-image:none;
-    border: 2px solid rgba(48,48,48,0.75);
+    background-color: transparent;
+    background-image:url("button-current.svg");
+    background-size: cover;
+    border: 1px transparent;
     /*border-radius: 40px;*/
     padding: 8px;
     margin: 4px;
@@ -142,6 +145,6 @@
     /*background-image: url("backgrounds/current.jpg");*/
     /*background-position: 0px -32px;*/
     /*margin-right: 1px;*/
-   	border: 1px solid rgba(213,213,213,1.0);
+   	border: 1px solid rgba(213,213,213,0.50);
 
 }
