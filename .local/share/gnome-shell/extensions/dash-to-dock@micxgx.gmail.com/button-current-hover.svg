@@ -16,7 +16,7 @@
    id="svg6148"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="button-current.svg"
+   sodipodi:docname="button-current-hover.svg"
    inkscape:export-filename="button.png"
    inkscape:export-xdpi="91"
    inkscape:export-ydpi="91">
@@ -112,7 +112,7 @@
        gradientTransform="matrix(1.0245837,0,0,1.0203276,-108.78314,3.5295662)">
       <stop
          offset="0"
-         style="stop-color:#d4aa00;stop-opacity:1"
+         style="stop-color:#e8ba00;stop-opacity:1"
          id="stop984-1" />
       <stop
          offset="1"
@@ -220,8 +220,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6"
-     inkscape:cx="21.009701"
-     inkscape:cy="23.465481"
+     inkscape:cx="-44.883157"
+     inkscape:cy="22.751195"
      inkscape:document-units="px"
      inkscape:current-layer="g4737"
      showgrid="false"
@@ -229,9 +229,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1844"
-     inkscape:window-height="1008"
-     inkscape:window-x="76"
+     inkscape:window-width="1531"
+     inkscape:window-height="828"
+     inkscape:window-x="69"
      inkscape:window-y="35"
      inkscape:window-maximized="1" />
   <metadata
