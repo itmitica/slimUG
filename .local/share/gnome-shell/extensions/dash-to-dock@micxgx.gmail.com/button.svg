@@ -170,7 +170,7 @@
        y1="237.5825"
        x2="58.667"
        y2="183.9165"
-       gradientTransform="matrix(1.1036188,0,0,1.1036188,-113.42779,-447.8193)">
+       gradientTransform="matrix(1.1036188,0,0,1.1036188,-113.42779,-14.780146)">
       <stop
          offset="0"
          style="stop-color:#979a9d;stop-opacity:1"
@@ -286,8 +286,8 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="49.917928"
-     inkscape:cx="-48.372169"
+     inkscape:cy="25.09378"
+     inkscape:cx="24.678887"
      inkscape:zoom="3.6203867"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -344,11 +344,10 @@
        style="fill:#ffffff" />
     <circle
        cx="-48.681786"
-       cy="-216.51958"
+       cy="216.51958"
        r="27.957975"
        id="circle988"
-       style="fill:url(#SVGID_51_-8)"
-       transform="scale(1,-1)" />
+       style="fill:url(#SVGID_51_-8)" />
     <g
        mask="url(#SVGID_52_)"
        id="g1005"
