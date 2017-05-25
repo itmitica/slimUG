@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="eog.svg"
-   inkscape:export-filename="/home/doomy/.local/share/icons/slimAdwaita/apps/64/eog.png"
+   inkscape:export-filename="/home/doomy/.local/share/icons/slimAdwaita/apps/48/eog.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -8868,21 +8868,21 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#dfdfdf"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.98"
-     inkscape:cx="122.9944"
-     inkscape:cy="58.992048"
+     inkscape:cx="10.125687"
+     inkscape:cy="84.062339"
      inkscape:document-units="px"
-     inkscape:current-layer="g4-3"
+     inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1837"
-     inkscape:window-height="1011"
-     inkscape:window-x="82"
-     inkscape:window-y="32"
+     inkscape:window-width="1531"
+     inkscape:window-height="828"
+     inkscape:window-x="69"
+     inkscape:window-y="35"
      inkscape:window-maximized="1"
      units="px"
      showguides="true" />
@@ -8894,50 +8894,39 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-988.3622)">
+  <switch
+     transform="matrix(0.48523207,0,0,0.44597708,468.22363,-414.12212)"
+     id="switch4"
+     style="fill:#333333">
+    <foreignObject
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+       x="0"
+       y="0"
+       width="1"
+       height="1" />
     <g
-       transform="matrix(1.0334288,0,0,0.998113,-0.2015402,2.2498826)"
-       id="g6302">
+       i:extraneous="self"
+       id="g6"
+       style="fill:#333333">
       <g
-         transform="matrix(0.49925613,0,0,0.51692111,-5.2615882,975.8644)"
-         id="g6"
-         i:extraneous="self">
-        <g
-           id="g8">
-          <g
-             transform="matrix(1.0141388,0,0,1.0141387,-1.9294561,54.545944)"
-             id="g4"
-             style="fill:#ff4141">
-            <g
-               id="g6-6"
-               style="fill:#009100">
-              <g
-                 transform="matrix(1.2677226,0,0,1.2677226,12.908159,-1238.4628)"
-                 id="g4-5"
-                 style="fill:#0084c8">
-                <g
-                   transform="matrix(0.99392143,0,0,0.9939215,3.4239549,11.476684)"
-                   id="g4-3"
-                   style="fill:#ffffff">
-                  <path
-                     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.8;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6592918;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-                     d="m 4.333996,959.13186 c -2.73704,0 -4.92667996,2.1896 -4.92667996,4.9267 l 0,62.95204 c 0,2.7371 2.18963996,4.9267 4.92667996,4.9267 l 81.15339,0 c 2.73704,0 4.92668,-2.1896 4.92668,-4.9267 l 0,-62.95204 c 0,-2.7371 -2.18964,-4.9267 -4.92668,-4.9267 l -81.15339,0 z m 22.37534,11.4272 c 4.31085,0 7.73216,3.4214 7.73216,7.7323 0,4.2424 -3.42131,7.732 -7.73216,7.732 -4.24242,0 -7.73215,-3.4896 -7.73215,-7.732 0,-4.3109 3.48973,-7.7323 7.73215,-7.7323 z m 26.8888,13.2335 c 1.52682,0.014 3.03294,0.7704 3.90296,2.1625 l 17.72237,28.12304 c 0.61584,0.8211 0.95796,1.7791 0.95796,2.8055 0,2.6001 -2.12121,4.6529 -4.7214,4.6529 l -28.05471,0 c -0.20528,0.069 -0.47898,0.069 -0.68426,0.069 l -24.42813,0 c -0.82111,0 -1.71065,-0.2053 -2.46334,-0.6843 -2.18964,-1.3685 -2.80547,-4.3109 -1.43695,-6.4321 l 12.11143,-19.22774 c 0.34213,-0.6158 0.88954,-1.1632 1.50537,-1.5738 2.18964,-1.3685 5.06354,-0.6843 6.43206,1.5054 l 4.65297,7.32164 10.4692,-16.49074 c 0.34213,-0.6159 0.82111,-1.0947 1.50538,-1.5053 0.72916,-0.4704 1.55534,-0.7064 2.38128,-0.7246 0.0493,0 0.0986,0 0.14781,-9e-4 z"
-                     id="path6122"
-                     inkscape:connector-curvature="0" />
-                </g>
-              </g>
-            </g>
-          </g>
-        </g>
+         id="g8"
+         style="fill:#333333">
+        <path
+           inkscape:connector-curvature="0"
+           d="m -862.4,967.7 -3.2,0 0,-3.4 c 0,-6 -4.8,-10.8 -10.8,-10.8 l -59.2,0 c -6,0 -10.8,4.8 -10.8,10.8 l 0,59.2 c 0,6 4.8,10.8 10.8,10.8 l 3.2,0 0,3.4 c 0,6 4.8,10.8 10.8,10.8 l 59.2,0 c 6,0 10.8,-4.8 10.8,-10.8 l 0,-59.2 c 0,-6 -4.8,-10.8 -10.8,-10.8 z m -73.2,60.6 c -2.6,0 -4.8,-2.2 -4.8,-4.8 l 0,-59.2 c 0,-2.6 2.2,-4.8 4.8,-4.8 l 59.2,0 c 2.6,0 4.8,2.2 4.8,4.8 l 0,3.4 -50,0 c -6,0 -10.8,4.8 -10.8,10.8 l 0,49.9 -3.2,0 z m 78,-18.2 -13.7,-17.3 c -1.7,-2.1 -4.8,-2.1 -6.5,0 l -20,25.3 -8.4,-9.1 c -1.7,-1.9 -4.7,-1.9 -6.4,0 l -13.9,15.1 0,-45.5 c 0,-2.6 2.2,-4.8 4.8,-4.8 l 59.2,0 c 2.6,0 4.8,2.2 4.8,4.8 l 0,31.5 z"
+           id="path10"
+           style="fill:#333333" />
+        <circle
+           cx="-911.59998"
+           cy="988.5"
+           r="6.8000002"
+           id="circle12"
+           style="fill:#333333" />
       </g>
     </g>
-  </g>
+  </switch>
 </svg>

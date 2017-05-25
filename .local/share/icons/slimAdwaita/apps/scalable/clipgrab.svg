@@ -2,7 +2,6 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -8873,15 +8872,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8001428"
-     inkscape:cx="-45.751412"
-     inkscape:cy="-12.707738"
+     inkscape:zoom="1.98"
+     inkscape:cx="-97.97411"
+     inkscape:cy="-20.922539"
      inkscape:document-units="px"
-     inkscape:current-layer="g4-9"
+     inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1845"
-     inkscape:window-height="990"
-     inkscape:window-x="75"
+     inkscape:window-width="1531"
+     inkscape:window-height="828"
+     inkscape:window-x="69"
      inkscape:window-y="35"
      inkscape:window-maximized="1"
      units="px"
@@ -8898,51 +8897,9 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-988.3622)">
-    <g
-       transform="matrix(1.0334288,0,0,0.998113,-0.2015402,2.2498826)"
-       id="g6302">
-      <g
-         transform="matrix(0.49925613,0,0,0.51692111,-5.2615882,975.8644)"
-         id="g6"
-         i:extraneous="self">
-        <g
-           id="g8">
-          <g
-             transform="matrix(1.0141388,0,0,1.0141387,-1.9294561,54.545944)"
-             id="g4"
-             style="fill:#ff4141">
-            <g
-               id="g6-6"
-               style="fill:#009100">
-              <g
-                 transform="matrix(1.2677226,0,0,1.2677226,12.908159,-1238.4628)"
-                 id="g4-5"
-                 style="fill:#0084c8">
-                <g
-                   transform="matrix(0.99392143,0,0,0.9939215,3.4239549,11.476684)"
-                   id="g4-3"
-                   style="fill:#ffffff">
-                  <g
-                     id="g4-9"
-                     transform="matrix(1.5167791,0,0,1.5167791,27.245608,1067.3598)"
-                     style="fill:#1e1e1e;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.8;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-opacity:1;fill-rule:nonzero;stroke-width:1.26364254;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">
-                    <path
-                       inkscape:connector-curvature="0"
-                       d="m 35.646445,-34.384989 -14.11872,12.0312 -14.1187208,-12.0312 5.9193608,0 0,-11.729761 16.39872,0 0,11.729761 5.91936,0 z m -16.19184,-13.605121 0,-22.36368 -21.9105617,0 0,20.59632 c -0.9364801,-0.43056 -2.0020802,-0.67488 -3.1329602,-0.67488 -3.7358405,0 -6.7646391,2.66064 -6.7646391,5.94336 0,3.282241 3.0287986,5.943361 6.7646391,5.943361 3.7363199,0 6.7656001,-2.66112 6.7656001,-5.943361 l 0,-17.69184 14.6457618,0 0,12.42336 c -0.93744,-0.43056 -2.00304,-0.67488 -3.13296,-0.67488 -3.7363207,0 -6.7651218,2.66016 -6.7651218,5.94288 0,2.91072 2.3836811,5.331841 5.5296018,5.842561 l 0,-9.343201 8.00064,0 z"
-                       id="path6-1"
-                       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke-width:1.26364255;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-                  </g>
-                </g>
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-    </g>
-  </g>
+  <path
+     inkscape:connector-curvature="0"
+     d="M 56,44.9688 41.88128,57 27.76256,44.9688 l 5.91936,0 0,-11.72976 16.39872,0 0,11.72976 5.91936,0 z m -16.19184,-13.605121 0,-22.3636795 -21.91056,0 0,20.5963195 c -0.93648,-0.43056 -2.00208,-0.67488 -3.13296,-0.67488 -3.73584,0 -6.76464,2.66064 -6.76464,5.94336 0,3.282241 3.0288,5.943361 6.76464,5.943361 3.73632,0 6.7656,-2.66112 6.7656,-5.943361 l 0,-17.69184 14.64576,0 0,12.42336 c -0.93744,-0.43056 -2.00304,-0.67488 -3.13296,-0.67488 -3.73632,0 -6.76512,2.66016 -6.76512,5.94288 0,2.91072 2.38368,5.331841 5.5296,5.842561 l 0,-9.343201 8.00064,0 z"
+     id="path6-1"
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke-width:1.26364255;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
 </svg>

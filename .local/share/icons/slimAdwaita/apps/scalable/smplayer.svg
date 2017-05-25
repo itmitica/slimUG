@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="smplayer.svg"
-   inkscape:export-filename="/home/doomy/.local/share/icons/slimAdwaita/apps/64/smplayer.png"
+   inkscape:export-filename="/home/doomy/.local/share/icons/slimAdwaita/apps/48/smplayer.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -8867,20 +8867,20 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#dfdfdf"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.98"
-     inkscape:cx="-148.29694"
-     inkscape:cy="35.197231"
+     inkscape:zoom="2.8001429"
+     inkscape:cx="22.437237"
+     inkscape:cy="33.573248"
      inkscape:document-units="px"
-     inkscape:current-layer="g6150"
+     inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1843"
-     inkscape:window-height="996"
-     inkscape:window-x="77"
+     inkscape:window-width="1531"
+     inkscape:window-height="828"
+     inkscape:window-x="69"
      inkscape:window-y="35"
      inkscape:window-maximized="1"
      units="px"
@@ -8894,51 +8894,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-988.3622)">
-    <g
-       id="g4397"
-       transform="translate(0,-2.2617187e-5)">
-      <g
-         id="g4415"
-         transform="matrix(1.3333333,0,0,1.3333333,8e-7,-350.78732)">
-        <g
-           id="g8224"
-           style="opacity:0.95">
-          <g
-             id="g8407"
-             transform="matrix(0.82216028,0,0,0.82216028,4.6181688,182.31125)">
-            <g
-               id="g6350"
-               transform="translate(79.70909,-47.917603)">
-              <g
-                 id="g6134"
-                 transform="matrix(0,1,-1,0,1018.5944,1132.6395)">
-                <g
-                   id="g6150"
-                   transform="matrix(1.0252816,0,0,1.0252816,1.4072638,-27.170875)">
-                  <g
-                     id="g6128"
-                     style="opacity:1;fill:#1e1e1e;fill-opacity:1"
-                     transform="matrix(1.0816803,0,0,1.0816803,6.2162187,-87.969786)" />
-                  <path
-                     inkscape:connector-curvature="0"
-                     d="m -77.906919,1054.8255 0,39.8075 c 0,3.7566 3.031694,6.7883 6.788359,6.7883 l 30.9101,0 c 3.756664,0 6.788359,-3.0317 6.788359,-6.7883 l 0,-39.8075 c 0,-3.7567 -3.031695,-6.7884 -6.788359,-6.7884 l -30.9101,0 c -3.756665,0 -6.788359,3.0317 -6.788359,6.7884 z m 5.272512,21.8809 0,-3.9544 3.954383,0 0,3.9544 -3.954383,0 z m 33.809981,15.488 0,3.9544 -3.954383,0 0,-3.9544 3.954383,0 z m -29.855598,0 0,3.9544 -3.954383,0 0,-3.9544 3.954383,0 z m 29.855598,-9.7541 0,3.9543 -3.954383,0 0,-3.9543 3.954383,0 z m -29.855598,0 0,3.9543 -3.954383,0 0,-3.9543 3.954383,0 z m 29.855598,-9.6883 0,3.9544 -3.954383,0 0,-3.9544 3.954383,0 z m -15.224378,-4.6134 5.799763,10.2814 c 0.724971,1.2522 -0.197719,2.7681 -1.64766,2.7681 l -11.599525,0 c -1.449941,0 -2.306724,-1.5159 -1.64766,-2.7681 l 5.799764,-10.2814 c 0.724969,-1.3182 2.570349,-1.3182 3.295318,0 z m 15.224378,-5.0749 0,3.9545 -3.954383,0 0,-3.9545 3.954383,0 z m -29.855598,0 0,3.9545 -3.954383,0 0,-3.9545 3.954383,0 z m 29.855598,-9.6881 0,3.9543 -3.954383,0 0,-3.9543 3.954383,0 z m -29.855598,0 0,3.9543 -3.954383,0 0,-3.9543 3.954383,0 z"
-                     id="path4"
-                     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.8;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke-width:0.72806317;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-                </g>
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-    </g>
-  </g>
+  <path
+     inkscape:connector-curvature="0"
+     d="M 51.685901,9 12.31401,9 C 8.5985105,9 5.5999895,11.998518 5.5999895,15.714074 l 0,30.571851 C 5.5999895,50.00148 8.5985105,53 12.31401,53 l 39.371891,0 c 3.715589,0 6.71411,-2.99852 6.71411,-6.714075 l 0,-30.571851 C 58.400011,11.998518 55.40149,9 51.685901,9 Z m -21.64146,5.214815 3.91112,0 0,3.91111 -3.91112,0 0,-3.91111 z m -15.31852,33.439999 -3.91113,0 0,-3.91111 3.91113,0 0,3.91111 z m 0,-29.528889 -3.91113,0 0,-3.91111 3.91113,0 0,3.91111 z m 9.64736,29.528889 -3.91103,0 0,-3.91111 3.91103,0 0,3.91111 z m 0,-29.528889 -3.91103,0 0,-3.91111 3.91103,0 0,3.91111 z m 9.58228,29.528889 -3.91112,0 0,-3.91111 3.91112,0 0,3.91111 z m 4.56292,-15.057779 -10.16889,5.736298 c -1.238511,0.717038 -2.73782,-0.195555 -2.73782,-1.62963 l 0,-11.472592 c 0,-1.434074 1.499309,-2.281482 2.73782,-1.62963 l 10.16889,5.736297 c 1.30377,0.717036 1.30377,2.542223 0,3.259257 z m 5.01936,15.057779 -3.91122,0 0,-3.91111 3.91122,0 0,3.91111 z m 0,-29.528889 -3.91122,0 0,-3.91111 3.91122,0 0,3.91111 z m 9.58208,29.528889 -3.911021,0 0,-3.91111 3.911021,0 0,3.91111 z m 0,-29.528889 -3.911021,0 0,-3.91111 3.911021,0 0,3.91111 z"
+     id="path4"
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke-width:0.72806317;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
 </svg>
