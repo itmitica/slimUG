@@ -53726,9 +53726,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="321.26323"
-     inkscape:cy="-216.76026"
+     inkscape:zoom="0.35"
+     inkscape:cx="1152.5085"
+     inkscape:cy="-81.511878"
      inkscape:document-units="px"
      inkscape:current-layer="svg5708"
      showgrid="false"
@@ -53736,11 +53736,12 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1845"
+     inkscape:window-width="1846"
      inkscape:window-height="990"
-     inkscape:window-x="75"
+     inkscape:window-x="74"
      inkscape:window-y="35"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     units="px" />
   <metadata
      id="metadata5713">
     <rdf:RDF>
@@ -53980,8 +53981,8 @@
      width="128.00002"
      height="1920"
      id="rect241-2"
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.25;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#SVGID_1_-6-4);fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter16171);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-     transform="matrix(1.1904761,-1,1,0,76.190478,891.42868)" />
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.112;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#SVGID_1_-6-4);fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter16171);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     transform="matrix(1.1904761,-1,1,0,76.190478,2.857133)" />
   <g
      id="g9947"
      transform="matrix(14.421113,0,0,14.421113,-4792.4523,3536.9044)"

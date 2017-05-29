@@ -12432,8 +12432,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.175"
-     inkscape:cx="785.56821"
-     inkscape:cy="899.69866"
+     inkscape:cx="-634.43179"
+     inkscape:cy="888.27009"
      inkscape:document-units="px"
      inkscape:current-layer="svg5708"
      showgrid="false"
@@ -12441,11 +12441,12 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1845"
+     inkscape:window-width="1846"
      inkscape:window-height="990"
-     inkscape:window-x="75"
+     inkscape:window-x="74"
      inkscape:window-y="35"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     units="px" />
   <metadata
      id="metadata5713">
     <rdf:RDF>
@@ -13500,8 +13501,8 @@
      width="128.00003"
      height="1080.0002"
      id="rect241-6"
-     style="opacity:0.5;fill:url(#SVGID_1_-6-6);filter:url(#filter5551)"
-     transform="matrix(1,-1.1160713,0,1,-880.00005,-8.5714455)" />
+     style="opacity:0.14224138;fill:url(#SVGID_1_-6-6);filter:url(#filter5551)"
+     transform="matrix(1,-1.1160713,0,1,17.142861,-8.5714455)" />
   <g
      id="g9947"
      transform="matrix(0,14.421114,14.421112,0,5054.1559,-4984.6296)"

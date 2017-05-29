@@ -690,7 +690,7 @@ StEntry:insensitive,
     background-size: cover;
     /*background-position: 0 0;*/
 
-   	border: 1px solid rgba(210,210,210,0.50);
+   	border: 1px solid rgba(210,210,210,1);
     border-top:0px;border-right:0px;border-left:0px;
     /*font-weight: bold;*/
     /*margin-bottom: 1px;*/
