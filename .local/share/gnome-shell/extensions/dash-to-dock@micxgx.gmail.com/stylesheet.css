@@ -122,5 +122,5 @@
     background-image: url("dash-background.svg");
     background-size: cover;
     border-top:0px;border-bottom:0px;border-left:0px;
-   	border-right: 1px solid rgba(210,210,210,1);
+   	border: 1px solid rgba(210,210,210,0.75);
 }
