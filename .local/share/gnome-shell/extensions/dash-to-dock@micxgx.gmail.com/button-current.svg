@@ -23,6 +23,18 @@
   <defs
      id="defs6150">
     <linearGradient
+       id="linearGradient4313"
+       inkscape:collect="always">
+      <stop
+         id="stop4315"
+         offset="0"
+         style="stop-color:#bcff94;stop-opacity:1" />
+      <stop
+         id="stop4317"
+         offset="1"
+         style="stop-color:#55d400;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient4802">
       <stop
          id="stop4804"
@@ -306,6 +318,51 @@
          style="stop-color:#efc00c;stop-opacity:1"
          id="stop986-0-9-6" />
     </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4180"
+       id="radialGradient4186"
+       cx="206.07112"
+       cy="-189.69193"
+       fx="206.07112"
+       fy="-189.69193"
+       r="54.754894"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.01217003,1.0490872,-1.5073704,-0.01748569,-539.75423,-423.92652)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4180">
+      <stop
+         style="stop-color:#e5ffd5;stop-opacity:1"
+         offset="0"
+         id="stop4182" />
+      <stop
+         style="stop-color:#55d400;stop-opacity:1"
+         offset="1"
+         id="stop4184" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4180"
+       id="radialGradient4186-5"
+       cx="206.07112"
+       cy="-189.69193"
+       fx="206.07112"
+       fy="-189.69193"
+       r="54.754894"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.01217003,1.0490872,-1.5073704,-0.01748569,-239.3163,-244.49779)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4313"
+       id="radialGradient4311"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0491578,2.4374699e-7,0,0.75937425,-681.27806,457.61042)"
+       cx="602.75519"
+       cy="-292.97934"
+       fx="602.75519"
+       fy="-292.97934"
+       r="54.754894" />
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
@@ -320,9 +377,9 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="21.378215"
-     inkscape:cx="43.337946"
-     inkscape:zoom="2.56"
+     inkscape:cy="16.102685"
+     inkscape:cx="51.705455"
+     inkscape:zoom="1.8101934"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -404,13 +461,13 @@
        cx="-48.930801"
        cy="216.48273"
        id="circle988-7-3"
-       style="fill:url(#SVGID_51_-8-1-6)"
+       style="fill:url(#radialGradient4311);color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.83999999;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        rx="27.957973"
        ry="27.957975" />
     <g
        mask="url(#SVGID_54_-3)"
        id="g1021"
-       transform="matrix(-1.1029986,-0.03699488,-0.03699488,1.1029986,23.532926,-10.996986)"
+       transform="matrix(-1.1029986,-0.03699488,-0.03699488,1.1029986,23.532926,-11.549413)"
        style="opacity:0.71399997">
       <g
          id="g1023">
@@ -424,5 +481,12 @@
            style="overflow:visible" />
       </g>
     </g>
+    <circle
+       transform="scale(1,-1)"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.83999999;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#radialGradient4186);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="circle4168"
+       cx="-248.54018"
+       cy="-231.32648"
+       r="51.897751" />
   </g>
 </svg>
