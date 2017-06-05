@@ -619,6 +619,26 @@
          offset="1"
          id="stop9-75" />
     </linearGradient>
+    <radialGradient
+       id="c-9"
+       cx="13.19"
+       cy="-0.054699998"
+       r="30.872999"
+       gradientTransform="matrix(0.6907,0.7231,0.7231,-0.6907,0.0791,-0.0753)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#F7BC79"
+         offset="0"
+         id="stop8" />
+      <stop
+         stop-color="#DAA267"
+         offset=".3137"
+         id="stop10" />
+      <stop
+         stop-color="#9C6B41"
+         offset="1"
+         id="stop12-8" />
+    </radialGradient>
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
@@ -633,9 +653,9 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="23.866407"
-     inkscape:cx="16.102406"
-     inkscape:zoom="3.620387"
+     inkscape:cy="36.34869"
+     inkscape:cx="48.982889"
+     inkscape:zoom="1.8101935"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -774,7 +794,7 @@
     </g>
     <g
        id="g4295"
-       transform="matrix(0.32719373,0,0,0.32719373,-52.956564,133.01701)">
+       transform="matrix(0.32719373,0,0,0.32719373,-278.89926,133.01701)">
       <path
          id="path70"
          d="m 96.950325,253.94349 c 0,46.32662 -37.55564,83.88534 -83.885345,83.88534 -46.329701,0 -83.88535,-37.55564 -83.88535,-83.88534 0,-46.32971 37.555649,-83.88536 83.88535,-83.88536 46.329705,0 83.885345,37.55565 83.885345,83.88536 z"
@@ -865,6 +885,35 @@
          id="path88"
          d="m 548.57,525.22 c 0,79.687 -73.553,144.29 -164.29,144.29 -90.737,0 -164.29,-64.599 -164.29,-144.29 0,-79.691 73.553,-144.29 164.29,-144.29 90.737,0 164.29,64.599 164.29,144.29 z"
          transform="matrix(0.38406,0,0,0.34396,225.85,484.82)" />
+    </g>
+    <g
+       transform="matrix(1.5196744,0,0,1.5196744,-77.213672,188.10649)"
+       id="g4154"
+       style="opacity:0.6">
+      <path
+         style="clip-rule:evenodd;fill:url(#c-9);fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path14"
+         d="m 37.2,18.4 c 0,5.067 -1.8,9.417 -5.4,13.05 -3.6,3.6 -7.934,5.399 -13,5.399 -5.1,0 -9.45,-1.8 -13.05,-5.399 -3.6,-3.634 -5.4,-7.983 -5.4,-13.05 0,-5.1 1.8,-9.433 5.4,-13 C 9.35,1.8 13.7,0 18.8,0 c 5.066,0 9.4,1.8 13,5.4 3.6,3.567 5.4,7.9 5.4,13 z" />
+      <path
+         style="clip-rule:evenodd;fill:#fad4ad;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path16"
+         d="m 9.2,6.6 c 2.433,0.1 2.75,1.283 0.95,3.55 C 8.183,12.583 6.833,13.4 6.1,12.6 5.433,11.9 5.483,10.733 6.25,9.1 7.05,7.4 8.033,6.567 9.2,6.6 Z" />
+      <path
+         style="clip-rule:evenodd;fill:#fad4ad;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path18"
+         d="m 5.15,14.4 c 0.633,0.133 0.833,0.617 0.6,1.45 C 5.517,16.683 5.167,16.933 4.7,16.6 4.3,16.333 4.166,15.883 4.3,15.25 4.467,14.617 4.75,14.333 5.15,14.4 Z" />
+      <use
+         x="0"
+         style="opacity:0.21880002;enable-background:new"
+         id="use20"
+         xlink:href="#d"
+         height="30.700001"
+         width="34.75"
+         y="-30.700001"
+         transform="matrix(1,0,0,-1,2.4502,6.1499)" />
     </g>
   </g>
 </svg>
