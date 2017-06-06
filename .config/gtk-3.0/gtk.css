@@ -24,8 +24,8 @@ GtkWindow {
 
 .titlebar {
 	/*border-bottom: 0 none;*/
-	padding-top: 13px;
-	padding-bottom: 13px;
+	/*padding-top: 13px;*/
+	/*padding-bottom: 13px;*/
 }
 
 .maximized .titlebar {
