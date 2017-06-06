@@ -646,8 +646,8 @@
      inkscape:window-maximized="1"
      inkscape:window-y="34"
      inkscape:window-x="74"
-     inkscape:window-height="829"
-     inkscape:window-width="1526"
+     inkscape:window-height="991"
+     inkscape:window-width="1846"
      fit-margin-bottom="0"
      fit-margin-right="0"
      fit-margin-left="0"
@@ -655,9 +655,9 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="9.6355306"
-     inkscape:cx="-34.28982"
-     inkscape:zoom="2.5600002"
+     inkscape:cy="-64.464038"
+     inkscape:cx="-264.14077"
+     inkscape:zoom="1.8101935"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -766,7 +766,8 @@
     </g>
     <g
        id="g4319"
-       transform="matrix(0.32719373,0,0,0.32719373,-35.514122,117.74358)">
+       transform="matrix(0.32719373,0,0,0.32719373,34.017124,117.74358)"
+       style="opacity:0.75">
       <path
          id="path78"
          d="m 43.641104,300.62358 c 0,46.32662 -37.5556398,83.88534 -83.885345,83.88534 -46.329701,0 -83.885349,-37.55564 -83.885349,-83.88534 0,-46.32971 37.555648,-83.88536 83.885349,-83.88536 46.3297052,0 83.885345,37.55565 83.885345,83.88536 z"
@@ -809,8 +810,9 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(0.32719372,0,0,0.32719372,-37.355661,-11.402542)"
-       id="g4327">
+       transform="matrix(0.32719372,0,0,0.32719372,-106.88691,-11.402547)"
+       id="g4327"
+       style="opacity:0.55">
       <path
          style="fill:url(#d);stroke:#ff9955;stroke-width:11"
          inkscape:connector-curvature="0"
