@@ -421,11 +421,13 @@
       <stop
          stop-color="#ecf8c8"
          offset="0"
-         id="stop37" />
+         id="stop37"
+         style="stop-color:#ceed71;stop-opacity:1" />
       <stop
          stop-color="#99c008"
          offset="1"
-         id="stop39" />
+         id="stop39"
+         style="stop-color:#8cb007;stop-opacity:1" />
     </radialGradient>
     <radialGradient
        id="b"
@@ -651,11 +653,11 @@
      fit-margin-left="0"
      fit-margin-top="0"
      showgrid="false"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4319"
      inkscape:document-units="px"
-     inkscape:cy="60.455938"
-     inkscape:cx="-29.832818"
-     inkscape:zoom="0.90509675"
+     inkscape:cy="21.879932"
+     inkscape:cx="-69.147779"
+     inkscape:zoom="1.2800001"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -887,7 +889,7 @@
          transform="matrix(0.38406,0,0,0.34396,225.85,484.82)" />
     </g>
     <g
-       transform="matrix(1.5196744,0,0,1.5196744,141.54747,378.14142)"
+       transform="matrix(1.5196744,0,0,1.5196744,-398.72626,230.09095)"
        id="g4154"
        style="opacity:0.6">
       <path
