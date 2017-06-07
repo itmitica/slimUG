@@ -8902,6 +8902,33 @@
          offset="1"
          id="stop135-9" />
     </radialGradient>
+    <linearGradient
+       id="SVGID_40_-3"
+       gradientUnits="userSpaceOnUse"
+       x1="58.667"
+       y1="97.583"
+       x2="58.667"
+       y2="43.9165"
+       gradientTransform="matrix(3.8336018,0,0,3.8336018,-177.24124,737.94408)">
+      <stop
+         offset="0"
+         style="stop-color:#333333;stop-opacity:1"
+         id="stop816-6" />
+      <stop
+         offset="1"
+         style="stop-color:#F8FDFF"
+         id="stop818-7" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6105">
+      <path
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8.72636986;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 88.503739,944.87099 -62.848566,62.84861 18.986699,18.9868 62.848568,-62.84872 z m -95.049233,14.74861 0.143279,0.01 c -0.175351,-0.008 -0.346922,-0.008 -0.522273,0 -0.04937,10e-4 -0.09869,0.005 -0.147901,0.01 -2.76042,0.26016 -5.10065,2.83834 -5.088694,5.61097 l 0,93.65323 c 2.94e-4,2.9403 2.675473,5.62 5.615589,5.6203 l 93.667103,0 c 2.94011,-2e-4 5.61529,-2.68 5.61559,-5.6203 l 0,-55.6474 c 0.042,-2.9667 -2.64863,-5.69424 -5.61559,-5.69424 -2.96696,0 -5.65754,2.72754 -5.61559,5.69424 l 0,50.0319 -82.43130296,0 0,-82.43139 50.07349296,0 -0.0416,-0.005 c 2.966667,0.0419 5.694161,-2.644 5.694161,-5.61096 0,-2.96696 -2.727494,-5.65756 -5.694161,-5.61561 l 0.0416,-0.005 -55.693703,0 z m 29.746447,52.8467 -4.427766,21.122 21.12201,-4.4278 z"
+         id="path6107"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccsccccccscccccccc" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -8910,16 +8937,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.98"
-     inkscape:cx="-61.47195"
-     inkscape:cy="11.012595"
+     inkscape:zoom="2.8001429"
+     inkscape:cx="-40.153682"
+     inkscape:cy="-21.488057"
      inkscape:document-units="px"
      inkscape:current-layer="g4"
      showgrid="false"
-     inkscape:window-width="1531"
-     inkscape:window-height="828"
-     inkscape:window-x="69"
-     inkscape:window-y="35"
+     inkscape:window-width="1532"
+     inkscape:window-height="825"
+     inkscape:window-x="68"
+     inkscape:window-y="31"
      inkscape:window-maximized="1"
      units="px"
      showguides="false" />
@@ -8939,11 +8966,12 @@
      transform="matrix(0.53488372,0,0,0.53488372,6.504952,-505.39635)"
      id="g4"
      style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.69855595;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">
-    <path
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.69855595;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 82.396543,956.95722 -46.18452,46.18458 13.952452,13.9525 46.184522,-46.18463 z m -69.847309,10.83808 0.105289,0.007 c -0.128857,-0.006 -0.254937,-0.006 -0.383794,0 -0.03628,0.001 -0.07252,0.004 -0.108686,0.007 -2.028506,0.19118 -3.748233,2.08576 -3.7394475,4.12324 l 0,68.82146 c 2.16e-4,2.1607 1.9660825,4.1299 4.1266385,4.1301 l 68.831646,0 c 2.160555,-2e-4 4.126422,-1.9694 4.126638,-4.1301 l 0,-40.89272 c 0.03084,-2.18013 -1.946354,-4.18444 -4.126638,-4.18444 -2.180284,0 -4.157469,2.00431 -4.126638,4.18444 l 0,36.76612 -60.574974,0 0,-60.57502 36.796707,0 -0.03057,-0.004 c 2.180067,0.0308 4.184377,-1.94296 4.184377,-4.12324 0,-2.18028 -2.00431,-4.15748 -4.184377,-4.12665 l 0.03057,-0.004 -40.926741,0 z m 21.859296,38.8346 -3.253762,15.5216 15.521594,-3.2538 z"
-       id="path6116"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccccsccccccscccccccc" />
+    <circle
+       id="circle820"
+       style="fill:url(#SVGID_40_-3)"
+       r="97.116631"
+       cy="1004.6975"
+       cx="47.664654"
+       clip-path="url(#clipPath6105)" />
   </g>
 </svg>

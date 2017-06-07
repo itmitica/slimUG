@@ -9,7 +9,7 @@
 .app-well-app-running-dot {
   width: 10px;
   height: 3px;
-  background-color: #1e1e1e;
+  background-color: #989898;
   margin-bottom: 2px; }
   
 
@@ -118,11 +118,11 @@
 }
 
 #dashtodockContainer.dashtodock #dash {
-    background-color: transparent;
-    background-image: url("dash-background.svg");
-    background-size: cover;
+    background-color: #0b0c0e;
+    /*background-image: url("dash-background.svg");*/
+    /*background-size: cover;*/
     border-top:0px;border-bottom:0px;border-left:0px;border-right:0px;
     /*border-top:0px;border-bottom:0px;border-left:0px;*/
    	/*border: 1px solid rgba(210,210,210,0.75);*/
-    width: 74px;
+    /*width: 74px;*/
 }

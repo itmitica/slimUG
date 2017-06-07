@@ -8864,6 +8864,45 @@
          style="stop-color:#2B6FCA"
          offset="1" />
     </linearGradient>
+    <linearGradient
+       id="SVGID_40_-3"
+       gradientUnits="userSpaceOnUse"
+       x1="58.667"
+       y1="97.583"
+       x2="58.667"
+       y2="43.9165"
+       gradientTransform="matrix(2.0505312,0,0,2.0505312,-88.298501,-110.68211)">
+      <stop
+         offset="0"
+         style="stop-color:#333333;stop-opacity:1"
+         id="stop816-6" />
+      <stop
+         offset="1"
+         style="stop-color:#F8FDFF"
+         id="stop818-7" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6101">
+      <g
+         transform="matrix(0.76190476,0,0,0.76190476,-6.095238,-6.095238)"
+         id="g6103"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.12621593;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">
+        <path
+           inkscape:connector-curvature="0"
+           d="M 82,8 18,8 C 12.5,8 8,12.5 8,18 l 0,64 c 0,5.5 4.5,10 10,10 l 64,0 c 5.5,0 10,-4.5 10,-10 L 92,18 C 92,12.5 87.5,8 82,8 Z m -60.9,20.7 17.3,0 0,4 -17.3,0 0,-4 z M 48,88 18,88 c -3.3,0 -6,-2.7 -6,-6 l 0,-30 36,0 0,36 z m 30,-12 -17.3,0 0,-4 17.3,0 0,4 z m 0,-9 -17.3,0 0,-4 17.3,0 0,4 z m 10,-19 -36,0 0,-36 30,0 c 3.3,0 6,2.7 6,6 l 0,30 z"
+           id="path6105"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.12621593;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+        <polygon
+           points="31.7,76.7 31.7,70 38.4,70 38.4,66 31.7,66 31.7,59.4 27.7,59.4 27.7,66 21.1,66 21.1,70 27.7,70 27.7,76.7 "
+           id="polygon6107"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.12621593;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+        <polygon
+           points="69.4,27.8 64.6,23.1 61.8,26 66.5,30.7 61.8,35.4 64.6,38.2 69.4,33.5 74.1,38.2 76.9,35.4 72.2,30.7 76.9,26 74.1,23.1 "
+           id="polygon6109"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.12621593;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      </g>
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -8872,16 +8911,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.99000005"
-     inkscape:cx="-172.54534"
-     inkscape:cy="-13.938584"
+     inkscape:zoom="1.9800001"
+     inkscape:cx="160.19866"
+     inkscape:cy="7.7962021"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1531"
-     inkscape:window-height="828"
-     inkscape:window-x="69"
-     inkscape:window-y="35"
+     inkscape:window-width="1532"
+     inkscape:window-height="825"
+     inkscape:window-x="68"
+     inkscape:window-y="31"
      inkscape:window-maximized="1"
      units="px"
      showguides="true"
@@ -8898,22 +8937,11 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     transform="matrix(0.54761905,0,0,0.54761905,4.6190475,4.6190475)"
-     id="g4-3"
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke-width:1.09395874;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">
-    <path
-       inkscape:connector-curvature="0"
-       d="M 82,8 18,8 C 12.5,8 8,12.5 8,18 l 0,64 c 0,5.5 4.5,10 10,10 l 64,0 c 5.5,0 10,-4.5 10,-10 L 92,18 C 92,12.5 87.5,8 82,8 Z m -60.9,20.7 17.3,0 0,4 -17.3,0 0,-4 z M 48,88 18,88 c -3.3,0 -6,-2.7 -6,-6 l 0,-30 36,0 0,36 z m 30,-12 -17.3,0 0,-4 17.3,0 0,4 z m 0,-9 -17.3,0 0,-4 17.3,0 0,4 z m 10,-19 -36,0 0,-36 30,0 c 3.3,0 6,2.7 6,6 l 0,30 z"
-       id="path6-6"
-       style="fill:#333333" />
-    <polygon
-       points="21.1,66 21.1,70 27.7,70 27.7,76.7 31.7,76.7 31.7,70 38.4,70 38.4,66 31.7,66 31.7,59.4 27.7,59.4 27.7,66 "
-       id="polygon8"
-       style="fill:#333333" />
-    <polygon
-       points="76.9,35.4 72.2,30.7 76.9,26 74.1,23.1 69.4,27.8 64.6,23.1 61.8,26 66.5,30.7 61.8,35.4 64.6,38.2 69.4,33.5 74.1,38.2 "
-       id="polygon10"
-       style="fill:#333333" />
-  </g>
+  <circle
+     id="circle820"
+     style="fill:url(#SVGID_40_-3)"
+     r="51.946106"
+     cy="32"
+     cx="32"
+     clip-path="url(#clipPath6101)" />
 </svg>
