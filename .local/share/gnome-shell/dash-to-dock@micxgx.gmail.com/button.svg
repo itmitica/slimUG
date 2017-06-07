@@ -427,6 +427,60 @@
          offset="1"
          id="stop9" />
     </linearGradient>
+    <clipPath
+       id="h-3">
+      <ellipse
+         style="opacity:0.74199997;fill:none;stroke:#000000;stroke-width:29.15999985;stroke-linecap:round;stroke-linejoin:round"
+         cx="411.42999"
+         cy="428.07999"
+         rx="319.35001"
+         ry="322.20999"
+         id="ellipse18-6" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="i-7"
+       x="-0.060268"
+       y="-0.059734002"
+       width="1.1205"
+       height="1.1195">
+      <feGaussianBlur
+         stdDeviation="16.038861"
+         id="feGaussianBlur7-5" />
+    </filter>
+    <clipPath
+       id="g-6">
+      <ellipse
+         style="opacity:0.74199997;fill:none;stroke:#000000;stroke-width:29.15999985;stroke-linecap:round;stroke-linejoin:round"
+         transform="matrix(0,-1,1,0,0,0)"
+         cx="411.42999"
+         cy="428.07999"
+         rx="319.35001"
+         ry="322.20999"
+         id="ellipse15-2" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="j-9"
+       x="-0.042886999"
+       y="-0.054497"
+       width="1.0858001"
+       height="1.109">
+      <feGaussianBlur
+         stdDeviation="11.742857"
+         id="feGaussianBlur21-1" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="k-2"
+       x="-0.32356"
+       y="-0.52591997"
+       width="1.6471"
+       height="2.0518">
+      <feGaussianBlur
+         stdDeviation="13.015815"
+         id="feGaussianBlur24-7" />
+    </filter>
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
@@ -441,8 +495,8 @@
      showgrid="false"
      inkscape:current-layer="svg6148"
      inkscape:document-units="px"
-     inkscape:cy="0.68077736"
-     inkscape:cx="-64.612619"
+     inkscape:cy="-0.73358718"
+     inkscape:cx="-195.08775"
      inkscape:zoom="1.4140626"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -462,4 +516,34 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     transform="matrix(0.09621055,0,0,0.09621055,-7.5839071,-9.1858122)"
+     id="g26"
+     style="opacity:0.5">
+    <ellipse
+       style="opacity:0.74199997;fill:none;stroke:#000000;stroke-width:29.15999985;stroke-linecap:round;stroke-linejoin:round;filter:url(#i-7)"
+       cx="401.42999"
+       cy="428.07999"
+       rx="319.35001"
+       ry="322.20999"
+       clip-path="url(#h-3)"
+       id="ellipse28" />
+    <ellipse
+       style="opacity:0.74199997;fill:url(#l);filter:url(#j-9)"
+       transform="matrix(0,1,-1,0,0,0)"
+       cx="371.66"
+       cy="-401.42999"
+       rx="258.57001"
+       ry="328.57001"
+       clip-path="url(#g-6)"
+       id="ellipse30" />
+    <ellipse
+       style="opacity:0.74199997;fill:#ffffff;filter:url(#k-2)"
+       transform="matrix(1.488,-0.49479,0.38486,1.913,-265.74,-121.12)"
+       cx="275.70999"
+       cy="285.22"
+       rx="50"
+       ry="27.143"
+       id="ellipse32" />
+  </g>
 </svg>
