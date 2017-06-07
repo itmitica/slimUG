@@ -24,8 +24,8 @@ GtkWindow {
 
 .titlebar {
 	/*border-bottom: 0 none;*/
-	/*padding-top: 13px;*/
-	/*padding-bottom: 13px;*/
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 .maximized .titlebar {
@@ -39,13 +39,10 @@ GtkWindow {
 }
 
 .header-bar {
-/*
-	background-color: #F1F2EE;
-	background-color: #F1F2EE;
+	background-color: #f9f9f9;
 	background-image: none;
 	border-top: 0 none;
 	border-bottom: 0 none;
-*/
 }
 
 .scrollbar {
