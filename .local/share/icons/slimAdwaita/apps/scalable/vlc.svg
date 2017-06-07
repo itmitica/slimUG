@@ -8899,28 +8899,45 @@
          style="stop-color:#F8FDFF"
          id="stop818-7-7" />
     </linearGradient>
+    <linearGradient
+       id="SVGID_40_-3-4"
+       gradientUnits="userSpaceOnUse"
+       x1="58.667"
+       y1="97.583"
+       x2="58.667"
+       y2="43.9165"
+       gradientTransform="matrix(1.7763392,0,0,1.7763392,-72.212479,-91.603003)">
+      <stop
+         offset="0"
+         style="stop-color:#e6e6e6;stop-opacity:1"
+         id="stop816-6-8" />
+      <stop
+         offset="1"
+         style="stop-color:#f9f9f9;stop-opacity:1"
+         id="stop818-7-1" />
+    </linearGradient>
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath6146">
+       id="clipPath6111">
       <switch
-         transform="matrix(0.79787566,0,0,0.79787566,-4.8120718,-3.9734209)"
-         id="switch6148"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke-width:1.09395874;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke-width:1.09395874;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="switch6113"
+         transform="matrix(0.79787566,0,0,0.79787566,-4.8120718,-3.9734209)">
         <foreignObject
-           requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
-           x="0"
-           y="0"
+           height="1"
            width="1"
-           height="1" />
+           y="0"
+           x="0"
+           requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" />
         <g
-           i:extraneous="self"
-           id="g6150"
-           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke-width:1.09395874;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke-width:1.09395874;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="g6115"
+           i:extraneous="self">
           <path
-             inkscape:connector-curvature="0"
+             style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke-width:1.09395874;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             id="path6117"
              d="M 78.832,80.127 75.824,66.105 c -0.352,-1.627 -1.99,-2.914 -3.668,-2.914 l -5.16,0 L 51.621,6.606 C 51.504,5.325 47.965,4.98 45.861,4.98 c -2.104,0 -5.644,0.345 -5.762,1.626 l -15.372,56.584 -4.607,0 c -1.679,0 -3.317,1.287 -3.665,2.914 l -3.011,14.022 c -0.112,0.524 -0.113,1.024 -0.021,1.48 -0.367,1.971 0.83,3.587 2.731,3.587 l 59.964,0 c 1.902,0 3.1,-1.616 2.732,-3.587 0.095,-0.454 0.093,-0.955 -0.018,-1.479 z M 39.276,13.954 41.046,7.358 c 0,-0.044 0.172,-0.069 0.191,-0.112 0.278,0.557 2.158,1.006 4.643,1.006 2.494,0 4.38,-0.451 4.652,-1.008 0.021,0.043 0.197,0.069 0.197,0.114 l 1.77,6.596 0.881,3.276 c -1.908,0.407 -4.561,0.659 -7.492,0.659 -2.933,0 -5.583,-0.252 -7.49,-0.659 l 0.878,-3.276 z m -6.648,24.764 2.152,-8.02 c 2.67,0.663 6.654,1.085 11.107,1.085 4.452,0 8.436,-0.422 11.106,-1.085 l 2.152,8.02 1.41,5.241 c -3.434,0.909 -8.727,1.492 -14.668,1.492 -5.943,0 -11.237,-0.583 -14.668,-1.492 l 1.409,-5.241 z M 45.906,72.37 c -11.267,0 -20.442,-2.369 -20.853,-5.328 l -0.036,0 2.812,-10.479 c 3.747,1.904 10.429,3.178 18.052,3.178 7.623,0 14.306,-1.273 18.05,-3.178 l 2.814,10.479 0.012,0 c -0.405,2.959 -9.583,5.328 -20.851,5.328 z"
-             id="path6152"
-             style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke-width:1.09395874;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+             inkscape:connector-curvature="0" />
         </g>
       </switch>
     </clipPath>
@@ -8932,15 +8949,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.98"
-     inkscape:cx="-169.37494"
-     inkscape:cy="36.380638"
+     inkscape:zoom="3.9599999"
+     inkscape:cx="55.856317"
+     inkscape:cy="15.813147"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1532"
-     inkscape:window-height="825"
-     inkscape:window-x="68"
+     inkscape:window-width="1846"
+     inkscape:window-height="1005"
+     inkscape:window-x="74"
      inkscape:window-y="31"
      inkscape:window-maximized="1"
      units="px"
@@ -8954,15 +8971,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <circle
      id="circle820"
-     style="fill:url(#SVGID_40_-3-3)"
-     r="51.946106"
+     style="fill:url(#SVGID_40_-3-4);opacity:0.9"
+     r="45"
      cy="32"
      cx="32"
-     clip-path="url(#clipPath6146)" />
+     clip-path="url(#clipPath6111)" />
 </svg>

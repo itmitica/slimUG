@@ -9,7 +9,7 @@
 .app-well-app-running-dot {
   width: 10px;
   height: 3px;
-  background-color: #989898;
+  background-color: #eeeeec;
   margin-bottom: 2px; }
   
 
@@ -118,7 +118,7 @@
 }
 
 #dashtodockContainer.dashtodock #dash {
-    background-color: #0b0c0e;
+    background-color: #2e3436;
     /*background-image: url("dash-background.svg");*/
     /*background-size: cover;*/
     border-top:0px;border-bottom:0px;border-left:0px;border-right:0px;
