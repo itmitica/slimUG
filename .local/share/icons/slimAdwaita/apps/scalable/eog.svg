@@ -8882,23 +8882,41 @@
          style="stop-color:#F8FDFF"
          id="stop818-7" />
     </linearGradient>
-    <linearGradient
-       id="SVGID_40_-3-5"
-       gradientUnits="userSpaceOnUse"
-       x1="58.667"
-       y1="97.583"
-       x2="58.667"
-       y2="43.9165"
-       gradientTransform="matrix(1.7763392,0,0,1.7763392,-72.212476,-91.603009)">
-      <stop
-         offset="0"
-         style="stop-color:#e6e6e6;stop-opacity:1"
-         id="stop816-6-0" />
-      <stop
-         offset="1"
-         style="stop-color:#f9f9f9;stop-opacity:1"
-         id="stop818-7-9" />
-    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6102">
+      <switch
+         transform="matrix(0.67510549,0,0,0.62048985,638.91984,-589.11034)"
+         id="switch6104"
+         style="fill:#333333">
+        <foreignObject
+           requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+           x="0"
+           y="0"
+           width="1"
+           height="1" />
+        <g
+           i:extraneous="self"
+           id="g6106"
+           style="fill:#333333">
+          <g
+             id="g6108"
+             style="fill:#333333">
+            <path
+               inkscape:connector-curvature="0"
+               d="m -862.4,967.7 -3.2,0 0,-3.4 c 0,-6 -4.8,-10.8 -10.8,-10.8 l -59.2,0 c -6,0 -10.8,4.8 -10.8,10.8 l 0,59.2 c 0,6 4.8,10.8 10.8,10.8 l 3.2,0 0,3.4 c 0,6 4.8,10.8 10.8,10.8 l 59.2,0 c 6,0 10.8,-4.8 10.8,-10.8 l 0,-59.2 c 0,-6 -4.8,-10.8 -10.8,-10.8 z m -73.2,60.6 c -2.6,0 -4.8,-2.2 -4.8,-4.8 l 0,-59.2 c 0,-2.6 2.2,-4.8 4.8,-4.8 l 59.2,0 c 2.6,0 4.8,2.2 4.8,4.8 l 0,3.4 -50,0 c -6,0 -10.8,4.8 -10.8,10.8 l 0,49.9 -3.2,0 z m 78,-18.2 -13.7,-17.3 c -1.7,-2.1 -4.8,-2.1 -6.5,0 l -20,25.3 -8.4,-9.1 c -1.7,-1.9 -4.7,-1.9 -6.4,0 l -13.9,15.1 0,-45.5 c 0,-2.6 2.2,-4.8 4.8,-4.8 l 59.2,0 c 2.6,0 4.8,2.2 4.8,4.8 l 0,31.5 z"
+               id="path6110"
+               style="fill:#333333" />
+            <circle
+               cx="-911.59998"
+               cy="988.5"
+               r="6.8000002"
+               id="circle6112"
+               style="fill:#333333" />
+          </g>
+        </g>
+      </switch>
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -8908,14 +8926,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.98"
-     inkscape:cx="-84.701879"
-     inkscape:cy="37.016064"
+     inkscape:cx="-83.056131"
+     inkscape:cy="83.052238"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1842"
-     inkscape:window-height="1004"
-     inkscape:window-x="78"
+     inkscape:window-width="1532"
+     inkscape:window-height="825"
+     inkscape:window-x="68"
      inkscape:window-y="31"
      inkscape:window-maximized="1"
      units="px"
@@ -8932,35 +8950,11 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <switch
-     transform="matrix(0.65400844,0,0,0.60109954,619.95359,-569.70064)"
-     id="switch6114"
-     style="fill:#ffdd55;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.44437266;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">
-    <foreignObject
-       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
-       x="0"
-       y="0"
-       width="1"
-       height="1" />
-    <g
-       i:extraneous="self"
-       id="g6116"
-       style="fill:#ffdd55;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.44437266;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">
-      <g
-         id="g6118"
-         style="fill:#ffdd55;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.44437266;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">
-        <path
-           inkscape:connector-curvature="0"
-           d="m -862.4,967.7 -3.2,0 0,-3.4 c 0,-6 -4.8,-10.8 -10.8,-10.8 l -59.2,0 c -6,0 -10.8,4.8 -10.8,10.8 l 0,59.2 c 0,6 4.8,10.8 10.8,10.8 l 3.2,0 0,3.4 c 0,6 4.8,10.8 10.8,10.8 l 59.2,0 c 6,0 10.8,-4.8 10.8,-10.8 l 0,-59.2 c 0,-6 -4.8,-10.8 -10.8,-10.8 z m -73.2,60.6 c -2.6,0 -4.8,-2.2 -4.8,-4.8 l 0,-59.2 c 0,-2.6 2.2,-4.8 4.8,-4.8 l 59.2,0 c 2.6,0 4.8,2.2 4.8,4.8 l 0,3.4 -50,0 c -6,0 -10.8,4.8 -10.8,10.8 l 0,49.9 -3.2,0 z m 78,-18.2 -13.7,-17.3 c -1.7,-2.1 -4.8,-2.1 -6.5,0 l -20,25.3 -8.4,-9.1 c -1.7,-1.9 -4.7,-1.9 -6.4,0 l -13.9,15.1 0,-45.5 c 0,-2.6 2.2,-4.8 4.8,-4.8 l 59.2,0 c 2.6,0 4.8,2.2 4.8,4.8 l 0,31.5 z"
-           id="path6120"
-           style="fill:#ffdd55;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.44437266;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-        <circle
-           cx="-911.59998"
-           cy="988.5"
-           r="6.8000002"
-           id="circle6122"
-           style="fill:#ffdd55;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.44437266;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-      </g>
-    </g>
-  </switch>
+  <circle
+     id="circle820"
+     style="fill:url(#SVGID_40_-3)"
+     r="51.946106"
+     cy="32"
+     cx="32"
+     clip-path="url(#clipPath6102)" />
 </svg>
