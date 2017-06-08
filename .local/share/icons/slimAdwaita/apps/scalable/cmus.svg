@@ -8864,32 +8864,6 @@
          style="stop-color:#2B6FCA"
          offset="1" />
     </linearGradient>
-    <linearGradient
-       id="SVGID_40_-3"
-       gradientUnits="userSpaceOnUse"
-       x1="58.667"
-       y1="97.583"
-       x2="58.667"
-       y2="43.9165"
-       gradientTransform="matrix(2.0505312,0,0,2.0505312,-88.298496,-110.68211)">
-      <stop
-         offset="0"
-         style="stop-color:#333333;stop-opacity:1"
-         id="stop816-6" />
-      <stop
-         offset="1"
-         style="stop-color:#F8FDFF"
-         id="stop818-7" />
-    </linearGradient>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath6092">
-      <path
-         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1"
-         id="path6094"
-         d="m 32,3.0000072 c -15.989868,0 -29,13.0101258 -29,28.9999998 l 0,5.437501 0,1.812498 0,12.687489 c 0,4.984373 4.0781313,9.062498 9.062499,9.062498 4.984382,0 9.062501,-4.078125 9.062501,-9.062498 l 0,-14.499987 c 0,-4.984375 -4.078119,-9.0625 -9.062501,-9.0625 -0.51475,0 -1.015,0.06889 -1.507999,0.15225 C 12.225631,18.185133 21.19025,10.250009 32,10.250009 c 10.80975,0 19.774381,7.935124 21.445499,18.277249 -0.493,-0.08338 -0.99325,-0.152251 -1.508,-0.152251 -4.984368,0 -9.062499,4.078125 -9.062499,9.062501 l 0,14.499987 c 0,4.984373 4.078131,9.062498 9.062499,9.062498 C 56.921882,60.999993 61,56.921868 61,51.937495 l 0,-12.687489 0,-1.812498 0,-5.437501 C 61,16.010133 47.989881,3.0000072 32,3.0000072"
-         inkscape:connector-curvature="0" />
-    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -8899,15 +8873,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.98"
-     inkscape:cx="-65.559538"
-     inkscape:cy="-32.794829"
+     inkscape:cx="-33.810282"
+     inkscape:cy="-29.393591"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1532"
-     inkscape:window-height="825"
-     inkscape:window-x="68"
-     inkscape:window-y="31"
+     inkscape:window-width="1531"
+     inkscape:window-height="828"
+     inkscape:window-x="69"
+     inkscape:window-y="35"
      inkscape:window-maximized="1"
      units="px"
      showguides="true"
@@ -8924,11 +8898,9 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <circle
-     id="circle820"
-     style="fill:url(#SVGID_40_-3)"
-     r="51.946106"
-     cy="32"
-     cx="32"
-     clip-path="url(#clipPath6092)" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 32,8 C 20.972502,8 11.999995,16.972503 11.999995,28.000005 l 0,3.750001 0,1.249999 0,8.749995 c 0,3.437499 2.812505,6.25 6.250001,6.25 3.437506,0 6.250002,-2.812501 6.250002,-6.25 l 0,-9.999994 c 0,-3.4375 -2.812496,-6.250001 -6.250002,-6.250001 -0.355,0 -0.7,0.04751 -1.04,0.105 C 18.362501,18.472503 24.544998,13.000002 32,13.000002 c 7.455002,0 13.637508,5.472501 14.790003,12.605003 -0.34,-0.0575 -0.685,-0.105001 -1.04,-0.105001 -3.437496,0 -6.250001,2.812501 -6.250001,6.250002 l 0,9.999994 c 0,3.437499 2.812505,6.25 6.250001,6.25 3.437506,0 6.250002,-2.812501 6.250002,-6.25 l 0,-8.749995 0,-1.249999 0,-3.750001 C 52.000005,16.972503 43.027507,8 32,8"
+     id="path12"
+     style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
 </svg>

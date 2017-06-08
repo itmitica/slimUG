@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="210mm" height="297mm" version="1.1" viewBox="0 0 744.09448819 1052.3622047" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="i" x="-.060268" y="-.059734" width="1.1205" height="1.1195" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="16.038861"/>
+  </filter>
+  <linearGradient id="l" x1="85.714" x2="648.57" y1="298.08" y2="298.08" gradientTransform="matrix(.91878 0 0 2.1698 34.339 -1048.2)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <clipPath id="g">
+   <ellipse transform="rotate(-90)" cx="411.43" cy="428.08" rx="319.35" ry="322.21" fill="none" opacity=".742" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="29.16"/>
+  </clipPath>
+  <clipPath id="h">
+   <ellipse cx="411.43" cy="428.08" rx="319.35" ry="322.21" fill="none" opacity=".742" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="29.16"/>
+  </clipPath>
+  <filter id="j" x="-.042887" y="-.054497" width="1.0858" height="1.109" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="11.742857"/>
+  </filter>
+  <filter id="k" x="-.32356" y="-.52592" width="1.6471" height="2.0518" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="13.015815"/>
+  </filter>
+ </defs>
+ <g transform="translate(-42.857 57.143)">
+  <ellipse cx="401.43" cy="428.08" rx="319.35" ry="322.21" clip-path="url(#h)" fill="none" filter="url(#i)" opacity=".742" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="29.16"/>
+  <ellipse transform="rotate(90)" cx="371.66" cy="-401.43" rx="258.57" ry="328.57" clip-path="url(#g)" fill="url(#l)" filter="url(#j)" opacity=".742"/>
+  <ellipse transform="matrix(1.488 -.49479 .38486 1.913 -265.74 -121.12)" cx="275.71" cy="285.22" rx="50" ry="27.143" fill="#fff" filter="url(#k)" opacity=".742"/>
+ </g>
+</svg>
