@@ -8873,13 +8873,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8001428"
-     inkscape:cx="-50.993088"
-     inkscape:cy="11.3253"
+     inkscape:cx="60.210619"
+     inkscape:cy="-16.539814"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
      inkscape:window-width="1846"
-     inkscape:window-height="991"
+     inkscape:window-height="1001"
      inkscape:window-x="74"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
@@ -8898,7 +8898,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="matrix(0,0.54947577,-0.54947577,0,543.20282,19.387793)"
+     transform="matrix(0,0.47454726,-0.47454726,0,473.49334,12.971275)"
      style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
      id="g6106">
     <path
@@ -8947,4 +8947,16 @@
        d="m 1.7304995,935.89927 c 2.365354,0 4.282653,1.9173 4.282653,4.2826 0,2.3654 -1.917299,4.2827 -4.282653,4.2827 l -16.3527605,0 c -2.365355,0 -4.282654,-1.9173 -4.282654,-4.2827 0,-2.3653 1.917299,-4.2826 4.282654,-4.2826 z"
        id="path20" />
   </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#363636;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="16.370117"
+     y="60"
+     id="text6221"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan6223"
+       x="16.370117"
+       y="60"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;word-spacing:30.57005882px;writing-mode:lr-tb;text-anchor:start">TWK</tspan></text>
 </svg>

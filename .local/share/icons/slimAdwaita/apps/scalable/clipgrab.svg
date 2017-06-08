@@ -8873,13 +8873,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.98"
-     inkscape:cx="-191.15593"
-     inkscape:cy="-22.690216"
+     inkscape:cx="-84.41899"
+     inkscape:cy="16.409456"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1526"
-     inkscape:window-height="822"
+     inkscape:window-width="1846"
+     inkscape:window-height="1001"
      inkscape:window-x="74"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
@@ -8900,6 +8900,18 @@
   <path
      inkscape:connector-curvature="0"
      style="fill:#363636;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:inherit;stroke-linejoin:inherit;stroke-dasharray:none"
-     d="M 32,41.285714 40.505714,32 23.494285,32 Z M 29.399999,32 34.6,32 l 0,-7.391428 c 0,-1.894287 0,-1.894287 -1.894287,-1.894287 l -1.411428,0 c -1.894286,0 -1.894286,0 -1.894286,1.894287 z M 8.971426,52.428572 C 6.9657126,52.428572 6,51.462859 6,49.457143 L 6,14.542857 c 0,-2.005714 0.9657126,-2.971429 2.971426,-2.971429 l 46.057147,0 C 57.034286,11.571428 58,12.537143 58,14.542857 l 0,34.914286 c -10e-7,2.005716 -0.965714,2.971429 -2.971427,2.971429 z m 0.742861,-3.714286 3.714286,0 0,-3.714286 -3.714286,0 z m 0,-7.428572 3.714286,0 0,-3.714284 -3.714286,0 z m 0,-7.428572 3.714286,0 0,-3.714284 -3.714286,0 z m 0,-7.428571 3.714286,0 0,-3.714286 -3.714286,0 z m 0,-7.428571 3.714286,0 0,-3.714286 -3.714286,0 z m 40.857138,29.714286 3.714289,0 0,-3.714286 -3.714289,0 z m 0,-7.428572 3.714289,0 0,-3.714284 -3.714289,0 z m 0,-7.428572 3.714289,0 0,-3.714284 -3.714289,0 z m 0,-7.428571 3.714289,0 0,-3.714286 -3.714289,0 z m 0,-7.428571 3.714289,0 0,-3.714286 -3.714289,0 z m 0,0"
+     d="M 32,30.999999 38.87,23.5 25.129999,23.5 Z M 29.899999,23.5 34.1,23.5 l 0,-5.97 c 0,-1.530001 0,-1.530001 -1.530001,-1.530001 l -1.14,0 c -1.53,0 -1.53,0 -1.53,1.530001 z M 13.399998,40 C 11.779999,40 11,39.220001 11,37.6 L 11,9.399999 c 0,-1.619999 0.779999,-2.4 2.399998,-2.4 l 37.200003,0 C 52.22,6.999999 53,7.78 53,9.399999 L 53,37.6 c -10e-7,1.620001 -0.78,2.4 -2.399999,2.4 z m 0.600003,-3 3,0 0,-3 -3,0 z m 0,-6.000001 3,0 0,-2.999998 -3,0 z m 0,-6 3,0 0,-2.999999 -3,0 z m 0,-6 3,0 0,-3 -3,0 z m 0,-5.999999 3,0 0,-3.000001 -3,0 z M 46.999997,37 50,37 l 0,-3 -3.000003,0 z m 0,-6.000001 3.000003,0 0,-2.999998 -3.000003,0 z m 0,-6 3.000003,0 L 50,22 46.999997,22 Z m 0,-6 3.000003,0 0,-3 -3.000003,0 z M 46.999997,13 50,13 l 0,-3.000001 -3.000003,0 z m 0,0"
      id="path4" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#363636;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="17.528259"
+     y="60"
+     id="text6221"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan6223"
+       x="17.528259"
+       y="60"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;word-spacing:30.57005882px;writing-mode:lr-tb;text-anchor:start">GRB</tspan></text>
 </svg>
