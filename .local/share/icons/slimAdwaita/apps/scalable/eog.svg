@@ -8874,15 +8874,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.98"
-     inkscape:cx="10.125687"
-     inkscape:cy="84.062339"
+     inkscape:cx="-83.056131"
+     inkscape:cy="83.052238"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1531"
-     inkscape:window-height="828"
-     inkscape:window-x="69"
-     inkscape:window-y="35"
+     inkscape:window-width="1526"
+     inkscape:window-height="822"
+     inkscape:window-x="74"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      units="px"
      showguides="true" />
@@ -8894,12 +8894,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <switch
-     transform="matrix(0.48523207,0,0,0.44597708,468.22363,-414.12212)"
+     transform="matrix(0.42194093,0,0,0.38780615,411.3249,-364.61475)"
      id="switch4"
      style="fill:#333333">
     <foreignObject
@@ -8929,4 +8929,16 @@
       </g>
     </g>
   </switch>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#363636;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="15.413391"
+     y="59.805298"
+     id="text6221"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan6223"
+       x="15.413391"
+       y="59.805298"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;word-spacing:30.57005882px;writing-mode:lr-tb;text-anchor:start">MGV</tspan></text>
 </svg>

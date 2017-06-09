@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="doublecmd.svg"
+   sodipodi:docname="spacefm.svg"
    inkscape:export-filename="/home/doomy/.local/share/icons/slimAdwaita/apps/48/doublecmd.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -8908,13 +8908,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.9914999"
-     inkscape:cx="-192.54857"
-     inkscape:cy="-9.703708"
+     inkscape:cx="-82.511626"
+     inkscape:cy="25.613219"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1846"
-     inkscape:window-height="991"
+     inkscape:window-width="1526"
+     inkscape:window-height="822"
      inkscape:window-x="74"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
@@ -8933,8 +8933,20 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.667593;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-     d="m 18.38034,8.190867 -1.80039,6.284896 9.133723,0 0.76914,0 0.590105,0.491275 6.236197,5.270833 17.284899,0 L 51.38034,17.09543 18.380338,8.190867 Z M 10,16.571206 10,48 l 44,0 0,-25.66668 -21.477212,0 -6.809115,-5.762116 -15.713673,0 z m 21.988543,9.852712 a 0.19525663,0.19525663 0 0 1 0.14323,0.05029 l 3.454688,3.196862 0,-2.094035 a 0.19525663,0.19525663 0 0 1 0.194791,-0.196218 l 2.347527,0 a 0.19525663,0.19525663 0 0 1 0.196223,0.196215 l 0,4.626287 3.387369,3.135314 a 0.19525663,0.19525663 0 0 1 -0.133203,0.338018 l -2.792968,0 0,6.837758 a 0.19525663,0.19525663 0 0 1 -0.194793,0.194803 l -4.450129,0 a 0.19525663,0.19525663 0 0 1 -0.194792,-0.194803 l 0,-4.775257 -3.894401,0 0,4.775257 a 0.19525663,0.19525663 0 0 1 -0.196223,0.194803 l -4.448699,0 a 0.19525663,0.19525663 0 0 1 -0.196224,-0.194803 l 0,-6.837757 -2.791537,0 A 0.19525663,0.19525663 0 0 1 22.2862,35.338631 l 4.789583,-4.431533 4.791015,-4.432895 a 0.19525663,0.19525663 0 0 1 0.121745,-0.05029 z"
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#363636;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter-blend-mode:normal;filter-gaussianBlur-deviation:0"
+     d="m 18.999415,4.000373 -1.718554,5.9992192 8.718554,0 0.73418,0 0.563281,0.4689448 5.952733,5.031249 16.499223,0 0.750583,-2.999602 L 18.999414,4.000373 Z M 11,11.999788 11,42 l 42,0 0,-24.500013 -20.500975,0 -6.49961,-5.500201 -14.999415,0 z m 20.989063,9.404861 a 0.18638133,0.18638133 0 0 1 0.13672,0.048 l 3.297657,3.05155 0,-1.998851 a 0.18638133,0.18638133 0 0 1 0.185937,-0.187299 l 2.240821,0 a 0.18638133,0.18638133 0 0 1 0.187304,0.187295 l 0,4.416002 3.233398,2.992799 a 0.18638133,0.18638133 0 0 1 -0.127149,0.322654 l -2.666015,0 0,6.526951 a 0.18638133,0.18638133 0 0 1 -0.185938,0.18595 l -4.24785,0 a 0.18638133,0.18638133 0 0 1 -0.185939,-0.185948 l 0,-4.5582 -3.717382,0 0,4.5582 A 0.18638133,0.18638133 0 0 1 29.953322,36.9497 l -4.246485,0 a 0.18638133,0.18638133 0 0 1 -0.187304,-0.185946 l 0,-6.526949 -2.664649,0 a 0.18638133,0.18638133 0 0 1 -0.127148,-0.322658 l 4.571875,-4.230099 4.573242,-4.2314 a 0.18638133,0.18638133 0 0 1 0.11621,-0.048 z"
      id="path6"
      inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#363636;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="17.961304"
+     y="59.805298"
+     id="text6221"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan6223"
+       x="17.961304"
+       y="59.805298"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;word-spacing:30.57005882px;writing-mode:lr-tb;text-anchor:start">SFM</tspan></text>
 </svg>
