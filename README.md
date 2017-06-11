@@ -1,5 +1,6 @@
 # slimUG
 slightly modified Ubuntu Gnome
+Moonrise Adventure edition
 
 sli(ghtly) m(odified) U(buntu) G(nome) is a personal project based on sli(ghtly) m(odified) Advaita theme and a modified White shell theme.
 Featuring dark app icons and original circle-based window control icons.
