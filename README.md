@@ -2,7 +2,7 @@
 slightly modified Ubuntu Gnome
 
 sli(ghtly) m(odified) U(buntu) G(nome) is a personal project based on sli(ghtly) m(odified) Advaita theme and a modified White shell theme.
-Features dark app icons and original circle-based window control icons.
+Featuring dark app icons and original circle-based window control icons.
 
 Extension list:
 * Activities configurator
