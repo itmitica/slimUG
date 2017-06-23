@@ -118,11 +118,16 @@
 }
 
 #dashtodockContainer.dashtodock #dash {
-    background-color: transparent;
-    background-image: url("dash-background.svg");
-    background-size: cover;
+    /*background-color: transparent;*/
+    /*background-image: url("dash-background.svg");*/
+    /*background-size: cover;*/
     border-top:0px;border-bottom:0px;border-left:0px;border-right:0px;
     /*border-top:0px;border-bottom:0px;border-left:0px;*/
-   	/*border: 1px solid rgba(210,210,210,0.75);*/
+   	/*border: 1px solid #f4f4f4;*/
     width: 74px;
+    /*margin-right: 10px;*/
+
+    background-gradient-start: #ededed;
+    background-gradient-end: #ed8e8e;
+    background-gradient-direction:vertical;
 }

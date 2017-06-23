@@ -3,8 +3,10 @@ GtkWindow {
 /*
 	padding: 10px;
 	background-color: #CED0CE;
-	border-top: 0 none;
+	
 */
+/*padding: 2px;*/
+/*border-top: 0 none;*/
 }
 
 .window-frame {
@@ -16,6 +18,10 @@ GtkWindow {
 */
 }
 
+.maximized {
+	top: 100px;
+}
+
 .window-frame.maximized {
 	/*border-top: 0 none;*/
 	border-radius: 0;
@@ -24,8 +30,11 @@ GtkWindow {
 
 .titlebar {
 	/*border-bottom: 0 none;*/
+	/*border-top: 0 none;*/
 	padding-top: 8px;
 	padding-bottom: 8px;
+	/*background-image: none;*/
+	/*background-color: #edcb62;*/
 }
 
 .maximized .titlebar {
@@ -41,8 +50,8 @@ GtkWindow {
 .header-bar {
 	/*background-color: #f9f9f9;*/
 	/*background-image: none;*/
-	border-top: 0 none;
-	border-bottom: 0 none;
+	/*border-top: 0 none;*/
+	/*border-bottom: 0 none;*/
 }
 
 .scrollbar {
