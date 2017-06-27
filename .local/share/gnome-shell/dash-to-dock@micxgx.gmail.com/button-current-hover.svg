@@ -23,6 +23,18 @@
   <defs
      id="defs6150">
     <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4355">
+      <stop
+         style="stop-color:#ffa14f;stop-opacity:1"
+         offset="0"
+         id="stop4357" />
+      <stop
+         style="stop-color:#ff5f2a;stop-opacity:1"
+         offset="1"
+         id="stop4359" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient4802">
       <stop
          id="stop4804"
@@ -1153,6 +1165,16 @@
          offset="1"
          id="stop16-9" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4355"
+       id="linearGradient4361"
+       x1="21.568422"
+       y1="23.374239"
+       x2="100.48536"
+       y2="112.55282"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1,0,0,-1,63.999998,63.999998)" />
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
@@ -1167,8 +1189,8 @@
      showgrid="false"
      inkscape:current-layer="g5840"
      inkscape:document-units="px"
-     inkscape:cy="16.619296"
-     inkscape:cx="-28.040145"
+     inkscape:cy="50.827386"
+     inkscape:cx="-22.374461"
      inkscape:zoom="4.2092353"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -1184,7 +1206,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1196,11 +1218,11 @@
        style="opacity:0.75;fill:#666666;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path4601"
-       d="m 61.413046,32.732974 a 29.066783,29.066783 0 1 1 -58.1329589,0 29.066783,29.066783 0 1 1 58.1329589,0 z" />
+       d="m 61.656256,32.732974 a 29.309996,29.309996 0 1 1 -58.6193789,0 29.309996,29.309996 0 1 1 58.6193789,0 z" />
     <path
-       d="m 60.752625,31.999999 a 28.752928,28.752928 0 1 1 -57.5052523,0 28.752928,28.752928 0 1 1 57.5052523,0 z"
+       d="m 3.2473727,31.999999 a 28.752928,28.752928 0 1 1 57.5052523,0 28.752928,28.752928 0 1 1 -57.5052523,0 z"
        id="path41"
        inkscape:connector-curvature="0"
-       style="fill:#ff7f2a;fill-rule:evenodd" />
+       style="fill:url(#linearGradient4361);fill-opacity:1;fill-rule:evenodd" />
   </g>
 </svg>
