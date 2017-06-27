@@ -1153,89 +1153,6 @@
          offset="1"
          id="stop16-9" />
     </linearGradient>
-    <radialGradient
-       id="c-3"
-       cx="-4835.7002"
-       cy="-854.62"
-       r="131.7"
-       gradientTransform="matrix(1.7518,-1.0524e-7,1.0756e-7,1.7903,3635.4,675.39)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#fffd44"
-         offset="0"
-         id="stop7-6" />
-      <stop
-         stop-color="#ffd429"
-         offset="1"
-         id="stop9-7" />
-    </radialGradient>
-    <radialGradient
-       id="d-5"
-       cx="-5654.7002"
-       cy="2526.3999"
-       r="474.76999"
-       gradientTransform="matrix(0.28599,0,0,0.286,-3218.5,-1577.2)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#ffd429"
-         stop-opacity="0"
-         offset="0"
-         id="stop12-3" />
-      <stop
-         stop-color="#ffd429"
-         stop-opacity="0"
-         offset=".42553"
-         id="stop14-5" />
-      <stop
-         stop-color="#ffd429"
-         offset=".73004"
-         id="stop16-6" />
-      <stop
-         stop-color="#ffd429"
-         offset="1"
-         id="stop18-2" />
-    </radialGradient>
-    <radialGradient
-       id="b-7"
-       cx="-4835.7002"
-       cy="-854.62"
-       r="131.7"
-       gradientTransform="matrix(1.7518,-1.0524e-7,1.0756e-7,1.7903,3635.4,675.39)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#fffd44"
-         offset="0"
-         id="stop7-09" />
-      <stop
-         stop-color="#ffd429"
-         offset="1"
-         id="stop9-36" />
-    </radialGradient>
-    <radialGradient
-       id="a-0"
-       cx="-4835.7002"
-       cy="-854.62"
-       r="135.78"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#ffd429"
-         stop-opacity="0"
-         offset="0"
-         id="stop12-62" />
-      <stop
-         stop-color="#ffd429"
-         stop-opacity="0"
-         offset=".4255"
-         id="stop14-6" />
-      <stop
-         stop-color="#ffd429"
-         offset=".73"
-         id="stop16-1" />
-      <stop
-         stop-color="#ffd429"
-         offset="1"
-         id="stop18-8" />
-    </radialGradient>
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
@@ -1248,11 +1165,11 @@
      fit-margin-left="0"
      fit-margin-top="0"
      showgrid="false"
-     inkscape:current-layer="g4391"
+     inkscape:current-layer="svg6148"
      inkscape:document-units="px"
-     inkscape:cy="51.441228"
-     inkscape:cx="52.204808"
-     inkscape:zoom="2.9763788"
+     inkscape:cy="83.632249"
+     inkscape:cx="-149.91379"
+     inkscape:zoom="1.4881894"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -1267,17 +1184,24 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     id="g4391">
+     id="g5840"
+     transform="matrix(0.9723645,0,0,0.9723645,0.88433572,0.88433574)"
+     style="opacity:0.25">
     <path
-       sodipodi:nodetypes="ccccc"
+       d="m 63.019874,31.999999 a 31.020483,31.020483 0 1 1 -62.03974995,0 31.020483,31.020483 0 1 1 62.03974995,0 z"
+       stroke-miterlimit=".1"
+       id="path39"
+       style="opacity:0.75;fill:url(#d);fill-rule:evenodd;stroke:url(#c-9);stroke-width:0.30429542;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.1"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 59.750093,31.26502 a 28.752928,28.752928 0 1 1 -57.5052527,0 28.752928,28.752928 0 1 1 57.5052527,0 z"
+       id="path41"
        inkscape:connector-curvature="0"
-       id="rect5597"
-       d="m 8.3391142,4.3391132 47.3204768,-0.043515 0.0013,55.3652847 -47.33359,-0.0563 z"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.25;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:0.67822981;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:new" />
+       style="fill:#ffffff;fill-rule:evenodd" />
   </g>
 </svg>
