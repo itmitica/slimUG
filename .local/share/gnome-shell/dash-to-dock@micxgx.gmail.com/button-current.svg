@@ -1175,6 +1175,16 @@
        y2="112.55282"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(-1,0,0,-1,63.999998,63.999998)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4355"
+       id="linearGradient4455"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.82297467,0,0,-1,-226.56641,67.572718)"
+       x1="-197.16368"
+       y1="41.286602"
+       x2="-147.26007"
+       y2="92.029526" />
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
@@ -1189,15 +1199,16 @@
      showgrid="false"
      inkscape:current-layer="g5840"
      inkscape:document-units="px"
-     inkscape:cy="69.833213"
-     inkscape:cx="-22.374461"
-     inkscape:zoom="4.2092353"
+     inkscape:cy="71.634631"
+     inkscape:cx="-227.38513"
+     inkscape:zoom="1.4881894"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     id="base" />
+     id="base"
+     showguides="false" />
   <metadata
      id="metadata6153">
     <rdf:RDF>
@@ -1224,5 +1235,19 @@
        id="path41"
        inkscape:connector-curvature="0"
        style="fill:url(#linearGradient4361);fill-opacity:1;fill-rule:evenodd" />
+    <rect
+       y="6.2541394"
+       x="-82.793335"
+       height="59.44273"
+       width="48.919861"
+       id="rect4361"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.421875;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient4455);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4359"
+       width="48.919861"
+       height="59.44273"
+       x="-83.669586"
+       y="5.1894231" />
   </g>
 </svg>
