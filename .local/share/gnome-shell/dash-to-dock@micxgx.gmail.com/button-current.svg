@@ -24,6 +24,18 @@
      id="defs6150">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient4362">
+      <stop
+         style="stop-color:#f27388;stop-opacity:1"
+         offset="0"
+         id="stop4364" />
+      <stop
+         style="stop-color:#f0274a;stop-opacity:1"
+         offset="1"
+         id="stop4366" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient4355">
       <stop
          style="stop-color:#ffa14f;stop-opacity:1"
@@ -1168,16 +1180,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4355"
-       id="linearGradient4361"
-       x1="37.449539"
-       y1="38.522381"
-       x2="100.48536"
-       y2="112.55282"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-1,0,0,-1,63.999998,63.999998)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4355"
        id="linearGradient4455"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(-0.82297467,0,0,-1,-226.56641,67.572718)"
@@ -1185,6 +1187,17 @@
        y1="41.286602"
        x2="-147.26007"
        y2="92.029526" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4362"
+       id="radialGradient4368"
+       cx="30.852766"
+       cy="31.682737"
+       fx="30.852766"
+       fy="31.682737"
+       r="28.752928"
+       gradientTransform="matrix(0.88372873,-4.9851204e-7,-3.6427214e-8,1.4974308,3.5872909,-15.76141)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
@@ -1199,9 +1212,9 @@
      showgrid="false"
      inkscape:current-layer="g5840"
      inkscape:document-units="px"
-     inkscape:cy="71.634631"
-     inkscape:cx="-227.38513"
-     inkscape:zoom="1.4881894"
+     inkscape:cy="34.48369"
+     inkscape:cx="-93.124857"
+     inkscape:zoom="2.1046176"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -1234,7 +1247,7 @@
        d="m 3.2473727,31.999999 a 28.752928,28.752928 0 1 1 57.5052523,0 28.752928,28.752928 0 1 1 -57.5052523,0 z"
        id="path41"
        inkscape:connector-curvature="0"
-       style="fill:url(#linearGradient4361);fill-opacity:1;fill-rule:evenodd" />
+       style="fill:url(#radialGradient4368);fill-opacity:1;fill-rule:evenodd" />
     <rect
        y="6.2541394"
        x="-82.793335"
