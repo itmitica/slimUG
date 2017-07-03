@@ -26,7 +26,7 @@
        inkscape:collect="always"
        id="linearGradient4411">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#cccccc;stop-opacity:1"
          offset="0"
          id="stop4413" />
       <stop
@@ -1190,12 +1190,12 @@
        inkscape:collect="always"
        xlink:href="#linearGradient4411"
        id="linearGradient4417"
-       x1="22.311569"
-       y1="33.900566"
-       x2="149.2616"
-       y2="107.1952"
+       x1="32.18409"
+       y1="48.307007"
+       x2="33.141945"
+       y2="61.831783"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,0.97897891,0,0.12424044)" />
+       gradientTransform="matrix(1.0265656,0,0,1.0084084,-0.85049724,-1.9301763)" />
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
@@ -1210,9 +1210,9 @@
      showgrid="false"
      inkscape:current-layer="svg6148"
      inkscape:document-units="px"
-     inkscape:cy="32.880671"
-     inkscape:cx="0.96725241"
-     inkscape:zoom="2.1271163"
+     inkscape:cy="15.462632"
+     inkscape:cx="18.448545"
+     inkscape:zoom="4.2542326"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -1240,7 +1240,7 @@
      style="fill:url(#linearGradient4417);fill-opacity:1;fill-rule:evenodd"
      inkscape:connector-curvature="0"
      id="path4407"
-     d="m 58.55948,33.277889 a 26.54482,27.242831 0 1 1 -53.0890831,0 26.54482,27.242831 0 1 1 53.0890831,0 z" />
+     d="m 59.264653,32.220119 a 27.25,28.06179 0 1 1 -54.4994288,0 27.25,28.06179 0 1 1 54.4994288,0 z" />
   <path
      d="m 58.999716,31.999999 a 27,26.876976 0 1 1 -53.9994344,0 27,26.876976 0 1 1 53.9994344,0 z"
      id="path4361"
