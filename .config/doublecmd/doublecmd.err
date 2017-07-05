@@ -1,0 +1,14 @@
+--------------- 05-07-2017, 18:51:35 ---------------
+| DC v0.7.8 beta Rev. 7400 -- x86_64-Linux-gtk2
+| Ubuntu 16.04.2 LTS -- GTK 2.24.30 | PID 2813
+Unhandled exception: EFOpenError: Unable to open file "/etc/group"
+  Stack trace:
+  $000000000064CFD3 in /home/doomy/Public/doublecmd-gtk2/doublecmd
+  $000000000064CDDC in /home/doomy/Public/doublecmd-gtk2/doublecmd
+  $0000000000693C87 in /home/doomy/Public/doublecmd-gtk2/doublecmd
+  $0000000000B8E1D7 in /home/doomy/Public/doublecmd-gtk2/doublecmd
+  $0000000000775C1A in /home/doomy/Public/doublecmd-gtk2/doublecmd
+  $00000000005F4B7F in /home/doomy/Public/doublecmd-gtk2/doublecmd
+  $00000000007FE045 in /home/doomy/Public/doublecmd-gtk2/doublecmd
+  $0000000000944351 in /home/doomy/Public/doublecmd-gtk2/doublecmd
+

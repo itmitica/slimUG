@@ -2,63 +2,74 @@
 <doublecmd>
   <History>
     <Navigation>
-      <Item>/home/doomy/Downloads/</Item>
-      <Item>/home/doomy/Downloads/Planet of the Apes The Complete TV Series (1974)/</Item>
-      <Item>/home/doomy/Downloads/Doctor.Who.2005.S10E03.HDTV.x264-MTB[ettv]/</Item>
-      <Item>/home/doomy/Downloads/VICE.S05E09.HDTV.x264-aAF[ettv]/</Item>
-      <Item>/home/doomy/Downloads/Tent.And.Sex.S01E01.Male.Insecurity.HDTV.x264-CBFM - [SRIGGA]/</Item>
-      <Item>/home/doomy/Downloads/Samurai.Jack.S05E07.HDTV.x264-W4F[ettv]/</Item>
       <Item>/home/doomy/Videos/</Item>
-      <Item>/home/doomy/Videos/nosub/</Item>
-      <Item>/home/doomy/Downloads/tuxcmd-0.6.70-bin-x86_64/</Item>
-      <Item>/home/doomy/Downloads/muCommander-0.9.1/</Item>
-      <Item>/home/doomy/Downloads/bsc/</Item>
-      <Item>/home/doomy/Downloads/vifm-0.8.2/</Item>
-      <Item>/home/doomy/Downloads/caja-1.16.5/</Item>
-      <Item>/home/doomy/Downloads/Outlaw.Tech.S01E01.HDTV.x264-[NY2] - [SRIGGA]/</Item>
-      <Item>/home/doomy/Downloads/Ancient.Aliens.S12E01.HDTV.x264-KILLERS[ettv]/</Item>
-      <Item>/home/doomy/Downloads/Colossal.2016.HC.HDRip.XviD.AC3-FK/</Item>
-      <Item>/home/doomy/Music/SELECTII/chillout/</Item>
-      <Item>/home/doomy/Music/SELECTII/</Item>
-      <Item>/home/doomy/Music/</Item>
       <Item>/home/doomy/</Item>
-      <Item>/home/doomy/Public/serviio-1.8/bin/</Item>
-      <Item>/home/doomy/Public/serviio-1.8/</Item>
-      <Item>/home/doomy/Public/</Item>
-      <Item>/home/doomy/.config/</Item>
-      <Item>/home/doomy/Projects/slimUG/</Item>
-      <Item>/home/doomy/Projects/slimUG/.config/</Item>
-      <Item>/home/doomy/Projects/slimUG/.config/doublecmd/</Item>
-      <Item>/home/doomy/Projects/slimUG/usr/</Item>
-      <Item>/home/doomy/Public/doublecmd-gtk2/</Item>
-      <Item>/home/doomy/Projects/slimUG/usr/share/</Item>
-      <Item>/home/doomy/Projects/slimUG/usr/share/applications/</Item>
-      <Item>/</Item>
-      <Item>/home/doomy/.config/doublecmd/</Item>
-      <Item>/usr/</Item>
-      <Item>/usr/games/</Item>
-      <Item>/usr/bin/</Item>
-      <Item>/usr/bin/X11/</Item>
-      <Item>/usr/bin/X11/X11/</Item>
-      <Item>/usr/share/</Item>
-      <Item>/home/doomy/Projects/slimUG/.local/</Item>
-      <Item>/home/doomy/Projects/slimUG/.local/share/</Item>
-      <Item>/home/doomy/Projects/slimUG/.local/share/icons/</Item>
-      <Item>/home/doomy/.local/share/themes/slimAdwaita/</Item>
-      <Item>/usr/share/applications/</Item>
       <Item>/home/</Item>
-      <Item>/home/doomy/.local/share/themes/</Item>
-      <Item>/home/doomy/.local/share/icons/</Item>
-      <Item>/home/doomy/.local/share/icons/slimAdwaita/</Item>
-      <Item>/home/doomy/.local/share/icons/slimAdwaita/apps/</Item>
-      <Item>/home/doomy/.local/share/gnome-shell/extensions/</Item>
-      <Item>/home/doomy/.local/share/gnome-shell/extensions/dash-to-dock@micxgx.gmail.com/</Item>
+      <Item>/</Item>
+      <Item>/run/</Item>
+      <Item>/run/user/</Item>
+      <Item>/run/user/1000/</Item>
+      <Item>/run/user/1000/gvfs/</Item>
+      <Item>/home/doomy/Projects/restapi/</Item>
+      <Item>/home/doomy/Downloads/</Item>
+      <Item>/home/doomy/Downloads/gnome-commander-1.6.4/</Item>
+      <Item>/home/doomy/Downloads/gnome-commander-1.6.4/libgcmd/</Item>
+      <Item>/home/doomy/Downloads/gnome-commander-1.6.4/libgcmd/.libs/</Item>
+      <Item>/home/doomy/Downloads/gnome-commander-1.6.4/libgcmd/.deps/</Item>
+      <Item>/home/doomy/Downloads/gnome-commander-1.6.4/po/</Item>
+      <Item>/home/doomy/Downloads/gnome-commander-1.6.4/src/</Item>
+      <Item>/home/doomy/Downloads/gnome-commander-1.6.4/doc/</Item>
+      <Item>/home/doomy/Downloads/gnome-commander-1.6.4/data/</Item>
+      <Item>/home/doomy/Projects/</Item>
+      <Item>/media/</Item>
+      <Item>/media/doomy/</Item>
+      <Item>/media/doomy/Samsung1TUSB3/</Item>
+      <Item>/home/doomy/.local/share/</Item>
+      <Item>/home/doomy/.local/</Item>
+      <Item>/media/doomy/Samsung1TUSB3/BAK11/</Item>
+      <Item>/media/doomy/Samsung1TUSB3/BAK10/</Item>
+      <Item>/media/doomy/Samsung1TUSB3/BAK10/home/</Item>
+      <Item>/media/doomy/Samsung1TUSB3/BAK10/usr/</Item>
+      <Item>/media/doomy/Samsung1TUSB3/BAK10/usr/share/</Item>
+      <Item>/media/doomy/Samsung1TUSB3/BAK10/usr/share/applications/</Item>
+      <Item>/media/doomy/Samsung1TUSB3/BAK10/opt/</Item>
+      <Item>/media/doomy/Samsung1TUSB3/BAK11/Public/</Item>
+      <Item>/home/doomy/Public/</Item>
+      <Item>/home/doomy/Public/serviio-1.8/</Item>
+      <Item>/home/doomy/Projects/slimUG/</Item>
+      <Item>/home/doomy/Projects/system/</Item>
+      <Item>/home/doomy/Projects/system/gnomecommander/</Item>
+      <Item>/home/doomy/Projects/system/coreutils/</Item>
+      <Item>/home/doomy/Projects/system/clipgrab/</Item>
+      <Item>/home/doomy/Projects/fiscalforms/</Item>
+      <Item>/home/doomy/Projects/pdftoxls/</Item>
+      <Item>/home/doomy/Projects/pdftoxls/tabula/</Item>
+      <Item>/home/doomy/Projects/uml/</Item>
+      <Item>/home/doomy/Projects/vscode/</Item>
+      <Item>/home/doomy/Projects/vscode/install/</Item>
+      <Item>/home/doomy/Projects/w10act/</Item>
+      <Item>/home/doomy/Documents/</Item>
+      <Item>/home/doomy/Documents/ebooks/</Item>
+      <Item>/home/doomy/Documents/LLBLGen Pro/</Item>
+      <Item>/home/doomy/Documents/LLBLGen Pro/v5.1/</Item>
+      <Item>/home/doomy/Documents/LLBLGen Pro/v5.1/Templates/</Item>
     </Navigation>
     <CommandLine/>
     <FileMask>
       <Item>spacefm</Item>
       <Item>*</Item>
       <Item>*.*</Item>
+      <Item>*.png</Item>
+      <Item>*.*~</Item>
+      <Item>*.jpg</Item>
+      <Item>*.svg</Item>
+      <Item>*~</Item>
+      <Item>*png</Item>
+      <Item>*jpg</Item>
+      <Item>*svg,*css</Item>
+      <Item>*svg;*css</Item>
+      <Item>*bmp</Item>
+      <Item>+</Item>
     </FileMask>
     <SearchText/>
     <SearchTextPath/>
