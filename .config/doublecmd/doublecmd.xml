@@ -504,7 +504,7 @@
                   <Path Filename="libgcmd">/home/doomy/Downloads/gnome-commander-1.6.4/</Path>
                   <Path Filename="..">/home/doomy/Downloads/</Path>
                   <Path Filename="Videos">/home/doomy/</Path>
-                  <Path Filename="..">/home/doomy/Videos/</Path>
+                  <Path Filename="The.Abyss.1989.WEBRip.x264-RARBG.mp4">/home/doomy/Videos/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -706,14 +706,6 @@
                   <Path Filename="share">/home/doomy/Projects/slimUG/.local/</Path>
                   <Path Filename="gnome-shell">/home/doomy/Projects/slimUG/.local/share/</Path>
                   <Path Filename="dash-to-dock@micxgx.gmail.com">/home/doomy/Projects/slimUG/.local/share/gnome-shell/</Path>
-                  <Path Filename="stylesheet.css">/home/doomy/Projects/slimUG/.local/share/gnome-shell/dash-to-dock@micxgx.gmail.com/</Path>
-                  <Path Filename="dash-to-dock@micxgx.gmail.com">/home/doomy/Projects/slimUG/.local/share/gnome-shell/</Path>
-                  <Path Filename="gnome-shell">/home/doomy/Projects/slimUG/.local/share/</Path>
-                  <Path Filename="share">/home/doomy/Projects/slimUG/.local/</Path>
-                  <Path Filename=".local">/home/doomy/Projects/slimUG/</Path>
-                  <Path Filename="share">/home/doomy/Projects/slimUG/.local/</Path>
-                  <Path Filename="gnome-shell">/home/doomy/Projects/slimUG/.local/share/</Path>
-                  <Path Filename="dash-to-dock@micxgx.gmail.com">/home/doomy/Projects/slimUG/.local/share/gnome-shell/</Path>
                   <Path Filename="button-current-hover.svg">/home/doomy/Projects/slimUG/.local/share/gnome-shell/dash-to-dock@micxgx.gmail.com/</Path>
                   <Path Filename="dash-to-dock@micxgx.gmail.com">/home/doomy/Projects/slimUG/.local/share/gnome-shell/</Path>
                   <Path Filename="gnome-shell">/home/doomy/Projects/slimUG/.local/share/</Path>
@@ -751,6 +743,14 @@
                   <Path Filename="..">/home/doomy/Projects/slimUG/</Path>
                   <Path Filename="restapi">/home/doomy/Projects/</Path>
                   <Path Filename="..">/home/doomy/Projects/restapi/</Path>
+                  <Path Filename="slimUG">/home/doomy/Projects/</Path>
+                  <Path Filename=".config">/home/doomy/Projects/slimUG/</Path>
+                  <Path Filename="doublecmd">/home/doomy/Projects/slimUG/.config/</Path>
+                  <Path Filename="pixmaps.txt">/home/doomy/Projects/slimUG/.config/doublecmd/</Path>
+                  <Path Filename="doublecmd">/home/doomy/Projects/slimUG/.config/</Path>
+                  <Path Filename="session.ini">/home/doomy/Projects/slimUG/.config/doublecmd/</Path>
+                  <Path Filename="doublecmd">/home/doomy/Projects/slimUG/.config/</Path>
+                  <Path Filename="..">/home/doomy/Projects/slimUG/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -893,8 +893,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="forms - clean black and white">/home/doomy/Projects/</Path>
-                  <Path Filename="html5-forms">/home/doomy/Projects/forms - clean black and white/</Path>
                   <Path Filename="..">/home/doomy/Projects/forms - clean black and white/html5-forms/</Path>
                   <Path Filename="..">/home/doomy/Projects/forms - clean black and white/</Path>
                   <Path Filename="agreentweak">/home/doomy/Projects/</Path>
@@ -942,7 +940,9 @@
                   <Path Filename="bin">/home/doomy/Public/serviio-1.8/</Path>
                   <Path Filename="serviio-console.sh">/home/doomy/Public/serviio-1.8/bin/</Path>
                   <Path Filename="bin">/home/doomy/Public/serviio-1.8/</Path>
-                  <Path Filename="">/home/doomy/Public/</Path>
+                  <Path Filename="serviio-1.8">/home/doomy/Public/</Path>
+                  <Path Filename="bin">/home/doomy/Public/serviio-1.8/</Path>
+                  <Path Filename="serviio-console.sh">/home/doomy/Public/serviio-1.8/bin/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -960,20 +960,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="Gypsy.S01E03.Driftwood.Lane.1080p.NF.WEB-DL.DD5.1.x264-NTb.srt">/home/doomy/Downloads/Gypsy - Sezonul 1 (2017)/</Path>
-                  <Path Filename="Gypsy.S01E05.WEBRip.x264-RARBG">/home/doomy/Downloads/</Path>
-                  <Path Filename="Subs">/home/doomy/Downloads/Gypsy.S01E05.WEBRip.x264-RARBG/</Path>
-                  <Path Filename="..">/home/doomy/Downloads/Gypsy.S01E05.WEBRip.x264-RARBG/Subs/</Path>
-                  <Path Filename="RARBG.txt">/home/doomy/Downloads/Gypsy.S01E05.WEBRip.x264-RARBG/</Path>
-                  <Path Filename="Gypsy.S01E06.WEBRip.x264-RARBG">/home/doomy/Downloads/</Path>
-                  <Path Filename="RARBG.txt">/home/doomy/Downloads/Gypsy.S01E06.WEBRip.x264-RARBG/</Path>
-                  <Path Filename="Epic.Mancave.Builds.S01E01.HDTV.x264-W4F[ettv]">/home/doomy/Downloads/</Path>
-                  <Path Filename="To keep us going please read.txt">/home/doomy/Downloads/Epic.Mancave.Builds.S01E01.HDTV.x264-W4F[ettv]/</Path>
-                  <Path Filename="VICE.Brexit.Stage.Left.S01E01.1080p.WEB.x264-WaLMAaRT">/home/doomy/Downloads/</Path>
-                  <Path Filename="..">/home/doomy/Downloads/VICE.Brexit.Stage.Left.S01E01.1080p.WEB.x264-WaLMAaRT/</Path>
-                  <Path Filename="Gypsy.S01E07.WEBRip.x264-FS">/home/doomy/Downloads/</Path>
-                  <Path Filename="Seeded by Seedplease SeedBoxes.txt">/home/doomy/Downloads/Gypsy.S01E07.WEBRip.x264-FS/</Path>
-                  <Path Filename="Gypsy.S01E07.WEBRip.x264-FS">/home/doomy/Downloads/</Path>
                   <Path Filename="Seeded by Seedplease SeedBoxes.txt">/home/doomy/Downloads/Gypsy.S01E07.WEBRip.x264-FS/</Path>
                   <Path Filename="Gypsy.S01E08.WEBRip.x264-RARBG">/home/doomy/Downloads/</Path>
                   <Path Filename="RARBG.txt">/home/doomy/Downloads/Gypsy.S01E08.WEBRip.x264-RARBG/</Path>
@@ -1009,7 +995,21 @@
                   <Path Filename="..">/home/doomy/Downloads/gnome-commander-1.6.4/libgcmd/.libs/</Path>
                   <Path Filename=".libs">/home/doomy/Downloads/gnome-commander-1.6.4/libgcmd/</Path>
                   <Path Filename="libgcmd">/home/doomy/Downloads/gnome-commander-1.6.4/</Path>
-                  <Path Filename="..">/home/doomy/Downloads/</Path>
+                  <Path Filename="Revolt.2017.HDRip.XviD.AC3-EVO">/home/doomy/Downloads/</Path>
+                  <Path Filename="Revolt.2017.HDRip.XviD.AC3-EVO.nfo">/home/doomy/Downloads/Revolt.2017.HDRip.XviD.AC3-EVO/</Path>
+                  <Path Filename="HC.HDRip">/home/doomy/Downloads/</Path>
+                  <Path Filename="Wonder.Woman.2017.1080p.HC.HDRip.X264.AC3-EVO.srt">/home/doomy/Downloads/HC.HDRip/</Path>
+                  <Path Filename="Wonder.Woman.2017.HC.HDRip.XviD.AC3-EVO">/home/doomy/Downloads/</Path>
+                  <Path Filename="Wonder.Woman.2017.HC.HDRip.XviD.AC3-EVO.nfo">/home/doomy/Downloads/Wonder.Woman.2017.HC.HDRip.XviD.AC3-EVO/</Path>
+                  <Path Filename="The.Abyss.1989.WEBRip.x264-RARBG">/home/doomy/Downloads/</Path>
+                  <Path Filename="RARBG.txt">/home/doomy/Downloads/The.Abyss.1989.WEBRip.x264-RARBG/</Path>
+                  <Path Filename="Innocent Blood (1992)">/home/doomy/Downloads/</Path>
+                  <Path Filename="..">/home/doomy/Downloads/Innocent Blood (1992)/</Path>
+                  <Path Filename="Europa Report (2013) [1080p]">/home/doomy/Downloads/</Path>
+                  <Path Filename="..">/home/doomy/Downloads/Europa Report (2013) [1080p]/</Path>
+                  <Path Filename="Europa Report (2013) [1080p]">/home/doomy/Downloads/</Path>
+                  <Path Filename="WWW.YIFY-TORRENTS.COM.jpg">/home/doomy/Downloads/Europa Report (2013) [1080p]/</Path>
+                  <Path Filename="Innocent Blood (1992)">/home/doomy/Downloads/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -1024,8 +1024,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="apps">/home/doomy/.local/share/icons/slimAdwaita/</Path>
-                  <Path Filename="scalable">/home/doomy/.local/share/icons/slimAdwaita/apps/</Path>
                   <Path Filename="scalable">/home/doomy/.local/share/icons/slimAdwaita/apps/scalable/</Path>
                   <Path Filename="..">/home/doomy/.local/share/icons/slimAdwaita/apps/scalable/scalable/</Path>
                   <Path Filename="doublecmd.svg">/home/doomy/.local/share/icons/slimAdwaita/apps/scalable/</Path>
@@ -1073,7 +1071,9 @@
                   <Path Filename="apps">/home/doomy/.local/share/icons/slimAdwaita/</Path>
                   <Path Filename="scalable">/home/doomy/.local/share/icons/slimAdwaita/apps/</Path>
                   <Path Filename="cmus.svg">/home/doomy/.local/share/icons/slimAdwaita/apps/scalable/</Path>
-                  <Path Filename="">/home/doomy/.local/share/icons/slimAdwaita/apps/</Path>
+                  <Path Filename="..">/home/doomy/.local/share/icons/slimAdwaita/apps/</Path>
+                  <Path Filename="apps">/home/doomy/.local/share/icons/slimAdwaita/</Path>
+                  <Path Filename="..">/home/doomy/.local/share/icons/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -1088,8 +1088,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="gnome-shell">/home/doomy/.local/share/themes/slimAdwaita/</Path>
-                  <Path Filename="gnome-shell.css">/home/doomy/.local/share/themes/slimAdwaita/gnome-shell/</Path>
                   <Path Filename="backgrounds">/home/doomy/.local/share/themes/slimAdwaita/</Path>
                   <Path Filename="leaves-241701.jpg">/home/doomy/.local/share/themes/slimAdwaita/backgrounds/</Path>
                   <Path Filename="backgrounds">/home/doomy/.local/share/themes/slimAdwaita/</Path>
@@ -1137,7 +1135,9 @@
                   <Path Filename="themes">/home/doomy/.local/share/</Path>
                   <Path Filename="slimAdwaita">/home/doomy/.local/share/themes/</Path>
                   <Path Filename="backgrounds">/home/doomy/.local/share/themes/slimAdwaita/</Path>
-                  <Path Filename="">/home/doomy/.local/share/themes/slimAdwaita/backgrounds/</Path>
+                  <Path Filename="..">/home/doomy/.local/share/themes/slimAdwaita/backgrounds/</Path>
+                  <Path Filename="backgrounds">/home/doomy/.local/share/themes/slimAdwaita/</Path>
+                  <Path Filename="..">/home/doomy/.local/share/themes/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -1152,7 +1152,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="screenshot.png">/home/doomy/.local/share/gnome-shell/extensions/pixel-saver@deadalnix.me/themes/default/</Path>
                   <Path Filename="default">/home/doomy/.local/share/gnome-shell/extensions/pixel-saver@deadalnix.me/themes/</Path>
                   <Path Filename="themes">/home/doomy/.local/share/gnome-shell/extensions/pixel-saver@deadalnix.me/</Path>
                   <Path Filename="window_buttons@biox.github.com">/home/doomy/.local/share/gnome-shell/extensions/</Path>
@@ -1201,7 +1200,8 @@
                   <Path Filename="Arc-Menu-master">/home/doomy/.local/share/gnome-shell/extensions/</Path>
                   <Path Filename="schemas">/home/doomy/.local/share/gnome-shell/extensions/Arc-Menu-master/</Path>
                   <Path Filename="dash-to-dock@micxgx.gmail.com">/home/doomy/.local/share/gnome-shell/extensions/</Path>
-                  <Path Filename="">/home/doomy/.local/share/gnome-shell/extensions/dash-to-dock@micxgx.gmail.com/</Path>
+                  <Path Filename="..">/home/doomy/.local/share/gnome-shell/extensions/dash-to-dock@micxgx.gmail.com/</Path>
+                  <Path Filename="..">/home/doomy/.local/share/gnome-shell/extensions/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -1216,14 +1216,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="icons">/home/doomy/.local/share/</Path>
-                  <Path Filename="slimAdwaita">/home/doomy/.local/share/icons/</Path>
-                  <Path Filename="apps">/home/doomy/.local/share/icons/slimAdwaita/</Path>
-                  <Path Filename="scalable">/home/doomy/.local/share/icons/slimAdwaita/apps/</Path>
-                  <Path Filename="..">/home/doomy/.local/share/icons/slimAdwaita/apps/scalable/</Path>
-                  <Path Filename="Downloads">/home/doomy/</Path>
-                  <Path Filename="..">/home/doomy/Downloads/</Path>
-                  <Path Filename=".local">/home/doomy/</Path>
                   <Path Filename="share">/home/doomy/.local/</Path>
                   <Path Filename="themes">/home/doomy/.local/share/</Path>
                   <Path Filename="slimAdwaita">/home/doomy/.local/share/themes/</Path>
@@ -1265,7 +1257,15 @@
                   <Path Filename="mpv">/home/doomy/.config/</Path>
                   <Path Filename="..">/home/doomy/.config/mpv/</Path>
                   <Path Filename="gtk-3.0">/home/doomy/.config/</Path>
-                  <Path Filename="">/home/doomy/.config/gtk-3.0/</Path>
+                  <Path Filename="gtk.css">/home/doomy/.config/gtk-3.0/</Path>
+                  <Path Filename="doublecmd">/home/doomy/.config/</Path>
+                  <Path Filename="..">/home/doomy/.config/doublecmd/</Path>
+                  <Path Filename="doublecmd">/home/doomy/.config/</Path>
+                  <Path Filename="doomy">/home/</Path>
+                  <Path Filename="home">/</Path>
+                  <Path Filename="doomy">/home/</Path>
+                  <Path Filename=".config">/home/doomy/</Path>
+                  <Path Filename="..">/home/doomy/.config/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -1481,9 +1481,32 @@
           <Overcolor>True</Overcolor>
         </Column>
         <Column>
+          <Title>Date</Title>
+          <FuncString>[DC().GETFILETIME{}] </FuncString>
+          <Width>200</Width>
+          <Align>1</Align>
+          <Font>
+            <Name>default</Name>
+            <Size>14</Size>
+            <Style>1</Style>
+            <Quality>0</Quality>
+          </Font>
+          <TextColor>-2147483640</TextColor>
+          <Background>-2147483643</Background>
+          <Background2>-2147483643</Background2>
+          <MarkColor>255</MarkColor>
+          <CursorColor>15780518</CursorColor>
+          <CursorText>-2147483640</CursorText>
+          <InactiveCursorColor>-2147483618</InactiveCursorColor>
+          <InactiveMarkColor>255</InactiveMarkColor>
+          <UseInvertedSelection>False</UseInvertedSelection>
+          <UseInactiveSelColor>True</UseInactiveSelColor>
+          <Overcolor>True</Overcolor>
+        </Column>
+        <Column>
           <Title>Size</Title>
           <FuncString>[DC().GETFILESIZE{}] </FuncString>
-          <Width>150</Width>
+          <Width>200</Width>
           <Align>1</Align>
           <Font>
             <Name>default</Name>

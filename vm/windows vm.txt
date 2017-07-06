@@ -1,0 +1,18 @@
+Virtual machine for windows
+
+Download MS Edge virtual machine from https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
+Import appliance in Oracle VM VirtualBox
+Download Extension Pack and Guest Additions from http://download.virtualbox.org/virtualbox/
+Open Extension Pack with Oracle VM VirtualBox for installation
+Add optical drive to virtual machine, load Guest Additions iso
+Create a shared folder in vm settings
+Start virtual machine, install Guest addition inside windows virtual machine
+You can now access the shared folder, use clipboard and resize Virtual Display
+
+Download installer for Visual Studio Enterprise
+Access Visual Studio Installer from Start menu
+Modify the Visual Studio 2017 Enterprise install
+Switch to the Individual Components tab
+Scroll down to Code Tools
+Check Code Map and Live Dependency Validation
+You now have the Architecture menu
