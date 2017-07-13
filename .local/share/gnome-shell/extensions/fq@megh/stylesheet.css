@@ -1,0 +1,19 @@
+#force-quit {
+    padding: 0 4px;
+}
+
+#panel {
+    /* background: black; */
+}
+
+#panelLeft {
+    /* background: red; */
+}
+
+.clock-display {
+    /* background: green; */
+}
+
+#panelRight {
+    /* background: blue; */
+}
