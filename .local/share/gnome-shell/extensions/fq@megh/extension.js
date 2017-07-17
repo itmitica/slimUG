@@ -7,6 +7,8 @@ const GLib = imports.gi.GLib;
 let button;
 
 function init() {
+    Gtk.IconTheme.get_default().append_search_path(Meta.dir.get_child('icons').get_path());
+
     button = new St.Bin({ name: 'force-quit',
                           style_class: 'panel-button',
                           reactive: true,
