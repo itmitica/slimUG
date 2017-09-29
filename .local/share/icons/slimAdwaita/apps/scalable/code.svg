@@ -8981,14 +8981,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="3.7803667"
-     inkscape:cy="34.927563"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="17.165946"
+     inkscape:cy="29.649195"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1526"
-     inkscape:window-height="822"
+     inkscape:window-width="1846"
+     inkscape:window-height="1001"
      inkscape:window-x="74"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
@@ -9041,6 +9041,6 @@
   <path
      inkscape:connector-curvature="0"
      id="path2979"
-     d="M 6.9999997,45.75 H 57.000001"
+     d="m 26.451594,45.75 h 26"
      style="fill:none;fill-rule:evenodd;stroke:#363636;stroke-width:0.49999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
 </svg>

@@ -14,7 +14,7 @@
    viewBox="0 0 64.000001 64.000001"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (unknown)"
    sodipodi:docname="keepnote.svg"
    inkscape:export-filename="/home/doomy/.local/share/icons/slimAdwaita/apps/48/accessories-calculator.png"
    inkscape:export-xdpi="90"
@@ -8872,14 +8872,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9800001"
-     inkscape:cx="-191.19148"
-     inkscape:cy="33.995221"
+     inkscape:zoom="3.9600002"
+     inkscape:cx="-48.626419"
+     inkscape:cy="59.932841"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1526"
-     inkscape:window-height="822"
+     inkscape:window-width="1846"
+     inkscape:window-height="1001"
      inkscape:window-x="74"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
@@ -8900,19 +8900,23 @@
   </metadata>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#363636;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#363636;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="17.45105"
-     y="60"
-     id="text6221"
-     sodipodi:linespacing="125%"><tspan
+     y="62"
+     id="text6221"><tspan
        sodipodi:role="line"
        id="tspan6223"
        x="17.45105"
-       y="60"
+       y="62"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;word-spacing:30.57005882px;writing-mode:lr-tb;text-anchor:start">KNT</tspan></text>
   <path
      inkscape:connector-curvature="0"
-     d="m 46.792858,14.142859 -7.328576,0 0,-7.3285731 7.328576,7.3285731 z m -8.685717,2.714282 C 37.360716,16.857142 36.75,16.246425 36.75,15.5 l 0,-9.5 -19,0 c -0.746425,0 -1.357142,0.6107142 -1.357142,1.3571425 l 0,35.2857155 C 16.392858,43.389283 17.003575,44 17.75,44 l 28.5,0 c 0.746425,0 1.357141,-0.610717 1.357141,-1.357142 l 0,-25.785716 -9.5,0 z"
+     d="M 46.792858,16.142859 H 39.464282 V 8.8142859 Z m -8.685717,2.714282 C 37.360716,18.857142 36.75,18.246425 36.75,17.5 V 8 h -19 C 17.003575,8 16.392858,8.6107142 16.392858,9.3571425 V 44.642858 C 16.392858,45.389283 17.003575,46 17.75,46 h 28.5 c 0.746425,0 1.357141,-0.610717 1.357141,-1.357142 V 18.857142 Z"
      id="path4"
      style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#363636;fill-opacity:1;fill-rule:nonzero;stroke-width:0.52093273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#363636;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 9,45.75 H 55"
+     id="path2979"
+     inkscape:connector-curvature="0" />
 </svg>

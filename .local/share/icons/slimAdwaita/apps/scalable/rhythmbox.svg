@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.2 (unknown)"
-   sodipodi:docname="rhythmbox.svg"
+   sodipodi:docname="rhythmbox-device.svg"
    inkscape:export-filename="/home/doomy/.local/share/icons/slimAdwaita/apps/48/accessories-calculator.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -8879,14 +8879,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9800001"
-     inkscape:cx="-79.678321"
-     inkscape:cy="67.03178"
+     inkscape:zoom="5.600286"
+     inkscape:cx="-1.9580834"
+     inkscape:cy="21.727694"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1526"
-     inkscape:window-height="822"
+     inkscape:window-width="1846"
+     inkscape:window-height="1001"
      inkscape:window-x="74"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
@@ -8944,7 +8944,7 @@
   </g>
   <path
      style="fill:none;fill-rule:evenodd;stroke:#363636;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 7,45.75 H 57"
+     d="m 22.464314,45.75 h 30"
      id="path2979"
      inkscape:connector-curvature="0" />
 </svg>
