@@ -14,7 +14,7 @@
    viewBox="0 0 64.000001 64.000001"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (unknown)"
    sodipodi:docname="utilities-terminal.svg"
    inkscape:export-filename="/home/doomy/.local/share/icons/slimAdwaita/apps/48/utilities-terminal.png"
    inkscape:export-xdpi="90"
@@ -8872,9 +8872,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.98"
-     inkscape:cx="-127.81947"
-     inkscape:cy="1.9801581"
+     inkscape:zoom="2.8001429"
+     inkscape:cx="-41.114583"
+     inkscape:cy="-20.162904"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
@@ -8901,33 +8901,37 @@
   <g
      id="g6117"
      style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#363636;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.56680357px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-     transform="matrix(0,0.60784962,-0.60784962,0,648.50031,33.107344)">
+     transform="matrix(0,0.6382421,-0.6382421,0,679.32532,36.662711)">
     <path
        id="path4"
-       d="m -41.05182,988.92265 0,50.61885 c 0,4.1924 3.397906,7.593 7.593015,7.593 l 40.4963774,0 c 4.1915496,0 7.5921246,-3.4006 7.5921246,-7.593 l 0,-50.61975 c 0,-4.1925 -3.400575,-7.593 -7.5921246,-7.593 l -40.4963774,0 c -4.19422,0 -7.593015,3.4014 -7.593015,7.5939 z m 48.0893924,-2.5313 c 1.393328,0 2.530412,1.1362 2.530412,2.5313 l 0,50.61885 c 0,1.3942 -1.136194,2.5313 -2.530412,2.5313 l -35.4337744,0 0,-55.68145 35.4337744,0 z"
+       d="m -41.05182,988.92265 v 50.61885 c 0,4.1924 3.397906,7.593 7.593015,7.593 H 7.0375724 c 4.1915496,0 7.5921246,-3.4006 7.5921246,-7.593 v -50.61975 c 0,-4.1925 -3.400575,-7.593 -7.5921246,-7.593 H -33.458805 c -4.19422,0 -7.593015,3.4014 -7.593015,7.5939 z m 48.0893924,-2.5313 c 1.393328,0 2.530412,1.1362 2.530412,2.5313 v 50.61885 c 0,1.3942 -1.136194,2.5313 -2.530412,2.5313 H -28.396202 v -55.68145 z"
        inkscape:connector-curvature="0"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#363636;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.56680357px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <path
        id="path6"
-       d="m -3.0867446,1014.232 c 0,1.3942 -1.137084,2.5313 -2.531301,2.5313 l 0,0 c -1.394218,0 -2.531302,-1.1371 -2.531302,-2.5313 l 0,-12.6556 c 0,-1.3933 1.136194,-2.53125 2.531302,-2.53125 l 0,0 c 1.393328,0 2.531301,1.13705 2.531301,2.53125 l 0,12.6556 z"
+       d="m -3.0867446,1014.232 c 0,1.3942 -1.137084,2.5313 -2.531301,2.5313 v 0 c -1.394218,0 -2.531302,-1.1371 -2.531302,-2.5313 v -12.6556 c 0,-1.3933 1.136194,-2.53125 2.531302,-2.53125 v 0 c 1.393328,0 2.531301,1.13705 2.531301,2.53125 z"
        inkscape:connector-curvature="0"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#363636;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.56680357px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <polygon
        id="polygon8"
-       points="42.78,51.902 32.821,41.946 25.567,41.946 35.526,51.902 25.57,61.859 32.824,61.859 "
+       points="25.57,61.859 32.824,61.859 42.78,51.902 32.821,41.946 25.567,41.946 35.526,51.902 "
        transform="matrix(0,-0.88973693,0.88973693,0,-58.124978,1058.7482)"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#363636;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.76097393px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
   </g>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#363636;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#363636;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="17.776672"
-     y="60"
-     id="text6221"
-     sodipodi:linespacing="125%"><tspan
+     y="62"
+     id="text6221"><tspan
        sodipodi:role="line"
        id="tspan6223"
        x="17.776672"
-       y="60"
+       y="62"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;word-spacing:30.57005882px;writing-mode:lr-tb;text-anchor:start">TRM</tspan></text>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#363636;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 7.0000015,45.75 H 56.999998"
+     id="path2979"
+     inkscape:connector-curvature="0" />
 </svg>
