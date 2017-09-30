@@ -2,7 +2,7 @@
 Name=Faenza
 Inherits=Adwaita,gnome,hicolor
 Comment=slightly modified Adwaita
-Directories=actions/scalable,actions/symbolic,apps/scalable
+Directories=actions/scalable,actions/symbolic,apps/scalable,48x48/actions
 
 [actions/scalable]
 Context=Actions
