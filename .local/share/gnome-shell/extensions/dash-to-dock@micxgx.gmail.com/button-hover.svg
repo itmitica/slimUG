@@ -14,7 +14,7 @@
    inkscape:export-xdpi="91"
    inkscape:export-filename="button.png"
    sodipodi:docname="button-hover.svg"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (unknown)"
    version="1.1"
    id="svg6148"
    viewBox="0 0 63.999998 63.999997"
@@ -1158,8 +1158,8 @@
      inkscape:window-maximized="1"
      inkscape:window-y="34"
      inkscape:window-x="74"
-     inkscape:window-height="822"
-     inkscape:window-width="1526"
+     inkscape:window-height="1001"
+     inkscape:window-width="1846"
      fit-margin-bottom="0"
      fit-margin-right="0"
      fit-margin-left="0"
@@ -1167,8 +1167,8 @@
      showgrid="false"
      inkscape:current-layer="svg6148"
      inkscape:document-units="px"
-     inkscape:cy="83.632249"
-     inkscape:cx="-149.91379"
+     inkscape:cy="80.944419"
+     inkscape:cx="-282.28941"
      inkscape:zoom="1.4881894"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -1184,14 +1184,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="g5840"
      transform="matrix(0.9723645,0,0,0.9723645,0.88433572,0.88433574)"
-     style="opacity:0.25">
+     style="opacity:0.15">
     <path
        d="m 63.019874,31.999999 a 31.020483,31.020483 0 1 1 -62.03974995,0 31.020483,31.020483 0 1 1 62.03974995,0 z"
        stroke-miterlimit=".1"
