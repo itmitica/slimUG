@@ -1158,8 +1158,8 @@
      inkscape:window-maximized="1"
      inkscape:window-y="34"
      inkscape:window-x="74"
-     inkscape:window-height="1001"
-     inkscape:window-width="1846"
+     inkscape:window-height="822"
+     inkscape:window-width="1526"
      fit-margin-bottom="0"
      fit-margin-right="0"
      fit-margin-left="0"
@@ -1167,8 +1167,8 @@
      showgrid="false"
      inkscape:current-layer="svg6148"
      inkscape:document-units="px"
-     inkscape:cy="18.908561"
-     inkscape:cx="-9.7240921"
+     inkscape:cy="18.047891"
+     inkscape:cx="-48.992168"
      inkscape:zoom="4.6475412"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -1191,7 +1191,7 @@
   <g
      id="g5840"
      transform="matrix(0.9723645,0,0,0.9723645,0.88433572,0.88433574)"
-     style="opacity:0.25">
+     style="opacity:0.5">
     <path
        d="m 63.019874,31.999999 a 31.020483,31.020483 0 1 1 -62.03974995,0 31.020483,31.020483 0 1 1 62.03974995,0 z"
        stroke-miterlimit=".1"
