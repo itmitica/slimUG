@@ -1,6 +1,0 @@
-reduce size to rounded pixels
-white border - 40 allaround, then 50 bottom
-title: Century Schoolbook L Medium, 18
-shadow: 4, 4, 15, 60
-offset: 40
-
