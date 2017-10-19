@@ -14,7 +14,7 @@
    viewBox="0 0 64.000001 64.000001"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (unknown)"
    sodipodi:docname="cmus.svg"
    inkscape:export-filename="/home/doomy/.local/share/icons/slimAdwaita/apps/48/cmus.png"
    inkscape:export-xdpi="90"
@@ -8872,14 +8872,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.98"
-     inkscape:cx="-144.0231"
-     inkscape:cy="-16.205579"
+     inkscape:zoom="2.8001429"
+     inkscape:cx="-37.435787"
+     inkscape:cy="1.5250596"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1526"
-     inkscape:window-height="822"
+     inkscape:window-width="1846"
+     inkscape:window-height="1001"
      inkscape:window-x="74"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
@@ -8900,19 +8900,23 @@
   </metadata>
   <path
      inkscape:connector-curvature="0"
-     d="m 31.999996,6 c -9.924746,0 -18,8.075253 -18,18.000004 l 0,3.375001 0,1.124999 0,7.874995 c 0,3.093749 2.531254,5.625 5.625,5.625 3.093753,0 5.624999,-2.531251 5.624999,-5.625 l 0,-8.999994 c 0,-3.09375 -2.531246,-5.625001 -5.625,-5.625001 -0.3195,0 -0.63,0.04275 -0.936,0.0945 1.037255,-6.419251 6.6015,-11.344502 13.311,-11.344502 6.709501,0 12.273755,4.925251 13.310999,11.344502 -0.305999,-0.05175 -0.6165,-0.0945 -0.936,-0.0945 -3.093745,0 -5.624999,2.531251 -5.624999,5.625002 l 0,8.999994 c 0,3.093749 2.531254,5.625 5.624999,5.625 3.093755,0 5.625002,-2.531251 5.625002,-5.625 l 0,-7.874995 0,-1.124999 0,-3.375001 C 49.999996,14.075253 41.924749,6 31.999996,6"
+     d="m 31.999996,8 c -9.924746,0 -18,8.075253 -18,18.000004 v 3.375001 1.124999 7.874995 c 0,3.093749 2.531254,5.625 5.625,5.625 3.093753,0 5.624999,-2.531251 5.624999,-5.625 v -8.999994 c 0,-3.09375 -2.531246,-5.625001 -5.625,-5.625001 -0.3195,0 -0.63,0.04275 -0.936,0.0945 1.037255,-6.419251 6.6015,-11.344502 13.311,-11.344502 6.709501,0 12.273755,4.925251 13.310999,11.344502 -0.305999,-0.05175 -0.6165,-0.0945 -0.936,-0.0945 -3.093745,0 -5.624999,2.531251 -5.624999,5.625002 V 38.375 c 0,3.093749 2.531254,5.625 5.624999,5.625 3.093755,0 5.625002,-2.531251 5.625002,-5.625 V 30.500005 29.375006 26.000005 C 49.999996,16.075253 41.924749,8 31.999996,8"
      id="path12"
      style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#363636;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#363636;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="16.890442"
-     y="59.805298"
-     id="text6221"
-     sodipodi:linespacing="125%"><tspan
+     y="62.805298"
+     id="text6221"><tspan
        sodipodi:role="line"
        id="tspan6223"
        x="16.890442"
-       y="59.805298"
+       y="62.805298"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;word-spacing:30.57005882px;writing-mode:lr-tb;text-anchor:start">CMS</tspan></text>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#363636;stroke-width:0.49999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 8,43.75 H 56"
+     id="path2979"
+     inkscape:connector-curvature="0" />
 </svg>

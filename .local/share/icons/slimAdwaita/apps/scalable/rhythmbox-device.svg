@@ -8880,8 +8880,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.600286"
-     inkscape:cx="-1.9580834"
-     inkscape:cy="21.727694"
+     inkscape:cx="-37.134858"
+     inkscape:cy="21.013445"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
@@ -8909,17 +8909,17 @@
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#363636;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="18.552124"
-     y="62"
+     y="63"
      id="text6221"><tspan
        sodipodi:role="line"
        id="tspan6223"
        x="18.552124"
-       y="62"
+       y="63"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;word-spacing:30.57005882px;writing-mode:lr-tb;text-anchor:start">RTX</tspan></text>
   <g
      style="clip-rule:evenodd;opacity:1;vector-effect:none;fill:#363636;fill-opacity:1;fill-rule:evenodd;stroke-width:0.52093273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="g6811"
-     transform="matrix(0.16087692,0,0,0.14625174,13.874857,5.9635118)">
+     transform="matrix(0.16087692,0,0,0.14625174,13.874857,3.9635118)">
     <ellipse
        style="vector-effect:none;fill:#363636;fill-opacity:1;stroke-width:2.08719635;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        cy="0"
@@ -8944,7 +8944,7 @@
   </g>
   <path
      style="fill:none;fill-rule:evenodd;stroke:#363636;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 22.464314,45.75 h 30"
+     d="m 22.464314,43.75 h 30"
      id="path2979"
      inkscape:connector-curvature="0" />
 </svg>

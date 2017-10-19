@@ -15,7 +15,7 @@
    viewBox="0 0 64.000001 64.000001"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (unknown)"
    sodipodi:docname="eog.svg"
    inkscape:export-filename="/home/doomy/.local/share/icons/slimAdwaita/apps/48/eog.png"
    inkscape:export-xdpi="90"
@@ -8873,14 +8873,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.98"
-     inkscape:cx="-83.056131"
-     inkscape:cy="83.052238"
+     inkscape:zoom="11.200571"
+     inkscape:cx="34.777734"
+     inkscape:cy="31.83789"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1526"
-     inkscape:window-height="822"
+     inkscape:window-width="1846"
+     inkscape:window-height="1001"
      inkscape:window-x="74"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
@@ -8899,7 +8899,7 @@
     </rdf:RDF>
   </metadata>
   <switch
-     transform="matrix(0.42194093,0,0,0.38780615,411.3249,-364.61475)"
+     transform="matrix(0.42194093,0,0,0.38780615,411.3249,-362.61475)"
      id="switch4"
      style="fill:#333333">
     <foreignObject
@@ -8917,7 +8917,7 @@
          style="fill:#333333">
         <path
            inkscape:connector-curvature="0"
-           d="m -862.4,967.7 -3.2,0 0,-3.4 c 0,-6 -4.8,-10.8 -10.8,-10.8 l -59.2,0 c -6,0 -10.8,4.8 -10.8,10.8 l 0,59.2 c 0,6 4.8,10.8 10.8,10.8 l 3.2,0 0,3.4 c 0,6 4.8,10.8 10.8,10.8 l 59.2,0 c 6,0 10.8,-4.8 10.8,-10.8 l 0,-59.2 c 0,-6 -4.8,-10.8 -10.8,-10.8 z m -73.2,60.6 c -2.6,0 -4.8,-2.2 -4.8,-4.8 l 0,-59.2 c 0,-2.6 2.2,-4.8 4.8,-4.8 l 59.2,0 c 2.6,0 4.8,2.2 4.8,4.8 l 0,3.4 -50,0 c -6,0 -10.8,4.8 -10.8,10.8 l 0,49.9 -3.2,0 z m 78,-18.2 -13.7,-17.3 c -1.7,-2.1 -4.8,-2.1 -6.5,0 l -20,25.3 -8.4,-9.1 c -1.7,-1.9 -4.7,-1.9 -6.4,0 l -13.9,15.1 0,-45.5 c 0,-2.6 2.2,-4.8 4.8,-4.8 l 59.2,0 c 2.6,0 4.8,2.2 4.8,4.8 l 0,31.5 z"
+           d="m -862.4,967.7 h -3.2 v -3.4 c 0,-6 -4.8,-10.8 -10.8,-10.8 h -59.2 c -6,0 -10.8,4.8 -10.8,10.8 v 59.2 c 0,6 4.8,10.8 10.8,10.8 h 3.2 v 3.4 c 0,6 4.8,10.8 10.8,10.8 h 59.2 c 6,0 10.8,-4.8 10.8,-10.8 v -59.2 c 0,-6 -4.8,-10.8 -10.8,-10.8 z m -73.2,60.6 c -2.6,0 -4.8,-2.2 -4.8,-4.8 v -59.2 c 0,-2.6 2.2,-4.8 4.8,-4.8 h 59.2 c 2.6,0 4.8,2.2 4.8,4.8 v 3.4 h -50 c -6,0 -10.8,4.8 -10.8,10.8 v 49.9 h -3.2 z m 78,-18.2 -13.7,-17.3 c -1.7,-2.1 -4.8,-2.1 -6.5,0 l -20,25.3 -8.4,-9.1 c -1.7,-1.9 -4.7,-1.9 -6.4,0 l -13.9,15.1 v -45.5 c 0,-2.6 2.2,-4.8 4.8,-4.8 h 59.2 c 2.6,0 4.8,2.2 4.8,4.8 v 31.5 z"
            id="path10"
            style="fill:#333333" />
         <circle
@@ -8931,14 +8931,18 @@
   </switch>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#363636;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#363636;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="15.413391"
-     y="59.805298"
-     id="text6221"
-     sodipodi:linespacing="125%"><tspan
+     y="62.805298"
+     id="text6221"><tspan
        sodipodi:role="line"
        id="tspan6223"
        x="15.413391"
-       y="59.805298"
+       y="62.805298"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;word-spacing:30.57005882px;writing-mode:lr-tb;text-anchor:start">MGV</tspan></text>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#363636;stroke-width:0.49999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 12.875167,43.749999 H 56.875166"
+     id="path2979"
+     inkscape:connector-curvature="0" />
 </svg>

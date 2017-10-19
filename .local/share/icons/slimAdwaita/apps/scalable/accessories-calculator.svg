@@ -14,7 +14,7 @@
    viewBox="0 0 64.000001 64.000001"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (unknown)"
    sodipodi:docname="accessories-calculator.svg"
    inkscape:export-filename="/home/doomy/.local/share/icons/slimAdwaita/apps/48/accessories-calculator.png"
    inkscape:export-xdpi="90"
@@ -8873,13 +8873,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.9800001"
-     inkscape:cx="-4.827852"
+     inkscape:cx="-105.3329"
      inkscape:cy="36.772999"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1526"
-     inkscape:window-height="822"
+     inkscape:window-width="1846"
+     inkscape:window-height="1001"
      inkscape:window-x="74"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
@@ -8899,33 +8899,37 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="matrix(0.47619048,0,0,0.47619048,8.190476,-1.8095242)"
+     transform="matrix(0.47619048,0,0,0.47619048,8.190476,0.19047584)"
      id="g4-3"
      style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#363636;fill-opacity:1;fill-rule:nonzero;stroke-width:1.09395874;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">
     <path
        inkscape:connector-curvature="0"
-       d="M 82,8 18,8 C 12.5,8 8,12.5 8,18 l 0,64 c 0,5.5 4.5,10 10,10 l 64,0 c 5.5,0 10,-4.5 10,-10 L 92,18 C 92,12.5 87.5,8 82,8 Z m -60.9,20.7 17.3,0 0,4 -17.3,0 0,-4 z M 48,88 18,88 c -3.3,0 -6,-2.7 -6,-6 l 0,-30 36,0 0,36 z m 30,-12 -17.3,0 0,-4 17.3,0 0,4 z m 0,-9 -17.3,0 0,-4 17.3,0 0,4 z m 10,-19 -36,0 0,-36 30,0 c 3.3,0 6,2.7 6,6 l 0,30 z"
+       d="M 82,8 H 18 C 12.5,8 8,12.5 8,18 v 64 c 0,5.5 4.5,10 10,10 h 64 c 5.5,0 10,-4.5 10,-10 V 18 C 92,12.5 87.5,8 82,8 Z M 21.1,28.7 h 17.3 v 4 H 21.1 Z M 48,88 H 18 c -3.3,0 -6,-2.7 -6,-6 V 52 H 48 Z M 78,76 H 60.7 V 72 H 78 Z m 0,-9 H 60.7 V 63 H 78 Z M 88,48 H 52 V 12 h 30 c 3.3,0 6,2.7 6,6 z"
        id="path6-6"
        style="fill:#363636;fill-opacity:1" />
     <polygon
-       points="27.7,59.4 27.7,66 21.1,66 21.1,70 27.7,70 27.7,76.7 31.7,76.7 31.7,70 38.4,70 38.4,66 31.7,66 31.7,59.4 "
+       points="27.7,66 21.1,66 21.1,70 27.7,70 27.7,76.7 31.7,76.7 31.7,70 38.4,70 38.4,66 31.7,66 31.7,59.4 27.7,59.4 "
        id="polygon8"
        style="fill:#363636;fill-opacity:1" />
     <polygon
-       points="69.4,33.5 74.1,38.2 76.9,35.4 72.2,30.7 76.9,26 74.1,23.1 69.4,27.8 64.6,23.1 61.8,26 66.5,30.7 61.8,35.4 64.6,38.2 "
+       points="74.1,38.2 76.9,35.4 72.2,30.7 76.9,26 74.1,23.1 69.4,27.8 64.6,23.1 61.8,26 66.5,30.7 61.8,35.4 64.6,38.2 69.4,33.5 "
        id="polygon10"
        style="fill:#363636;fill-opacity:1" />
   </g>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#363636;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#363636;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="18.552124"
-     y="59.805298"
-     id="text6221"
-     sodipodi:linespacing="125%"><tspan
+     y="62.805298"
+     id="text6221"><tspan
        sodipodi:role="line"
        id="tspan6223"
        x="18.552124"
-       y="59.805298"
+       y="62.805298"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;word-spacing:30.57005882px;writing-mode:lr-tb;text-anchor:start">CLC</tspan></text>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#363636;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 5.9999999,43.75 H 58"
+     id="path2979"
+     inkscape:connector-curvature="0" />
 </svg>

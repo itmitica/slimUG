@@ -15,7 +15,7 @@
    viewBox="0 0 64.000001 64.000001"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (unknown)"
    sodipodi:docname="insomnia.svg"
    inkscape:export-filename="/home/doomy/.local/share/icons/slimAdwaita/apps/48/insomnia.png"
    inkscape:export-xdpi="90"
@@ -8910,14 +8910,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.98"
-     inkscape:cx="-136.18512"
-     inkscape:cy="10.570092"
+     inkscape:zoom="3.96"
+     inkscape:cx="-39.153522"
+     inkscape:cy="33.444208"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1526"
-     inkscape:window-height="822"
+     inkscape:window-width="1846"
+     inkscape:window-height="1001"
      inkscape:window-x="74"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
@@ -8936,20 +8936,24 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#363636;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#363636;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
      id="path6-6"
-     d="M 31.999996,3.9999991 C 21.524553,3.9999991 13,12.524535 13,22.999999 13,33.475463 21.524553,42 31.999996,42 42.475447,42 51,33.475463 51,22.999999 51,12.524535 42.475447,3.9999991 31.999996,3.9999991 Z m 0.04243,32.6562909 c -7.591517,0 -13.698664,-6.14957 -13.698664,-13.698707 0,-5.513379 3.265634,-10.263379 7.973219,-12.468743 -0.254466,1.102715 -0.424114,2.290197 -0.424114,3.477682 0,8.354934 6.785718,15.098212 15.098219,15.098212 1.187509,0 2.375002,-0.127249 3.477687,-0.424105 -2.120538,4.75 -6.912948,8.015661 -12.426347,8.015661 z"
+     d="M 31.999995,2.0000009 C 20.421874,2.0000009 11.000001,11.421856 11.000001,23 c 0,11.578144 9.421873,21 20.999994,21 11.57813,0 21.000003,-9.421856 21.000003,-21 0,-11.578144 -9.421873,-20.9999991 -21.000003,-20.9999991 z m 0.0469,36.0937931 c -8.390623,0 -15.140627,-6.796893 -15.140627,-15.140675 0,-6.093735 3.609384,-11.343734 8.812504,-13.7812417 -0.281252,1.2187897 -0.468757,2.5312697 -0.468757,3.8437537 0,9.2344 7.500003,16.687497 16.687504,16.687497 1.31251,0 2.625002,-0.140644 3.843759,-0.468748 -2.343752,5.25 -7.640626,8.859414 -13.734383,8.859414 z"
      inkscape:connector-curvature="0" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#363636;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#363636;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="16.558105"
-     y="59.805298"
-     id="text6221"
-     sodipodi:linespacing="125%"><tspan
+     y="62.805298"
+     id="text6221"><tspan
        sodipodi:role="line"
        id="tspan6223"
        x="16.558105"
-       y="59.805298"
+       y="62.805298"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;word-spacing:30.57005882px;writing-mode:lr-tb;text-anchor:start">NSM</tspan></text>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#363636;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 17,43.75 H 47"
+     id="path2979"
+     inkscape:connector-curvature="0" />
 </svg>
