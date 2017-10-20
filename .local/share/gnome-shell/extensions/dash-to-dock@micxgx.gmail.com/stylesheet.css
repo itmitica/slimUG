@@ -162,5 +162,9 @@
 #dashtodockContainer.dashtodock #dash {
     background-color: transparent;
     border-top:0px;border-bottom:0px;border-left:0px;border-right:0px;
-    width: 74px;
+    /*width: 74px;*/
+}
+
+#dashtodockDashScrollview {
+    /* background-color: pink; */
 }
