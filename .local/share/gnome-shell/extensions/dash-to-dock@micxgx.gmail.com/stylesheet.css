@@ -145,7 +145,10 @@
 #dashtodockContainer.dashtodock .app-well-app.focused  .overview-icon {
     background-color: transparent;
     background-image:url("button-current.svg");
-    background-size: cover;
+    /*background-size: cover;*/
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position:center;
     border: 1px transparent;
     padding: 8px;
     margin: 4px;
