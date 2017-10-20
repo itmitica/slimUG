@@ -17,9 +17,9 @@
    inkscape:version="0.92.2 (unknown)"
    version="1.1"
    id="svg6148"
-   viewBox="0 0 63.999998 63.999997"
-   height="18.062222mm"
-   width="18.062222mm">
+   viewBox="0 0 120 119.99999"
+   height="128"
+   width="128">
   <defs
      id="defs6150">
     <linearGradient
@@ -1107,15 +1107,15 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath18">
       <path
-         d="M 0,560 960,560 960,0 0,0 0,560 Z"
+         d="M 0,560 H 960 V 0 H 0 Z"
          id="path20"
          inkscape:connector-curvature="0" />
     </clipPath>
     <radialGradient
        gradientUnits="userSpaceOnUse"
        id="c-7"
-       cx="99.328096"
-       cy="480.49098"
+       cx="99.328094"
+       cy="480.49097"
        r="42.108952"
        fx="101.84722"
        fy="457.0979">
@@ -1143,7 +1143,7 @@
     <radialGradient
        gradientUnits="userSpaceOnUse"
        id="b-3"
-       cx="99.328096"
+       cx="99.328094"
        cy="481.57083"
        r="42.108952"
        fx="101.48781"
@@ -1165,8 +1165,8 @@
        x1="125.958"
        id="d-6"
        x2="125.958"
-       y1="521.18299"
-       y2="498.93996">
+       y1="521.18298"
+       y2="498.93997">
       <stop
          stop-color="#fff"
          stop-opacity="0"
@@ -1220,7 +1220,7 @@
        gradientTransform="matrix(1.1377,0.88039,-0.61106,0.78967,185.99,-237.58)"
        r="126.13"
        cy="386"
-       cx="362.18"
+       cx="362.17999"
        id="a-5">
       <stop
          id="stop3893"
@@ -1793,15 +1793,16 @@
      showgrid="false"
      inkscape:current-layer="svg6148"
      inkscape:document-units="px"
-     inkscape:cy="18.905366"
-     inkscape:cx="-42.528996"
+     inkscape:cy="16.905366"
+     inkscape:cx="-133.779"
      inkscape:zoom="2"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#efefef"
-     id="base" />
+     id="base"
+     units="px" />
   <metadata
      id="metadata6153">
     <rdf:RDF>
@@ -1810,13 +1811,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="g32"
-     transform="matrix(0.16562189,0,0,-0.16562189,-21.799373,73.741643)">
+     transform="matrix(0.16562189,0,0,-0.16562189,-21.799373,129.74163)">
     <g
        id="g34"
        clip-path="url(#clipPath38)">
@@ -2588,25 +2589,25 @@
   </g>
   <g
      id="g1331"
-     transform="matrix(0.96728246,0,0,0.96728246,1.0469616,0.05318062)"
-     style="stroke-width:1.03382421">
+     transform="matrix(1.8409568,0,0,1.8551558,1.0893815,-1.2709638)"
+     style="stroke-width:0.54111302">
     <path
-       style="opacity:0.75;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.48460507;stroke-miterlimit:4;stroke-dasharray:none"
+       style="opacity:0.75;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.2536467;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:connector-curvature="0"
        id="path41"
        d="m 61.368657,32.715441 a 29.368966,29.368966 0 1 1 -58.7373148,0 29.368966,29.368966 0 1 1 58.7373148,0 z" />
     <g
        id="g1067"
        transform="rotate(-30,31.428601,33.376637)"
-       style="fill:#ffcc00;stroke:none;stroke-width:1.02413464">
+       style="fill:#ffcc00;stroke:none;stroke-width:0.53604144">
       <path
          id="path1032"
          d="M 17.295043,7.5168457 A 29.368966,29.368966 0 0 0 5.9814211,48.105543 29.368966,29.368966 0 0 0 46.313761,58.852013 29.368966,29.368966 0 0 1 7.0191825,47.506391 29.368966,29.368966 0 0 1 17.571438,7.3839208 29.368966,29.368966 0 0 0 17.295043,7.5168457 Z"
-         style="opacity:0.5;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.24230254;stroke-miterlimit:4;stroke-dasharray:none"
+         style="opacity:0.5;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.12682335;stroke-miterlimit:4;stroke-dasharray:none"
          inkscape:connector-curvature="0" />
       <path
          inkscape:connector-curvature="0"
-         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.01653576;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.53206408;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          d="M 46.893384,59.216272 A 29.368966,29.368966 0 0 0 58.207006,18.627576 29.368966,29.368966 0 0 0 17.874666,7.8811054 29.368966,29.368966 0 0 1 57.169245,19.226728 29.368966,29.368966 0 0 1 46.616989,59.349197 29.368966,29.368966 0 0 0 46.893384,59.216272 Z"
          id="path1041" />
     </g>
@@ -2614,6 +2615,6 @@
        inkscape:connector-curvature="0"
        id="path1322"
        d="m 60.176806,41.129312 a 29.368966,29.368966 0 0 1 -56.3536131,0.007"
-       style="opacity:0.75;fill:url(#radialGradient1346);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.48460507;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="opacity:0.75;fill:url(#radialGradient1346);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2536467;stroke-miterlimit:4;stroke-dasharray:none" />
   </g>
 </svg>
