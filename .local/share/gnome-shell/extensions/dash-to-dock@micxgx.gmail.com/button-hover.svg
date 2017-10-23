@@ -3375,8 +3375,8 @@
      showgrid="false"
      inkscape:current-layer="svg6148"
      inkscape:document-units="px"
-     inkscape:cy="149.73364"
-     inkscape:cx="-317.55789"
+     inkscape:cy="144.07679"
+     inkscape:cx="-575.65187"
      inkscape:zoom="0.70710678"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -4172,8 +4172,8 @@
   <polygon
      style="opacity:0.9;fill:#b3b3b3;stroke-width:1.40625"
      id="polygon540"
-     points="296.1,399.5 307.3,379.9 284.8,379.9 "
-     transform="matrix(0,0.66666664,0.66666664,0,-150.14166,-137.36666)" />
+     points="307.3,379.9 284.8,379.9 296.1,399.5 "
+     transform="matrix(0,0.66666664,0.66666664,0,-150.14166,-122.36666)" />
   <style
      id="style8732"
      type="text/css">
