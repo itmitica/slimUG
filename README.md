@@ -24,6 +24,7 @@ Recommended extensions list:
 * ShutdownTimer
 * Sound Input & Output Device Chooser
 * Trash
+* Turn off Display
 * User Themes
 
 ![ScreenShot01](screenshot01.jpg)
