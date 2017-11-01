@@ -3469,6 +3469,14 @@
          r="244.31673"
          transform="scale(1,-1)" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath20">
+      <path
+         d="M 0,520 H 520 V 0 H 0 Z"
+         id="path18"
+         inkscape:connector-curvature="0" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
@@ -3483,9 +3491,9 @@
      showgrid="false"
      inkscape:current-layer="svg6148"
      inkscape:document-units="px"
-     inkscape:cy="62.913124"
-     inkscape:cx="-49.198334"
-     inkscape:zoom="2.0000002"
+     inkscape:cy="31.857787"
+     inkscape:cx="-115.26734"
+     inkscape:zoom="1.0000001"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      borderopacity="1.0"
