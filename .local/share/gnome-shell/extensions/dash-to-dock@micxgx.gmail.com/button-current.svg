@@ -3530,9 +3530,9 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(2.2593261e-6,-119.99999)"
        x1="58.3363"
-       y1="12.608168"
+       y1="-72.235573"
        x2="58.3363"
-       y2="108.06757" />
+       y2="130.56757" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1725"
@@ -3605,9 +3605,9 @@
   <sodipodi:namedview
      inkscape:window-maximized="1"
      inkscape:window-y="34"
-     inkscape:window-x="75"
-     inkscape:window-height="822"
-     inkscape:window-width="1525"
+     inkscape:window-x="78"
+     inkscape:window-height="1001"
+     inkscape:window-width="1842"
      fit-margin-bottom="0"
      fit-margin-right="0"
      fit-margin-left="0"
@@ -3615,8 +3615,8 @@
      showgrid="false"
      inkscape:current-layer="svg6148"
      inkscape:document-units="px"
-     inkscape:cy="108.10076"
-     inkscape:cx="107.82268"
+     inkscape:cy="106.10076"
+     inkscape:cx="-89.1773"
      inkscape:zoom="2.0000002"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -4477,9 +4477,26 @@
      r="52.499996"
      transform="scale(1,-1)" />
   <g
-     transform="matrix(0.24383492,0,0,0.24383492,201.42159,1.4359646)"
+     id="g2540"
+     transform="matrix(0.08201617,0,0,0.07666728,145.41661,47.251243)"
+     style="opacity:0.15">
+    <ellipse
+       ry="697.00525"
+       rx="651.54834"
+       cy="166.28677"
+       cx="-1041.4607"
+       id="path2880"
+       style="color:#000000;fill:url(#radialGradient2846);stroke-width:1.87499988" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5116"
+       style="opacity:0.70168002;fill:#ffffff;stroke-width:1.87499988"
+       d="m -1134.2311,-503.05534 c 0,0 -512.4375,44.19938 -536.3812,659.94372 0,0 73.2187,-469.03123 536.3812,-659.94372 z" />
+  </g>
+  <g
+     transform="matrix(0.24383492,0,0,0.24383492,3.1403657,1.4359646)"
      id="g935"
-     style="opacity:0.5">
+     style="opacity:0.1">
     <path
        inkscape:connector-curvature="0"
        d="m 448.62736,238.87083 c 0,116.97892 -94.82935,211.80827 -211.80826,211.80827 -116.97892,0 -211.808272,-94.82935 -211.808272,-211.80827 0,-116.97892 94.829352,-211.808268 211.808272,-211.808268 116.97891,0 211.80826,94.829348 211.80826,211.808268 z"
@@ -4506,23 +4523,6 @@
        d="m -1940,681.65 c -44.645,0.7251 -86.723,31.117 -101.28,73.156 -13.418,36.456 -5.8693,80.074 19.594,109.28 24.455,29.367 64.79,44.667 102.72,37.96 33.187,-5.3866 63.539,-26.592 79.332,-56.172 16.366,-29.631 18.325,-67.009 4.3215,-97.944 -15.134,-34.671 -48.832,-60.707 -86.727,-65.296 -5.9478,-0.8331 -11.957,-1.1546 -17.961,-0.9849 z m 3.3437,2.5313 c 45.748,-0.911 89.482,31.358 102.22,75.188 11.14,36.156 1.668,78.096 -24.969,105.03 -24.664,25.855 -62.898,38.153 -98.057,30.666 -38.223,-7.6514 -71.073,-37.463 -81.255,-75.197 -9.7458,-33.907 -1.5074,-72.579 21.812,-98.849 19.939,-22.857 49.702,-37.115 80.251,-36.839 z"
        style="opacity:0.22000002;fill:#2b1100;filter:url(#filter4363)"
        id="path15210" />
-  </g>
-  <g
-     id="g2540"
-     transform="matrix(0.08201617,0,0,0.07666728,145.41661,47.251243)"
-     style="opacity:0.25">
-    <ellipse
-       ry="697.00525"
-       rx="651.54834"
-       cy="166.28677"
-       cx="-1041.4607"
-       id="path2880"
-       style="color:#000000;fill:url(#radialGradient2846);stroke-width:1.87499988" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path5116"
-       style="opacity:0.70168002;fill:#ffffff;stroke-width:1.87499988"
-       d="m -1134.2311,-503.05534 c 0,0 -512.4375,44.19938 -536.3812,659.94372 0,0 73.2187,-469.03123 536.3812,-659.94372 z" />
   </g>
   <path
      sodipodi:type="star"
