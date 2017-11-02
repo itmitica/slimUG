@@ -6268,9 +6268,9 @@
      showgrid="false"
      inkscape:current-layer="g55505"
      inkscape:document-units="px"
-     inkscape:cy="25.76601"
-     inkscape:cx="53.642957"
-     inkscape:zoom="2.8284274"
+     inkscape:cy="48.047744"
+     inkscape:cx="-26.085416"
+     inkscape:zoom="4.0000004"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      borderopacity="1.0"
@@ -7783,56 +7783,42 @@
      id="g55505"
      transform="matrix(0.40275414,0,0,0.40275414,360.62662,302.56891)">
     <g
-       transform="matrix(1.2786114,0,0,-1.2786114,-606.76378,-602.27476)"
-       id="g54683"
-       style="opacity:0.5;fill:#ffffff">
-      <path
-         inkscape:connector-curvature="0"
-         id="path54685"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 c 0,-60.326 -48.904,-109.23 -109.23,-109.23 -60.327,0 -109.231,48.904 -109.231,109.23 0,60.327 48.904,109.231 109.231,109.231 C -48.904,109.231 0,60.327 0,0" />
-    </g>
-    <g
-       transform="matrix(1.2813853,0,0,-1.2813853,-1817.3008,406.2891)"
-       id="g54687-8"
-       style="opacity:0.5">
+       id="g2471"
+       transform="matrix(-1,0,0,1,-1492.8543,-3.6488013e-6)">
       <g
-         id="g54689-5" />
+         style="opacity:0.5;fill:#ffffff"
+         id="g54683"
+         transform="matrix(1.2786114,0,0,-1.2786114,-606.76378,-602.27476)">
+        <path
+           d="m 0,0 c 0,-60.326 -48.904,-109.23 -109.23,-109.23 -60.327,0 -109.231,48.904 -109.231,109.23 0,60.327 48.904,109.231 109.231,109.231 C -48.904,109.231 0,60.327 0,0"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path54685"
+           inkscape:connector-curvature="0" />
+      </g>
       <g
-         id="g54701-0">
+         style="opacity:0.5"
+         id="g54687-8"
+         transform="matrix(1.2813853,0,0,-1.2813853,-1817.3008,406.2891)">
         <g
-           style="opacity:0.60000598"
-           id="g54699-9"
-           clip-path="url(#clipPath54693-0)">
+           id="g54689-5" />
+        <g
+           id="g54701-0">
           <g
-             id="g54697-6"
-             transform="translate(837.3184,679.4619)">
-            <path
-               inkscape:connector-curvature="0"
-               id="path54695-3"
-               style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               d="m 0,0 c -60.326,0 -109.23,48.904 -109.23,109.23 0,28.892 11.222,55.159 29.539,74.693 C -100.947,163.995 -114.23,135.666 -114.23,104.23 -114.23,43.904 -65.326,-5 -5,-5 26.436,-5 54.764,8.284 74.693,29.539 55.158,11.222 28.892,0 0,0" />
+             clip-path="url(#clipPath54693-0)"
+             id="g54699-9"
+             style="opacity:0.60000598">
+            <g
+               transform="translate(837.3184,679.4619)"
+               id="g54697-6">
+              <path
+                 d="m 0,0 c -60.326,0 -109.23,48.904 -109.23,109.23 0,28.892 11.222,55.159 29.539,74.693 C -100.947,163.995 -114.23,135.666 -114.23,104.23 -114.23,43.904 -65.326,-5 -5,-5 26.436,-5 54.764,8.284 74.693,29.539 55.158,11.222 28.892,0 0,0"
+                 style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path54695-3"
+                 inkscape:connector-curvature="0" />
+            </g>
           </g>
         </g>
       </g>
     </g>
-    <path
-       sodipodi:type="star"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ff5555;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.32772279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="path2462"
-       sodipodi:sides="3"
-       sodipodi:cx="-632.87256"
-       sodipodi:cy="-561.93384"
-       sodipodi:r1="23.057968"
-       sodipodi:r2="11.528984"
-       sodipodi:arg1="0"
-       sodipodi:arg2="1.0471976"
-       inkscape:flatsided="true"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m -609.81459,-561.93384 -34.58695,19.96879 v -39.93757 z"
-       inkscape:transform-center-x="-2.1874937"
-       transform="matrix(0.94220843,0,0,1.0491126,-32.191333,26.827751)"
-       inkscape:transform-center-y="-8.0840886e-06" />
   </g>
 </svg>
