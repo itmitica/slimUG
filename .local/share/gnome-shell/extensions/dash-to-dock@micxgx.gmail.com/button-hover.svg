@@ -15,7 +15,8 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 (unknown)"
-   sodipodi:docname="button-hover.svg">
+   sodipodi:docname="button-hover.svg"
+   enable-background="new">
   <defs
      id="defs2">
     <clipPath
@@ -80,11 +81,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="106.53079"
-     inkscape:cy="262.01706"
+     inkscape:zoom="1.0000001"
+     inkscape:cx="245.27587"
+     inkscape:cy="234.13686"
      inkscape:document-units="mm"
-     inkscape:current-layer="g965"
+     inkscape:current-layer="svg8"
      showgrid="false"
      inkscape:window-width="1525"
      inkscape:window-height="822"
@@ -101,42 +102,24 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     id="g965"
-     transform="translate(0,-2.1668339)">
+     id="g1254"
+     transform="matrix(0,-0.35277777,0.36061914,0,-2834.7714,2353.7572)"
+     style="stroke-width:0.98906815">
     <g
-       style="stroke-width:0.98906815"
-       transform="matrix(0,-0.35277777,0.36061914,0,-2834.7714,2355.924)"
-       id="g1254">
-      <g
-         style="stroke-width:0.98906815"
-         transform="translate(-6.7459296,37.584465)"
-         clip-path="url(#clipPath1260-8)"
-         id="g1256" />
-    </g>
-    <path
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.6;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#f6f6f6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:7.55905533;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="M 18.897649,303.93108 V 105.97221 H 464.88189 v 0 197.95887"
-       id="path905"
-       transform="matrix(0.26458333,0,0,0.26458333,0,2.1668339)"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       inkscape:connector-curvature="0"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.6;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#f6f6f6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 5.0000009,30.205314 v -0.867647 -15 0 H 123 v 15 0.867647"
-       id="path864"
-       sodipodi:nodetypes="ccccccc" />
-    <path
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.6;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#f6f6f6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:7.55905533;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 464.88189,303.93108 v 69.52143 56.69291 H 18.897649 v -56.69291 -69.52143"
-       id="rect872"
-       transform="matrix(0.26458333,0,0,0.26458333,0,2.1668339)"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccc" />
+       id="g1256"
+       clip-path="url(#clipPath1260-8)"
+       transform="translate(-6.7459296,37.584465)"
+       style="stroke-width:0.98906815" />
   </g>
+  <path
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.6;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#f6f6f6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     d="M 11.879378,10.054167 V 113.80908 H 116.12105 V 10.054167 Z"
+     id="path905"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
 </svg>
