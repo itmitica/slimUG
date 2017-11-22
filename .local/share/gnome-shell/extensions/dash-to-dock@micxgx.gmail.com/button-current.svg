@@ -99,15 +99,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284273"
-     inkscape:cx="107.94656"
-     inkscape:cy="357.41766"
+     inkscape:zoom="0.70710685"
+     inkscape:cx="281.28625"
+     inkscape:cy="404.63195"
      inkscape:document-units="mm"
      inkscape:current-layer="svg8"
      showgrid="false"
-     inkscape:window-width="1525"
-     inkscape:window-height="822"
-     inkscape:window-x="75"
+     inkscape:window-width="1842"
+     inkscape:window-height="1001"
+     inkscape:window-x="78"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:pagecheckerboard="true"
@@ -148,15 +148,15 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccccccc" />
   <path
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#4a90d9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#f6f6f6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
      d="M 11.911478,6.9809714 V 14.116666 H 59.057149 116.14762 V 6.9809714"
      id="path837"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccc" />
   <path
-     transform="matrix(1,0,0,1.3187884,-1.1711601,-30.093728)"
-     inkscape:transform-center-y="-2.0584807e-06"
-     inkscape:transform-center-x="-1.6941585"
+     transform="matrix(0.84382622,0,0,1.1128282,15.944319,-12.917747)"
+     inkscape:transform-center-y="-3.6779662e-06"
+     inkscape:transform-center-x="-1.4295761"
      d="m 123.1458,83.394669 -10.16496,5.868742 V 77.525926 Z"
      inkscape:randomized="0"
      inkscape:rounded="0"
@@ -169,6 +169,12 @@
      sodipodi:cx="116.36916"
      sodipodi:sides="3"
      id="path833"
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#4a90d9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.74157596;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#5aaae7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.06390357;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
      sodipodi:type="star" />
+  <path
+     sodipodi:nodetypes="ccccc"
+     inkscape:connector-curvature="0"
+     id="path915"
+     d="m 14.557311,10.117 v 5 h 44.752267 54.192212 v -5"
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#5aaae7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
 </svg>
