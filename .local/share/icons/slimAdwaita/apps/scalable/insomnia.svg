@@ -8910,9 +8910,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.96"
-     inkscape:cx="-88.900997"
-     inkscape:cy="32.434107"
+     inkscape:zoom="2.8001429"
+     inkscape:cx="120.95457"
+     inkscape:cy="-6.1914765"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
@@ -8938,7 +8938,7 @@
   <path
      style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#363636;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
      id="path6-6"
-     d="M 31.999995,2.0000009 C 20.421874,2.0000009 11.000001,11.421856 11.000001,23 c 0,11.578144 9.421873,21 20.999994,21 11.57813,0 21.000003,-9.421856 21.000003,-21 0,-11.578144 -9.421873,-20.9999991 -21.000003,-20.9999991 z m 0.0469,36.0937931 c -8.390623,0 -15.140627,-6.796893 -15.140627,-15.140675 0,-6.093735 3.609384,-11.343734 8.812504,-13.7812417 -0.281252,1.2187897 -0.468757,2.5312697 -0.468757,3.8437537 0,9.2344 7.500003,16.687497 16.687504,16.687497 1.31251,0 2.625002,-0.140644 3.843759,-0.468748 -2.343752,5.25 -7.640626,8.859414 -13.734383,8.859414 z"
+     d="M 31.999996,3.999998 C 20.973213,3.999998 12,12.973194 12,23.999999 12,35.026803 20.973213,44 31.999996,44 43.026787,44 52,35.026803 52,23.999999 52,12.973194 43.026787,3.999998 31.999996,3.999998 Z m 0.04467,34.375043 c -7.99107,0 -14.419645,-6.473231 -14.419645,-14.419691 0,-5.803558 3.437508,-10.803557 8.392861,-13.124993 -0.267859,1.160752 -0.446435,2.410733 -0.446435,3.660718 0,8.794667 7.14286,15.892855 15.892862,15.892855 1.25001,0 2.500002,-0.133946 3.660723,-0.446426 -2.232145,5 -7.276787,8.437537 -13.080366,8.437537 z"
      inkscape:connector-curvature="0" />
   <text
      xml:space="preserve"

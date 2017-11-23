@@ -8873,8 +8873,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.9800001"
-     inkscape:cx="-71.098019"
-     inkscape:cy="-14.449444"
+     inkscape:cx="-170.59296"
+     inkscape:cy="-15.459545"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
@@ -8910,22 +8910,22 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;word-spacing:30.57005882px;writing-mode:lr-tb;text-anchor:start">GRB</tspan></text>
   <path
      style="fill:none;fill-rule:evenodd;stroke:#363636;stroke-width:0.49999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 6.0000005,43.75 H 58"
+     d="M 5.0000011,43.75 H 58.999999"
      id="path2979"
      inkscape:connector-curvature="0" />
   <g
-     transform="matrix(0.3999987,0,0,0.3999987,12.000065,4.400126)"
+     transform="matrix(0.40835576,0,0,0.40835576,11.582212,3.5727769)"
      id="g839"
-     style="opacity:1;vector-effect:none;fill:#363636;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:inherit;stroke-linejoin:inherit;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
+     style="opacity:1;vector-effect:none;fill:#363636;fill-opacity:1;stroke:none;stroke-width:0.97953486;stroke-linecap:inherit;stroke-linejoin:inherit;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
     <path
        inkscape:connector-curvature="0"
        id="path4"
        d="M 100,37.09 H 33.28 L 99.8,21.73 96.4,7 A 7.61,7.61 0 0 0 87.31,1.23 L 5.87,20 A 7.6,7.6 0 0 0 0,27.38 v 0 63.9 A 7.67,7.67 0 0 0 7.68,99 H 92.34 A 7.67,7.67 0 0 0 100,91.28 Z M 78.59,9.21 91.76,17.81 81.6,20.16 68.43,11.56 Z M 58.1,14 71.27,22.6 61.11,24.89 47.94,16.3 Z m -20,4.62 13.17,8.6 -10.15,2.29 -13.17,-8.6 z m -20.43,4.67 13.17,8.6 -10.16,2.34 -13.17,-8.59 z m 74.66,68 H 7.66 V 44.74 h 84.67 v 46.54 z"
-       style="vector-effect:none;fill:#363636;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:inherit;stroke-linejoin:inherit;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="vector-effect:none;fill:#363636;fill-opacity:1;stroke:none;stroke-width:0.97953486;stroke-linecap:inherit;stroke-linejoin:inherit;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        id="path6"
        d="M 57.7,65.68 46.25,58.53 c -2.33,-1.46 -4.24,-0.4 -4.24,2.35 v 14.91 c 0,2.75 1.91,3.81 4.24,2.35 L 57.7,71 c 2.3,-1.48 2.3,-3.86 0,-5.32 z"
-       style="vector-effect:none;fill:#363636;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:inherit;stroke-linejoin:inherit;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="vector-effect:none;fill:#363636;fill-opacity:1;stroke:none;stroke-width:0.97953486;stroke-linecap:inherit;stroke-linejoin:inherit;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
 </svg>

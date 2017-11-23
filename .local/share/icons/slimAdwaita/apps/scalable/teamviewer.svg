@@ -8905,9 +8905,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.9200004"
-     inkscape:cx="13.014836"
-     inkscape:cy="29.202149"
+     inkscape:zoom="5.600286"
+     inkscape:cx="2.9982653"
+     inkscape:cy="23.263655"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
@@ -8949,12 +8949,12 @@
      inkscape:connector-curvature="0" />
   <g
      id="g2897"
-     transform="matrix(0.03905487,0,0,0.03905487,36.181632,16.68962)"
-     style="opacity:1;vector-effect:none;fill:#363636;fill-opacity:1;stroke-width:13.33848381;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
+     transform="matrix(0.03905869,0,0,0.03905869,36.183995,16.686952)"
+     style="opacity:1;vector-effect:none;fill:#363636;fill-opacity:1;stroke-width:13.33718109;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
     <g
        transform="translate(-619.1707,-324.81768)"
        id="g9"
-       style="vector-effect:none;fill:#363636;fill-opacity:1;stroke-width:13.33848381;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
+       style="vector-effect:none;fill:#363636;fill-opacity:1;stroke-width:13.33718109;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
       <linearGradient
          y2="368.3801"
          x2="512.83539"
@@ -8973,13 +8973,13 @@
       </linearGradient>
       <polygon
          id="polygon7"
-         points="373.8,460.5 652.9,460.5 614.9,368.4 898.4,512 614.9,655.5 652.9,563.4 373.8,563.4 411.5,655.5 127.3,512 411.8,368.4 "
-         style="vector-effect:none;fill:#363636;fill-opacity:1;stroke-width:13.33848381;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         points="614.9,655.5 652.9,563.4 373.8,563.4 411.5,655.5 127.3,512 411.8,368.4 373.8,460.5 652.9,460.5 614.9,368.4 898.4,512 "
+         style="vector-effect:none;fill:#363636;fill-opacity:1;stroke-width:13.33718109;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <path
        id="path16"
        d="m 345.0293,699.28232 h -904.2 c -33,0 -60,-27 -60,-60 v -904.1 c 0,-33 27,-60 60,-60 h 904.2 c 33,0 60,27 60,60 v 904.1 c 0,33 -27,60 -60,60 z m -456,-934.1 c -230.6,2 -416.5,191.199997 -418.2,422 -1.7,235 186.9,421.8 422,422 231.1,0.2 418,-191.9 422,-422 4.1,-237.700003 -188,-424.1 -425.8,-422 z"
-       style="vector-effect:none;fill:#363636;fill-opacity:1;stroke-width:13.33848381;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="vector-effect:none;fill:#363636;fill-opacity:1;stroke-width:13.33718109;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
