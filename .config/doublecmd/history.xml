@@ -1,80 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <doublecmd>
   <History>
     <Navigation>
-      <Item>/home/doomy/Projects/</Item>
-      <Item>/home/doomy/Projects/fiscalforms/</Item>
-      <Item>/home/doomy/Projects/fiscalforms/model/</Item>
-      <Item>/home/doomy/Projects/fiscalforms/model/reverse model from sql - vertabelo/</Item>
-      <Item>/home/doomy/Projects/slimUG/</Item>
-      <Item>/home/doomy/Projects/slimUG/vm/</Item>
+      <Item>/home/doomy/Videos/</Item>
       <Item>/home/doomy/</Item>
-      <Item>/home/doomy/Projects/slimUG/.config/</Item>
-      <Item>/home/doomy/VirtualBox VMs/MSEdge - Win10_preview/Snapshots/</Item>
-      <Item>/home/doomy/VirtualBox VMs/MSEdge - Win10_preview/</Item>
-      <Item>/home/doomy/VirtualBox VMs/</Item>
-      <Item>/home/doomy/Projects/slimUG/work/</Item>
-      <Item>/home/doomy/Projects/slimUG/docs/</Item>
-      <Item>/home/doomy/Downloads/</Item>
-      <Item>/home/doomy/Downloads/Big.Brother.US.S19E04.HDTV.x264-W4F[ettv]/</Item>
-      <Item>/home/doomy/Public/serviio-1.8/bin/</Item>
-      <Item>/home/doomy/Public/serviio-1.8/</Item>
-      <Item>/home/doomy/Downloads/Europa Report (2013) [1080p]/</Item>
-      <Item>/home/doomy/Downloads/Innocent Blood (1992)/</Item>
-      <Item>/home/doomy/Downloads/The.Abyss.1989.WEBRip.x264-RARBG/</Item>
-      <Item>/home/doomy/Downloads/Wonder.Woman.2017.HC.HDRip.XviD.AC3-EVO/</Item>
-      <Item>/home/doomy/Downloads/HC.HDRip/</Item>
-      <Item>/home/doomy/Downloads/Revolt.2017.HDRip.XviD.AC3-EVO/</Item>
-      <Item>/home/doomy/.local/share/gnome-shell/extensions/</Item>
-      <Item>/home/doomy/.local/share/themes/</Item>
-      <Item>/home/doomy/.local/share/themes/slimAdwaita/</Item>
-      <Item>/home/doomy/.local/share/icons/</Item>
-      <Item>/home/doomy/.local/share/icons/slimAdwaita/</Item>
-      <Item>/home/doomy/.config/</Item>
       <Item>/home/</Item>
       <Item>/</Item>
-      <Item>/home/doomy/.config/doublecmd/</Item>
-      <Item>/home/doomy/Projects/slimUG/.config/doublecmd/</Item>
-      <Item>/home/doomy/Videos/</Item>
-      <Item>/run/</Item>
-      <Item>/run/user/</Item>
-      <Item>/run/user/1000/</Item>
-      <Item>/run/user/1000/gvfs/</Item>
-      <Item>/home/doomy/Projects/restapi/</Item>
-      <Item>/home/doomy/Downloads/gnome-commander-1.6.4/</Item>
-      <Item>/home/doomy/Downloads/gnome-commander-1.6.4/libgcmd/</Item>
-      <Item>/home/doomy/Downloads/gnome-commander-1.6.4/libgcmd/.libs/</Item>
-      <Item>/home/doomy/Downloads/gnome-commander-1.6.4/libgcmd/.deps/</Item>
-      <Item>/home/doomy/Downloads/gnome-commander-1.6.4/po/</Item>
-      <Item>/home/doomy/Downloads/gnome-commander-1.6.4/src/</Item>
-      <Item>/home/doomy/Downloads/gnome-commander-1.6.4/doc/</Item>
-      <Item>/home/doomy/Downloads/gnome-commander-1.6.4/data/</Item>
-      <Item>/media/</Item>
-      <Item>/media/doomy/</Item>
-      <Item>/media/doomy/Samsung1TUSB3/</Item>
-      <Item>/home/doomy/.local/share/</Item>
+      <Item>/home/doomy/Documents/ebooks/dotnet-core/</Item>
+      <Item>/home/doomy/Documents/ebooks/</Item>
+      <Item>/home/doomy/Documents/</Item>
     </Navigation>
     <CommandLine/>
-    <FileMask>
-      <Item>spacefm</Item>
-      <Item>*</Item>
-      <Item>*.*</Item>
-      <Item>*.png</Item>
-      <Item>*.*~</Item>
-      <Item>*.jpg</Item>
-      <Item>*.svg</Item>
-      <Item>*~</Item>
-      <Item>*png</Item>
-      <Item>*jpg</Item>
-      <Item>*svg,*css</Item>
-      <Item>*svg;*css</Item>
-      <Item>*bmp</Item>
-      <Item>+</Item>
-    </FileMask>
+    <FileMask/>
     <SearchText/>
     <SearchTextPath/>
     <ReplaceText/>
     <ReplaceTextPath/>
+    <SearchDirectories/>
     <SearchExcludeFiles/>
     <SearchExcludeDirectories/>
   </History>

@@ -1,29 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<doublecmd DCVersion="0.7.8 beta">
-  <ExtensionAssociation>
-    <FileType>
-      <Name>dir</Name>
-      <IconFile/>
-      <ExtensionList>folder</ExtensionList>
-      <Actions>
-        <Action>
-          <Name>Open as root</Name>
-          <Command>gksudo</Command>
-          <Params>/home/doomy/Public/doublecmd-gtk2/doublecmd %p</Params>
-        </Action>
-      </Actions>
-    </FileType>
-    <FileType>
-      <Name>file</Name>
-      <IconFile/>
-      <ExtensionList>file</ExtensionList>
-      <Actions>
-        <Action>
-          <Name>Edit as root</Name>
-          <Command>gksudo</Command>
-          <Params>gedit %p</Params>
-        </Action>
-      </Actions>
-    </FileType>
-  </ExtensionAssociation>
+<?xml version="1.0" encoding="UTF-8"?>
+<doublecmd DCVersion="0.8.0 beta">
+  <ExtensionAssociation/>
 </doublecmd>
