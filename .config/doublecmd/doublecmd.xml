@@ -4,48 +4,23 @@
     <UseConfigInProgramDir>False</UseConfigInProgramDir>
   </Configuration>
   <Colors>
-    <FileFilters>
-      <Filter>
-        <Name>Pascal sources</Name>
-        <FileMasks>*.pas;*.pp</FileMasks>
-        <Color>32768</Color>
-        <Attributes/>
-      </Filter>
-      <Filter>
-        <Name>Pascal binaries</Name>
-        <FileMasks>*.ppu;*.o;*.dcu</FileMasks>
-        <Color>16711680</Color>
-        <Attributes/>
-      </Filter>
-      <Filter>
-        <Name>Specified Executables</Name>
-        <FileMasks>*</FileMasks>
-        <Color>55758</Color>
-        <Attributes>-rwxrwxr*x</Attributes>
-      </Filter>
-      <Filter>
-        <Name>Executables</Name>
-        <FileMasks>*</FileMasks>
-        <Color>32768</Color>
-        <Attributes>-*x*</Attributes>
-      </Filter>
-    </FileFilters>
+    <FileFilters/>
     <UseCursorBorder>True</UseCursorBorder>
-    <CursorBorderColor>-2147483636</CursorBorderColor>
+    <CursorBorderColor>-2147483640</CursorBorderColor>
     <UseFrameCursor>False</UseFrameCursor>
     <Foreground>-2147483640</Foreground>
     <Background>-2147483643</Background>
     <Background2>-2147483643</Background2>
-    <Cursor>15780518</Cursor>
+    <Cursor>15781286</Cursor>
     <CursorText>-2147483640</CursorText>
-    <Mark>255</Mark>
-    <InactiveCursor>-2147483648</InactiveCursor>
+    <Mark>-2147483635</Mark>
+    <InactiveCursor>-2147483647</InactiveCursor>
     <InactiveMark>128</InactiveMark>
-    <UseInvertedSelection>False</UseInvertedSelection>
+    <UseInvertedSelection>True</UseInvertedSelection>
     <UseInactiveSelColor>True</UseInactiveSelColor>
-    <AllowOverColor>True</AllowOverColor>
+    <AllowOverColor>False</AllowOverColor>
     <gBorderFrameWidth>1</gBorderFrameWidth>
-    <InactivePanelBrightness>100</InactivePanelBrightness>
+    <InactivePanelBrightness>95</InactivePanelBrightness>
     <FreeSpaceIndicator>
       <UseGradient>False</UseGradient>
       <ForeColor>0</ForeColor>
@@ -411,7 +386,15 @@
                   <Path Filename="..">/home/doomy/Documents/</Path>
                   <Path Filename="Projects">/home/doomy/</Path>
                   <Path Filename="slimUG">/home/doomy/Projects/</Path>
-                  <Path Filename="..">/home/doomy/Projects/slimUG/</Path>
+                  <Path Filename=".config">/home/doomy/Projects/slimUG/</Path>
+                  <Path Filename="doublecmd">/home/doomy/Projects/slimUG/.config/</Path>
+                  <Path Filename="doublecmd">/home/doomy/Projects/slimUG/.config/doublecmd/</Path>
+                  <Path Filename="..">/home/doomy/Projects/slimUG/.config/doublecmd/doublecmd/</Path>
+                  <Path Filename="doublecmd">/home/doomy/Projects/slimUG/.config/doublecmd/</Path>
+                  <Path Filename="..">/home/doomy/Projects/slimUG/.config/doublecmd/doublecmd/</Path>
+                  <Path Filename="doublecmd">/home/doomy/Projects/slimUG/.config/doublecmd/</Path>
+                  <Path Filename="..">/home/doomy/Projects/slimUG/.config/doublecmd/doublecmd/</Path>
+                  <Path Filename="highlighters.xml">/home/doomy/Projects/slimUG/.config/doublecmd/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -491,9 +474,44 @@
             </History>
           </FileView>
         </Tab>
+        <Tab>
+          <FileView Type="brief">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/home/doomy/Downloads/doublecmd/</Path>
+                  <Path Filename="ebooks">/home/doomy/Documents/</Path>
+                  <Path Filename="dotnet-core">/home/doomy/Documents/ebooks/</Path>
+                  <Path Filename="..">/home/doomy/Documents/ebooks/dotnet-core/</Path>
+                  <Path Filename="..">/home/doomy/</Path>
+                  <Path Filename="doomy">/home/</Path>
+                  <Path Filename="home">/</Path>
+                  <Path Filename="doomy">/home/</Path>
+                  <Path Filename="Videos">/home/doomy/</Path>
+                  <Path Filename="The.Ballad.of.Lefty.Brown.2017.1080p.WEB-DL.DD5.1.H264-FGT[EtHD].srt">/home/doomy/Videos/</Path>
+                  <Path Filename="Music">/home/doomy/</Path>
+                  <Path Filename="..">/home/doomy/Music/</Path>
+                  <Path Filename="Documents">/home/doomy/</Path>
+                  <Path Filename="..">/home/doomy/Documents/</Path>
+                  <Path Filename="Pictures">/home/doomy/</Path>
+                  <Path Filename="..">/home/doomy/Pictures/</Path>
+                  <Path Filename="Documents">/home/doomy/</Path>
+                  <Path Filename="..">/home/doomy/Documents/</Path>
+                  <Path Filename="Projects">/home/doomy/</Path>
+                  <Path Filename="slimUG">/home/doomy/Projects/</Path>
+                  <Path Filename=".config">/home/doomy/Projects/slimUG/</Path>
+                  <Path Filename="Public">/home/doomy/</Path>
+                  <Path Filename="firefox">/home/doomy/Public/</Path>
+                  <Path Filename="">/home/doomy/Public/firefox/</Path>
+                </Paths>
+              </Entry>
+            </History>
+          </FileView>
+        </Tab>
       </Left>
       <Right>
-        <ActiveTab>5</ActiveTab>
+        <ActiveTab>3</ActiveTab>
         <Tab>
           <FileView Type="brief">
             <History>
@@ -577,7 +595,7 @@
                   <Path Filename="extensions">/home/doomy/.local/share/gnome-shell/</Path>
                   <Path Filename="alternate-tab@gnome-shell-extensions.gcampax.github.com">/home/doomy/.local/share/gnome-shell/extensions/</Path>
                   <Path Filename="..">/home/doomy/.local/share/gnome-shell/extensions/alternate-tab@gnome-shell-extensions.gcampax.github.com/</Path>
-                  <Path Filename="">/home/doomy/.local/share/gnome-shell/extensions/</Path>
+                  <Path Filename="alternate-tab@gnome-shell-extensions.gcampax.github.com">/home/doomy/.local/share/gnome-shell/extensions/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -654,7 +672,7 @@
                   <Path Filename="usr">/</Path>
                   <Path Filename="share">/usr/</Path>
                   <Path Filename="applications">/usr/share/</Path>
-                  <Path Filename="code.desktop">/usr/share/applications/</Path>
+                  <Path Filename="">/usr/share/applications/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -730,8 +748,8 @@
   </Tools>
   <Fonts>
     <Main>
-      <Name>Noto Sans UI</Name>
-      <Size>12</Size>
+      <Name>Ubuntu</Name>
+      <Size>13</Size>
       <Style>0</Style>
       <Quality>0</Quality>
     </Main>
@@ -766,7 +784,7 @@
       <Quality>0</Quality>
     </SearchResults>
     <PathEdit>
-      <Name>Noto Sans UI</Name>
+      <Name>Ubuntu</Name>
       <Size>11</Size>
       <Style>0</Style>
       <Quality>0</Quality>
@@ -784,7 +802,7 @@
       <Quality>0</Quality>
     </Log>
     <ViewerBook>
-      <Name>Noto Sans UI</Name>
+      <Name>Ubuntu</Name>
       <Size>11</Size>
       <Style>0</Style>
       <Quality>0</Quality>
