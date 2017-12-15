@@ -283,7 +283,7 @@
   <Tabs>
     <OpenedTabs>
       <Left>
-        <ActiveTab>0</ActiveTab>
+        <ActiveTab>6</ActiveTab>
         <Tab>
           <FileView Type="brief">
             <History>
@@ -299,7 +299,7 @@
                   <Path Filename="home">/</Path>
                   <Path Filename="doomy">/home/</Path>
                   <Path Filename="Videos">/home/doomy/</Path>
-                  <Path Filename="The.Ballad.of.Lefty.Brown.2017.1080p.WEB-DL.DD5.1.H264-FGT[EtHD].srt">/home/doomy/Videos/</Path>
+                  <Path Filename="">/home/doomy/Videos/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -378,7 +378,8 @@
                   <Path Filename="Pictures">/home/doomy/</Path>
                   <Path Filename="..">/home/doomy/Pictures/</Path>
                   <Path Filename="Documents">/home/doomy/</Path>
-                  <Path Filename="">/home/doomy/Documents/</Path>
+                  <Path Filename="ebooks">/home/doomy/Documents/</Path>
+                  <Path Filename="">/home/doomy/Documents/ebooks/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -416,9 +417,100 @@
             </History>
           </FileView>
         </Tab>
+        <Tab>
+          <FileView Type="brief">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/home/doomy/Downloads/doublecmd/</Path>
+                  <Path Filename="ebooks">/home/doomy/Documents/</Path>
+                  <Path Filename="dotnet-core">/home/doomy/Documents/ebooks/</Path>
+                  <Path Filename="..">/home/doomy/Documents/ebooks/dotnet-core/</Path>
+                  <Path Filename="..">/home/doomy/</Path>
+                  <Path Filename="doomy">/home/</Path>
+                  <Path Filename="home">/</Path>
+                  <Path Filename="doomy">/home/</Path>
+                  <Path Filename="Videos">/home/doomy/</Path>
+                  <Path Filename="The.Ballad.of.Lefty.Brown.2017.1080p.WEB-DL.DD5.1.H264-FGT[EtHD].srt">/home/doomy/Videos/</Path>
+                  <Path Filename="Music">/home/doomy/</Path>
+                  <Path Filename="..">/home/doomy/Music/</Path>
+                  <Path Filename="Documents">/home/doomy/</Path>
+                  <Path Filename="..">/home/doomy/Documents/</Path>
+                  <Path Filename="Pictures">/home/doomy/</Path>
+                  <Path Filename="..">/home/doomy/Pictures/</Path>
+                  <Path Filename="Documents">/home/doomy/</Path>
+                  <Path Filename="..">/home/doomy/Documents/</Path>
+                  <Path Filename="Projects">/home/doomy/</Path>
+                  <Path Filename="slimUG">/home/doomy/Projects/</Path>
+                  <Path Filename="screenshot01.jpg">/home/doomy/Projects/slimUG/</Path>
+                  <Path Filename="vuejs">/home/doomy/Projects/</Path>
+                  <Path Filename="">/home/doomy/Projects/vuejs/</Path>
+                </Paths>
+              </Entry>
+            </History>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="brief">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/home/doomy/Downloads/doublecmd/</Path>
+                  <Path Filename="ebooks">/home/doomy/Documents/</Path>
+                  <Path Filename="dotnet-core">/home/doomy/Documents/ebooks/</Path>
+                  <Path Filename="..">/home/doomy/Documents/ebooks/dotnet-core/</Path>
+                  <Path Filename="..">/home/doomy/</Path>
+                  <Path Filename="doomy">/home/</Path>
+                  <Path Filename="home">/</Path>
+                  <Path Filename="doomy">/home/</Path>
+                  <Path Filename="Videos">/home/doomy/</Path>
+                  <Path Filename="The.Ballad.of.Lefty.Brown.2017.1080p.WEB-DL.DD5.1.H264-FGT[EtHD].srt">/home/doomy/Videos/</Path>
+                  <Path Filename="Music">/home/doomy/</Path>
+                  <Path Filename="..">/home/doomy/Music/</Path>
+                  <Path Filename="Documents">/home/doomy/</Path>
+                  <Path Filename="..">/home/doomy/Documents/</Path>
+                  <Path Filename="Pictures">/home/doomy/</Path>
+                  <Path Filename="..">/home/doomy/Pictures/</Path>
+                  <Path Filename="Documents">/home/doomy/</Path>
+                  <Path Filename="..">/home/doomy/Documents/</Path>
+                  <Path Filename="Projects">/home/doomy/</Path>
+                  <Path Filename="slimUG">/home/doomy/Projects/</Path>
+                  <Path Filename="screenshot01.jpg">/home/doomy/Projects/slimUG/</Path>
+                  <Path Filename="vuejs">/home/doomy/Projects/</Path>
+                  <Path Filename="..">/home/doomy/Projects/vuejs/</Path>
+                  <Path Filename="dotnet-core">/home/doomy/Projects/</Path>
+                  <Path Filename="..">/home/doomy/Projects/dotnet-core/</Path>
+                  <Path Filename="notes">/home/doomy/Projects/</Path>
+                  <Path Filename="..">/home/doomy/Projects/notes/</Path>
+                  <Path Filename="graphs-for-docs">/home/doomy/Projects/</Path>
+                  <Path Filename="..">/home/doomy/Projects/graphs-for-docs/</Path>
+                </Paths>
+              </Entry>
+            </History>
+          </FileView>
+        </Tab>
       </Left>
       <Right>
-        <ActiveTab>0</ActiveTab>
+        <ActiveTab>5</ActiveTab>
+        <Tab>
+          <FileView Type="brief">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/home/doomy/Downloads/doublecmd/</Path>
+                  <Path Filename="ebooks">/home/doomy/Documents/</Path>
+                  <Path Filename="dotnet-core">/home/doomy/Documents/ebooks/</Path>
+                  <Path Filename="Building Web Applications with Visual Studio 2017.pdf">/home/doomy/Documents/ebooks/dotnet-core/</Path>
+                  <Path Filename="Downloads">/home/doomy/</Path>
+                  <Path Filename="">/home/doomy/Downloads/</Path>
+                </Paths>
+              </Entry>
+            </History>
+          </FileView>
+        </Tab>
         <Tab>
           <FileView Type="brief">
             <History>
@@ -431,6 +523,138 @@
                   <Path Filename="Building Web Applications with Visual Studio 2017.pdf">/home/doomy/Documents/ebooks/dotnet-core/</Path>
                   <Path Filename="Downloads">/home/doomy/</Path>
                   <Path Filename="..">/home/doomy/Downloads/</Path>
+                  <Path Filename=".local">/home/doomy/</Path>
+                  <Path Filename="share">/home/doomy/.local/</Path>
+                  <Path Filename="icons">/home/doomy/.local/share/</Path>
+                  <Path Filename="">/home/doomy/.local/share/icons/</Path>
+                </Paths>
+              </Entry>
+            </History>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="brief">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/home/doomy/Downloads/doublecmd/</Path>
+                  <Path Filename="ebooks">/home/doomy/Documents/</Path>
+                  <Path Filename="dotnet-core">/home/doomy/Documents/ebooks/</Path>
+                  <Path Filename="Building Web Applications with Visual Studio 2017.pdf">/home/doomy/Documents/ebooks/dotnet-core/</Path>
+                  <Path Filename="Downloads">/home/doomy/</Path>
+                  <Path Filename="..">/home/doomy/Downloads/</Path>
+                  <Path Filename=".local">/home/doomy/</Path>
+                  <Path Filename="share">/home/doomy/.local/</Path>
+                  <Path Filename="icons">/home/doomy/.local/share/</Path>
+                  <Path Filename="hicolor">/home/doomy/.local/share/icons/</Path>
+                  <Path Filename="themes">/home/doomy/.local/share/</Path>
+                  <Path Filename="">/home/doomy/.local/share/themes/</Path>
+                </Paths>
+              </Entry>
+            </History>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="brief">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/home/doomy/Downloads/doublecmd/</Path>
+                  <Path Filename="ebooks">/home/doomy/Documents/</Path>
+                  <Path Filename="dotnet-core">/home/doomy/Documents/ebooks/</Path>
+                  <Path Filename="Building Web Applications with Visual Studio 2017.pdf">/home/doomy/Documents/ebooks/dotnet-core/</Path>
+                  <Path Filename="Downloads">/home/doomy/</Path>
+                  <Path Filename="..">/home/doomy/Downloads/</Path>
+                  <Path Filename=".local">/home/doomy/</Path>
+                  <Path Filename="share">/home/doomy/.local/</Path>
+                  <Path Filename="icons">/home/doomy/.local/share/</Path>
+                  <Path Filename="hicolor">/home/doomy/.local/share/icons/</Path>
+                  <Path Filename="themes">/home/doomy/.local/share/</Path>
+                  <Path Filename="..">/home/doomy/.local/share/themes/</Path>
+                  <Path Filename="gnome-shell">/home/doomy/.local/share/</Path>
+                  <Path Filename="extensions">/home/doomy/.local/share/gnome-shell/</Path>
+                  <Path Filename="alternate-tab@gnome-shell-extensions.gcampax.github.com">/home/doomy/.local/share/gnome-shell/extensions/</Path>
+                  <Path Filename="..">/home/doomy/.local/share/gnome-shell/extensions/alternate-tab@gnome-shell-extensions.gcampax.github.com/</Path>
+                  <Path Filename="">/home/doomy/.local/share/gnome-shell/extensions/</Path>
+                </Paths>
+              </Entry>
+            </History>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="brief">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/home/doomy/Downloads/doublecmd/</Path>
+                  <Path Filename="ebooks">/home/doomy/Documents/</Path>
+                  <Path Filename="dotnet-core">/home/doomy/Documents/ebooks/</Path>
+                  <Path Filename="Building Web Applications with Visual Studio 2017.pdf">/home/doomy/Documents/ebooks/dotnet-core/</Path>
+                  <Path Filename="Downloads">/home/doomy/</Path>
+                  <Path Filename="..">/home/doomy/Downloads/</Path>
+                  <Path Filename=".local">/home/doomy/</Path>
+                  <Path Filename="share">/home/doomy/.local/</Path>
+                  <Path Filename="icons">/home/doomy/.local/share/</Path>
+                  <Path Filename="hicolor">/home/doomy/.local/share/icons/</Path>
+                  <Path Filename="themes">/home/doomy/.local/share/</Path>
+                  <Path Filename="..">/home/doomy/.local/share/themes/</Path>
+                  <Path Filename="gnome-shell">/home/doomy/.local/share/</Path>
+                  <Path Filename="extensions">/home/doomy/.local/share/gnome-shell/</Path>
+                  <Path Filename="alternate-tab@gnome-shell-extensions.gcampax.github.com">/home/doomy/.local/share/gnome-shell/extensions/</Path>
+                  <Path Filename="..">/home/doomy/.local/share/gnome-shell/extensions/alternate-tab@gnome-shell-extensions.gcampax.github.com/</Path>
+                  <Path Filename="..">/home/doomy/.local/share/gnome-shell/extensions/</Path>
+                  <Path Filename="extensions">/home/doomy/.local/share/gnome-shell/</Path>
+                  <Path Filename="gnome-shell">/home/doomy/.local/share/</Path>
+                  <Path Filename="share">/home/doomy/.local/</Path>
+                  <Path Filename=".local">/home/doomy/</Path>
+                  <Path Filename="doomy">/home/</Path>
+                  <Path Filename="media">/</Path>
+                  <Path Filename="doomy">/media/</Path>
+                  <Path Filename="">/media/doomy/</Path>
+                </Paths>
+              </Entry>
+            </History>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="brief">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/home/doomy/Downloads/doublecmd/</Path>
+                  <Path Filename="ebooks">/home/doomy/Documents/</Path>
+                  <Path Filename="dotnet-core">/home/doomy/Documents/ebooks/</Path>
+                  <Path Filename="Building Web Applications with Visual Studio 2017.pdf">/home/doomy/Documents/ebooks/dotnet-core/</Path>
+                  <Path Filename="Downloads">/home/doomy/</Path>
+                  <Path Filename="..">/home/doomy/Downloads/</Path>
+                  <Path Filename=".local">/home/doomy/</Path>
+                  <Path Filename="share">/home/doomy/.local/</Path>
+                  <Path Filename="icons">/home/doomy/.local/share/</Path>
+                  <Path Filename="hicolor">/home/doomy/.local/share/icons/</Path>
+                  <Path Filename="themes">/home/doomy/.local/share/</Path>
+                  <Path Filename="..">/home/doomy/.local/share/themes/</Path>
+                  <Path Filename="gnome-shell">/home/doomy/.local/share/</Path>
+                  <Path Filename="extensions">/home/doomy/.local/share/gnome-shell/</Path>
+                  <Path Filename="alternate-tab@gnome-shell-extensions.gcampax.github.com">/home/doomy/.local/share/gnome-shell/extensions/</Path>
+                  <Path Filename="..">/home/doomy/.local/share/gnome-shell/extensions/alternate-tab@gnome-shell-extensions.gcampax.github.com/</Path>
+                  <Path Filename="..">/home/doomy/.local/share/gnome-shell/extensions/</Path>
+                  <Path Filename="extensions">/home/doomy/.local/share/gnome-shell/</Path>
+                  <Path Filename="gnome-shell">/home/doomy/.local/share/</Path>
+                  <Path Filename="share">/home/doomy/.local/</Path>
+                  <Path Filename=".local">/home/doomy/</Path>
+                  <Path Filename="doomy">/home/</Path>
+                  <Path Filename="media">/</Path>
+                  <Path Filename="doomy">/media/</Path>
+                  <Path Filename="..">/media/doomy/</Path>
+                  <Path Filename="doomy">/media/</Path>
+                  <Path Filename="usr">/</Path>
+                  <Path Filename="share">/usr/</Path>
+                  <Path Filename="applications">/usr/share/</Path>
+                  <Path Filename="clipgrab.desktop">/usr/share/applications/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -507,7 +731,7 @@
   <Fonts>
     <Main>
       <Name>default</Name>
-      <Size>11</Size>
+      <Size>12</Size>
       <Style>1</Style>
       <Quality>0</Quality>
     </Main>
@@ -543,7 +767,7 @@
     </SearchResults>
     <PathEdit>
       <Name>default</Name>
-      <Size>12</Size>
+      <Size>13</Size>
       <Style>0</Style>
       <Quality>0</Quality>
     </PathEdit>

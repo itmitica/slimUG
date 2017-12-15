@@ -2,18 +2,34 @@
 <doublecmd>
   <History>
     <Navigation>
-      <Item>/home/doomy/Projects/slimUG/</Item>
+      <Item>/usr/share/applications/</Item>
+      <Item>/usr/share/</Item>
+      <Item>/usr/</Item>
+      <Item>/</Item>
+      <Item>/media/</Item>
+      <Item>/home/doomy/Projects/graphs-for-docs/</Item>
       <Item>/home/doomy/Projects/</Item>
+      <Item>/home/doomy/Projects/notes/</Item>
+      <Item>/home/doomy/Projects/dotnet-core/</Item>
+      <Item>/home/doomy/Projects/vuejs/</Item>
+      <Item>/home/doomy/Documents/ebooks/</Item>
+      <Item>/media/doomy/</Item>
+      <Item>/home/</Item>
       <Item>/home/doomy/</Item>
+      <Item>/home/doomy/.local/</Item>
+      <Item>/home/doomy/.local/share/</Item>
+      <Item>/home/doomy/.local/share/gnome-shell/</Item>
+      <Item>/home/doomy/.local/share/gnome-shell/extensions/</Item>
+      <Item>/home/doomy/.local/share/gnome-shell/extensions/alternate-tab@gnome-shell-extensions.gcampax.github.com/</Item>
+      <Item>/home/doomy/.local/share/themes/</Item>
+      <Item>/home/doomy/.local/share/icons/</Item>
+      <Item>/home/doomy/Projects/slimUG/</Item>
       <Item>/home/doomy/Documents/</Item>
       <Item>/home/doomy/Pictures/</Item>
       <Item>/home/doomy/Music/</Item>
       <Item>/home/doomy/Downloads/</Item>
       <Item>/home/doomy/Videos/</Item>
-      <Item>/home/</Item>
-      <Item>/</Item>
       <Item>/home/doomy/Documents/ebooks/dotnet-core/</Item>
-      <Item>/home/doomy/Documents/ebooks/</Item>
     </Navigation>
     <CommandLine/>
     <FileMask>
