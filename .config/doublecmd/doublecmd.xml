@@ -283,7 +283,7 @@
   <Tabs>
     <OpenedTabs>
       <Left>
-        <ActiveTab>6</ActiveTab>
+        <ActiveTab>4</ActiveTab>
         <Tab>
           <FileView Type="brief">
             <History>
@@ -411,7 +411,7 @@
                   <Path Filename="..">/home/doomy/Documents/</Path>
                   <Path Filename="Projects">/home/doomy/</Path>
                   <Path Filename="slimUG">/home/doomy/Projects/</Path>
-                  <Path Filename="">/home/doomy/Projects/slimUG/</Path>
+                  <Path Filename="..">/home/doomy/Projects/slimUG/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -485,7 +485,7 @@
                   <Path Filename="notes">/home/doomy/Projects/</Path>
                   <Path Filename="..">/home/doomy/Projects/notes/</Path>
                   <Path Filename="graphs-for-docs">/home/doomy/Projects/</Path>
-                  <Path Filename="..">/home/doomy/Projects/graphs-for-docs/</Path>
+                  <Path Filename="">/home/doomy/Projects/graphs-for-docs/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -654,7 +654,7 @@
                   <Path Filename="usr">/</Path>
                   <Path Filename="share">/usr/</Path>
                   <Path Filename="applications">/usr/share/</Path>
-                  <Path Filename="clipgrab.desktop">/usr/share/applications/</Path>
+                  <Path Filename="code.desktop">/usr/share/applications/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -730,20 +730,20 @@
   </Tools>
   <Fonts>
     <Main>
-      <Name>default</Name>
+      <Name>Noto Sans UI</Name>
       <Size>12</Size>
-      <Style>1</Style>
+      <Style>0</Style>
       <Quality>0</Quality>
     </Main>
     <Editor>
       <Name>Monospace</Name>
-      <Size>14</Size>
+      <Size>13</Size>
       <Style>0</Style>
       <Quality>0</Quality>
     </Editor>
     <Viewer>
       <Name>Monospace</Name>
-      <Size>14</Size>
+      <Size>13</Size>
       <Style>0</Style>
       <Quality>0</Quality>
     </Viewer>
@@ -766,8 +766,8 @@
       <Quality>0</Quality>
     </SearchResults>
     <PathEdit>
-      <Name>default</Name>
-      <Size>13</Size>
+      <Name>Noto Sans UI</Name>
+      <Size>11</Size>
       <Style>0</Style>
       <Quality>0</Quality>
     </PathEdit>
@@ -784,9 +784,9 @@
       <Quality>0</Quality>
     </Log>
     <ViewerBook>
-      <Name>default</Name>
-      <Size>14</Size>
-      <Style>1</Style>
+      <Name>Noto Sans UI</Name>
+      <Size>11</Size>
+      <Style>0</Style>
       <Quality>0</Quality>
     </ViewerBook>
     <Console>
