@@ -2,16 +2,23 @@
 <doublecmd>
   <History>
     <Navigation>
-      <Item>/home/doomy/Videos/</Item>
+      <Item>/home/doomy/Projects/slimUG/</Item>
+      <Item>/home/doomy/Projects/</Item>
       <Item>/home/doomy/</Item>
+      <Item>/home/doomy/Documents/</Item>
+      <Item>/home/doomy/Pictures/</Item>
+      <Item>/home/doomy/Music/</Item>
+      <Item>/home/doomy/Downloads/</Item>
+      <Item>/home/doomy/Videos/</Item>
       <Item>/home/</Item>
       <Item>/</Item>
       <Item>/home/doomy/Documents/ebooks/dotnet-core/</Item>
       <Item>/home/doomy/Documents/ebooks/</Item>
-      <Item>/home/doomy/Documents/</Item>
     </Navigation>
     <CommandLine/>
-    <FileMask/>
+    <FileMask>
+      <Item>*</Item>
+    </FileMask>
     <SearchText/>
     <SearchTextPath/>
     <ReplaceText/>

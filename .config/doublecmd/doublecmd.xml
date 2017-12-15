@@ -285,36 +285,155 @@
       <Left>
         <ActiveTab>0</ActiveTab>
         <Tab>
-          <FileView Type="columns">
+          <FileView Type="brief">
             <History>
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
                   <Path Filename="..">/home/doomy/Downloads/doublecmd/</Path>
+                  <Path Filename="ebooks">/home/doomy/Documents/</Path>
+                  <Path Filename="dotnet-core">/home/doomy/Documents/ebooks/</Path>
+                  <Path Filename="..">/home/doomy/Documents/ebooks/dotnet-core/</Path>
+                  <Path Filename="..">/home/doomy/</Path>
+                  <Path Filename="doomy">/home/</Path>
+                  <Path Filename="home">/</Path>
+                  <Path Filename="doomy">/home/</Path>
+                  <Path Filename="Videos">/home/doomy/</Path>
+                  <Path Filename="The.Ballad.of.Lefty.Brown.2017.1080p.WEB-DL.DD5.1.H264-FGT[EtHD].srt">/home/doomy/Videos/</Path>
                 </Paths>
               </Entry>
             </History>
-            <ColumnsView>
-              <ColumnsSet>Default</ColumnsSet>
-            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="brief">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/home/doomy/Downloads/doublecmd/</Path>
+                  <Path Filename="ebooks">/home/doomy/Documents/</Path>
+                  <Path Filename="dotnet-core">/home/doomy/Documents/ebooks/</Path>
+                  <Path Filename="..">/home/doomy/Documents/ebooks/dotnet-core/</Path>
+                  <Path Filename="..">/home/doomy/</Path>
+                  <Path Filename="doomy">/home/</Path>
+                  <Path Filename="home">/</Path>
+                  <Path Filename="doomy">/home/</Path>
+                  <Path Filename="Videos">/home/doomy/</Path>
+                  <Path Filename="The.Ballad.of.Lefty.Brown.2017.1080p.WEB-DL.DD5.1.H264-FGT[EtHD].srt">/home/doomy/Videos/</Path>
+                  <Path Filename="Music">/home/doomy/</Path>
+                  <Path Filename="">/home/doomy/Music/</Path>
+                </Paths>
+              </Entry>
+            </History>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="brief">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/home/doomy/Downloads/doublecmd/</Path>
+                  <Path Filename="ebooks">/home/doomy/Documents/</Path>
+                  <Path Filename="dotnet-core">/home/doomy/Documents/ebooks/</Path>
+                  <Path Filename="..">/home/doomy/Documents/ebooks/dotnet-core/</Path>
+                  <Path Filename="..">/home/doomy/</Path>
+                  <Path Filename="doomy">/home/</Path>
+                  <Path Filename="home">/</Path>
+                  <Path Filename="doomy">/home/</Path>
+                  <Path Filename="Videos">/home/doomy/</Path>
+                  <Path Filename="The.Ballad.of.Lefty.Brown.2017.1080p.WEB-DL.DD5.1.H264-FGT[EtHD].srt">/home/doomy/Videos/</Path>
+                  <Path Filename="Music">/home/doomy/</Path>
+                  <Path Filename="..">/home/doomy/Music/</Path>
+                  <Path Filename="Documents">/home/doomy/</Path>
+                  <Path Filename="..">/home/doomy/Documents/</Path>
+                  <Path Filename="Pictures">/home/doomy/</Path>
+                  <Path Filename="">/home/doomy/Pictures/</Path>
+                </Paths>
+              </Entry>
+            </History>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="brief">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/home/doomy/Downloads/doublecmd/</Path>
+                  <Path Filename="ebooks">/home/doomy/Documents/</Path>
+                  <Path Filename="dotnet-core">/home/doomy/Documents/ebooks/</Path>
+                  <Path Filename="..">/home/doomy/Documents/ebooks/dotnet-core/</Path>
+                  <Path Filename="..">/home/doomy/</Path>
+                  <Path Filename="doomy">/home/</Path>
+                  <Path Filename="home">/</Path>
+                  <Path Filename="doomy">/home/</Path>
+                  <Path Filename="Videos">/home/doomy/</Path>
+                  <Path Filename="The.Ballad.of.Lefty.Brown.2017.1080p.WEB-DL.DD5.1.H264-FGT[EtHD].srt">/home/doomy/Videos/</Path>
+                  <Path Filename="Music">/home/doomy/</Path>
+                  <Path Filename="..">/home/doomy/Music/</Path>
+                  <Path Filename="Documents">/home/doomy/</Path>
+                  <Path Filename="..">/home/doomy/Documents/</Path>
+                  <Path Filename="Pictures">/home/doomy/</Path>
+                  <Path Filename="..">/home/doomy/Pictures/</Path>
+                  <Path Filename="Documents">/home/doomy/</Path>
+                  <Path Filename="">/home/doomy/Documents/</Path>
+                </Paths>
+              </Entry>
+            </History>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="brief">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/home/doomy/Downloads/doublecmd/</Path>
+                  <Path Filename="ebooks">/home/doomy/Documents/</Path>
+                  <Path Filename="dotnet-core">/home/doomy/Documents/ebooks/</Path>
+                  <Path Filename="..">/home/doomy/Documents/ebooks/dotnet-core/</Path>
+                  <Path Filename="..">/home/doomy/</Path>
+                  <Path Filename="doomy">/home/</Path>
+                  <Path Filename="home">/</Path>
+                  <Path Filename="doomy">/home/</Path>
+                  <Path Filename="Videos">/home/doomy/</Path>
+                  <Path Filename="The.Ballad.of.Lefty.Brown.2017.1080p.WEB-DL.DD5.1.H264-FGT[EtHD].srt">/home/doomy/Videos/</Path>
+                  <Path Filename="Music">/home/doomy/</Path>
+                  <Path Filename="..">/home/doomy/Music/</Path>
+                  <Path Filename="Documents">/home/doomy/</Path>
+                  <Path Filename="..">/home/doomy/Documents/</Path>
+                  <Path Filename="Pictures">/home/doomy/</Path>
+                  <Path Filename="..">/home/doomy/Pictures/</Path>
+                  <Path Filename="Documents">/home/doomy/</Path>
+                  <Path Filename="..">/home/doomy/Documents/</Path>
+                  <Path Filename="Projects">/home/doomy/</Path>
+                  <Path Filename="slimUG">/home/doomy/Projects/</Path>
+                  <Path Filename="">/home/doomy/Projects/slimUG/</Path>
+                </Paths>
+              </Entry>
+            </History>
           </FileView>
         </Tab>
       </Left>
       <Right>
         <ActiveTab>0</ActiveTab>
         <Tab>
-          <FileView Type="columns">
+          <FileView Type="brief">
             <History>
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
                   <Path Filename="..">/home/doomy/Downloads/doublecmd/</Path>
+                  <Path Filename="ebooks">/home/doomy/Documents/</Path>
+                  <Path Filename="dotnet-core">/home/doomy/Documents/ebooks/</Path>
+                  <Path Filename="Building Web Applications with Visual Studio 2017.pdf">/home/doomy/Documents/ebooks/dotnet-core/</Path>
+                  <Path Filename="Downloads">/home/doomy/</Path>
+                  <Path Filename="..">/home/doomy/Downloads/</Path>
                 </Paths>
               </Entry>
             </History>
-            <ColumnsView>
-              <ColumnsSet>Default</ColumnsSet>
-            </ColumnsView>
           </FileView>
         </Tab>
       </Right>
@@ -329,11 +448,11 @@
   </Language>
   <Behaviours>
     <GoToRoot>False</GoToRoot>
-    <RunInTerminalStayOpenCmd>xterm</RunInTerminalStayOpenCmd>
+    <RunInTerminalStayOpenCmd>gnome-terminal</RunInTerminalStayOpenCmd>
     <RunInTerminalStayOpenParams>-e sh -c '{command}; echo -n Press ENTER to exit... ; read a'</RunInTerminalStayOpenParams>
-    <RunInTerminalCloseCmd>xterm</RunInTerminalCloseCmd>
+    <RunInTerminalCloseCmd>gnome-terminal</RunInTerminalCloseCmd>
     <RunInTerminalCloseParams>-e sh -c {command}</RunInTerminalCloseParams>
-    <JustRunTerminal>xterm</JustRunTerminal>
+    <JustRunTerminal>gnome-terminal</JustRunTerminal>
     <JustRunTermParams/>
     <OnlyOneAppInstance>False</OnlyOneAppInstance>
     <LynxLike>True</LynxLike>
