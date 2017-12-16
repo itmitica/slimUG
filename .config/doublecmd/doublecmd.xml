@@ -297,7 +297,7 @@
                   <Path Filename="Videos">/home/doomy/</Path>
                   <Path Filename="The.Ballad.of.Lefty.Brown.2017.1080p.WEB-DL.DD5.1.H264-FGT[EtHD].srt">/home/doomy/Videos/</Path>
                   <Path Filename="Music">/home/doomy/</Path>
-                  <Path Filename="Celtic Dreamer - Blissful Sleep.mp3">/home/doomy/Music/</Path>
+                  <Path Filename="Christopher Lloyd Clarke - Divine Love.mp3">/home/doomy/Music/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -513,7 +513,7 @@
         </Tab>
       </Left>
       <Right>
-        <ActiveTab>0</ActiveTab>
+        <ActiveTab>3</ActiveTab>
         <Tab>
           <FileView Type="brief">
             <History>
@@ -525,7 +525,7 @@
                   <Path Filename="dotnet-core">/home/doomy/Documents/ebooks/</Path>
                   <Path Filename="Building Web Applications with Visual Studio 2017.pdf">/home/doomy/Documents/ebooks/dotnet-core/</Path>
                   <Path Filename="Downloads">/home/doomy/</Path>
-                  <Path Filename="..">/home/doomy/Downloads/</Path>
+                  <Path Filename="">/home/doomy/Downloads/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -598,7 +598,7 @@
                   <Path Filename="alternate-tab@gnome-shell-extensions.gcampax.github.com">/home/doomy/.local/share/gnome-shell/extensions/</Path>
                   <Path Filename="..">/home/doomy/.local/share/gnome-shell/extensions/alternate-tab@gnome-shell-extensions.gcampax.github.com/</Path>
                   <Path Filename="dash-to-dock@micxgx.gmail.com">/home/doomy/.local/share/gnome-shell/extensions/</Path>
-                  <Path Filename="">/home/doomy/.local/share/gnome-shell/extensions/dash-to-dock@micxgx.gmail.com/</Path>
+                  <Path Filename="prefs.js">/home/doomy/.local/share/gnome-shell/extensions/dash-to-dock@micxgx.gmail.com/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -724,7 +724,7 @@
     <ListFilesInThread>True</ListFilesInThread>
     <LoadIconsSeparately>True</LoadIconsSeparately>
     <DelayLoadingTabs>True</DelayLoadingTabs>
-    <HighlightUpdatedFiles>True</HighlightUpdatedFiles>
+    <HighlightUpdatedFiles>False</HighlightUpdatedFiles>
     <DriveBlackList/>
     <DriveBlackListUnmounted>False</DriveBlackListUnmounted>
   </Behaviours>
@@ -787,9 +787,9 @@
       <Quality>0</Quality>
     </SearchResults>
     <PathEdit>
-      <Name>Noto Sans CJK JP</Name>
-      <Size>10</Size>
-      <Style>1</Style>
+      <Name>Noto Sans UI</Name>
+      <Size>11</Size>
+      <Style>0</Style>
       <Quality>0</Quality>
     </PathEdit>
     <FunctionButtons>
@@ -955,9 +955,9 @@
     <GridHorzLine>False</GridHorzLine>
     <ShowWarningMessages>False</ShowWarningMessages>
     <SpaceMovesDown>False</SpaceMovesDown>
-    <DirBrackets>True</DirBrackets>
-    <InplaceRename>False</InplaceRename>
-    <DblClickToParent>False</DblClickToParent>
+    <DirBrackets>False</DirBrackets>
+    <InplaceRename>True</InplaceRename>
+    <DblClickToParent>True</DblClickToParent>
     <HotDirAddTargetOrNot>False</HotDirAddTargetOrNot>
     <HotDirFullExpandOrNot>False</HotDirFullExpandOrNot>
     <ShowPathInPopup>False</ShowPathInPopup>
@@ -1137,7 +1137,7 @@
       <CustomView>False</CustomView>
       <PixelsPerInch>110</PixelsPerInch>
       <CursorBorder Enabled="True">
-        <Color>-2147483636</Color>
+        <Color>-2147483640</Color>
       </CursorBorder>
       <Columns>
         <Column>
@@ -1146,22 +1146,22 @@
           <Width>250</Width>
           <Align>0</Align>
           <Font>
-            <Name>default</Name>
-            <Size>11</Size>
+            <Name>Noto Sans UI</Name>
+            <Size>13</Size>
             <Style>1</Style>
             <Quality>0</Quality>
           </Font>
           <TextColor>-2147483640</TextColor>
           <Background>-2147483643</Background>
           <Background2>-2147483643</Background2>
-          <MarkColor>255</MarkColor>
-          <CursorColor>15780518</CursorColor>
+          <MarkColor>-2147483635</MarkColor>
+          <CursorColor>15781286</CursorColor>
           <CursorText>-2147483640</CursorText>
-          <InactiveCursorColor>-2147483648</InactiveCursorColor>
-          <InactiveMarkColor>255</InactiveMarkColor>
-          <UseInvertedSelection>False</UseInvertedSelection>
+          <InactiveCursorColor>-2147483647</InactiveCursorColor>
+          <InactiveMarkColor>-2147483635</InactiveMarkColor>
+          <UseInvertedSelection>True</UseInvertedSelection>
           <UseInactiveSelColor>True</UseInactiveSelColor>
-          <Overcolor>True</Overcolor>
+          <Overcolor>False</Overcolor>
         </Column>
         <Column>
           <Title>Ext</Title>
@@ -1169,22 +1169,22 @@
           <Width>50</Width>
           <Align>0</Align>
           <Font>
-            <Name>default</Name>
-            <Size>11</Size>
+            <Name>Noto Sans UI</Name>
+            <Size>13</Size>
             <Style>1</Style>
             <Quality>0</Quality>
           </Font>
           <TextColor>-2147483640</TextColor>
           <Background>-2147483643</Background>
           <Background2>-2147483643</Background2>
-          <MarkColor>255</MarkColor>
-          <CursorColor>15780518</CursorColor>
+          <MarkColor>-2147483635</MarkColor>
+          <CursorColor>15781286</CursorColor>
           <CursorText>-2147483640</CursorText>
-          <InactiveCursorColor>-2147483648</InactiveCursorColor>
-          <InactiveMarkColor>255</InactiveMarkColor>
-          <UseInvertedSelection>False</UseInvertedSelection>
+          <InactiveCursorColor>-2147483647</InactiveCursorColor>
+          <InactiveMarkColor>-2147483635</InactiveMarkColor>
+          <UseInvertedSelection>True</UseInvertedSelection>
           <UseInactiveSelColor>True</UseInactiveSelColor>
-          <Overcolor>True</Overcolor>
+          <Overcolor>False</Overcolor>
         </Column>
         <Column>
           <Title>Size</Title>
@@ -1192,22 +1192,22 @@
           <Width>70</Width>
           <Align>1</Align>
           <Font>
-            <Name>default</Name>
-            <Size>11</Size>
+            <Name>Noto Sans UI</Name>
+            <Size>13</Size>
             <Style>1</Style>
             <Quality>0</Quality>
           </Font>
           <TextColor>-2147483640</TextColor>
           <Background>-2147483643</Background>
           <Background2>-2147483643</Background2>
-          <MarkColor>255</MarkColor>
-          <CursorColor>15780518</CursorColor>
+          <MarkColor>-2147483635</MarkColor>
+          <CursorColor>15781286</CursorColor>
           <CursorText>-2147483640</CursorText>
-          <InactiveCursorColor>-2147483648</InactiveCursorColor>
-          <InactiveMarkColor>255</InactiveMarkColor>
-          <UseInvertedSelection>False</UseInvertedSelection>
+          <InactiveCursorColor>-2147483647</InactiveCursorColor>
+          <InactiveMarkColor>-2147483635</InactiveMarkColor>
+          <UseInvertedSelection>True</UseInvertedSelection>
           <UseInactiveSelColor>True</UseInactiveSelColor>
-          <Overcolor>True</Overcolor>
+          <Overcolor>False</Overcolor>
         </Column>
         <Column>
           <Title>Date</Title>
@@ -1215,22 +1215,22 @@
           <Width>140</Width>
           <Align>1</Align>
           <Font>
-            <Name>default</Name>
-            <Size>11</Size>
+            <Name>Noto Sans UI</Name>
+            <Size>13</Size>
             <Style>1</Style>
             <Quality>0</Quality>
           </Font>
           <TextColor>-2147483640</TextColor>
           <Background>-2147483643</Background>
           <Background2>-2147483643</Background2>
-          <MarkColor>255</MarkColor>
-          <CursorColor>15780518</CursorColor>
+          <MarkColor>-2147483635</MarkColor>
+          <CursorColor>15781286</CursorColor>
           <CursorText>-2147483640</CursorText>
-          <InactiveCursorColor>-2147483648</InactiveCursorColor>
-          <InactiveMarkColor>255</InactiveMarkColor>
-          <UseInvertedSelection>False</UseInvertedSelection>
+          <InactiveCursorColor>-2147483647</InactiveCursorColor>
+          <InactiveMarkColor>-2147483635</InactiveMarkColor>
+          <UseInvertedSelection>True</UseInvertedSelection>
           <UseInactiveSelColor>True</UseInactiveSelColor>
-          <Overcolor>True</Overcolor>
+          <Overcolor>False</Overcolor>
         </Column>
         <Column>
           <Title>Attr</Title>
@@ -1238,22 +1238,22 @@
           <Width>100</Width>
           <Align>0</Align>
           <Font>
-            <Name>default</Name>
-            <Size>11</Size>
+            <Name>Noto Sans UI</Name>
+            <Size>13</Size>
             <Style>1</Style>
             <Quality>0</Quality>
           </Font>
           <TextColor>-2147483640</TextColor>
           <Background>-2147483643</Background>
           <Background2>-2147483643</Background2>
-          <MarkColor>255</MarkColor>
-          <CursorColor>15780518</CursorColor>
+          <MarkColor>-2147483635</MarkColor>
+          <CursorColor>15781286</CursorColor>
           <CursorText>-2147483640</CursorText>
-          <InactiveCursorColor>-2147483648</InactiveCursorColor>
-          <InactiveMarkColor>255</InactiveMarkColor>
-          <UseInvertedSelection>False</UseInvertedSelection>
+          <InactiveCursorColor>-2147483647</InactiveCursorColor>
+          <InactiveMarkColor>-2147483635</InactiveMarkColor>
+          <UseInvertedSelection>True</UseInvertedSelection>
           <UseInactiveSelColor>True</UseInactiveSelColor>
-          <Overcolor>True</Overcolor>
+          <Overcolor>False</Overcolor>
         </Column>
       </Columns>
     </ColumnsSet>
