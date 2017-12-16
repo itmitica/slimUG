@@ -8,14 +8,14 @@
     <UseCursorBorder>True</UseCursorBorder>
     <CursorBorderColor>-2147483640</CursorBorderColor>
     <UseFrameCursor>False</UseFrameCursor>
-    <Foreground>-2147483640</Foreground>
+    <Foreground>-2147483627</Foreground>
     <Background>-2147483643</Background>
     <Background2>-2147483643</Background2>
     <Cursor>15781286</Cursor>
-    <CursorText>-2147483640</CursorText>
-    <Mark>-2147483635</Mark>
+    <CursorText>-2147483641</CursorText>
+    <Mark>-2147483642</Mark>
     <InactiveCursor>-2147483647</InactiveCursor>
-    <InactiveMark>128</InactiveMark>
+    <InactiveMark>10789024</InactiveMark>
     <UseInvertedSelection>True</UseInvertedSelection>
     <UseInactiveSelColor>True</UseInactiveSelColor>
     <AllowOverColor>False</AllowOverColor>
@@ -297,7 +297,7 @@
                   <Path Filename="Videos">/home/doomy/</Path>
                   <Path Filename="The.Ballad.of.Lefty.Brown.2017.1080p.WEB-DL.DD5.1.H264-FGT[EtHD].srt">/home/doomy/Videos/</Path>
                   <Path Filename="Music">/home/doomy/</Path>
-                  <Path Filename="Christopher Lloyd Clarke - Divine Love.mp3">/home/doomy/Music/</Path>
+                  <Path Filename="Bob Moses - I Aint Gonna Be The First To Cry.mp3">/home/doomy/Music/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -396,7 +396,9 @@
                   <Path Filename="..">/home/doomy/Projects/slimUG/.config/doublecmd/doublecmd/</Path>
                   <Path Filename="highlighters.xml">/home/doomy/Projects/slimUG/.config/doublecmd/</Path>
                   <Path Filename="doublecmd">/home/doomy/Projects/slimUG/.config/</Path>
-                  <Path Filename="">/home/doomy/Projects/slimUG/</Path>
+                  <Path Filename=".config">/home/doomy/Projects/slimUG/</Path>
+                  <Path Filename="doublecmd">/home/doomy/Projects/slimUG/.config/</Path>
+                  <Path Filename="multiarc.ini">/home/doomy/Projects/slimUG/.config/doublecmd/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -505,7 +507,7 @@
                   <Path Filename=".config">/home/doomy/Projects/slimUG/</Path>
                   <Path Filename="Public">/home/doomy/</Path>
                   <Path Filename="firefox">/home/doomy/Public/</Path>
-                  <Path Filename="">/home/doomy/Public/firefox/</Path>
+                  <Path Filename="libmozsqlite3.so">/home/doomy/Public/firefox/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -598,7 +600,7 @@
                   <Path Filename="alternate-tab@gnome-shell-extensions.gcampax.github.com">/home/doomy/.local/share/gnome-shell/extensions/</Path>
                   <Path Filename="..">/home/doomy/.local/share/gnome-shell/extensions/alternate-tab@gnome-shell-extensions.gcampax.github.com/</Path>
                   <Path Filename="dash-to-dock@micxgx.gmail.com">/home/doomy/.local/share/gnome-shell/extensions/</Path>
-                  <Path Filename="prefs.js">/home/doomy/.local/share/gnome-shell/extensions/dash-to-dock@micxgx.gmail.com/</Path>
+                  <Path Filename="metadata.json">/home/doomy/.local/share/gnome-shell/extensions/dash-to-dock@micxgx.gmail.com/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -713,13 +715,13 @@
       <ScrollMode>1</ScrollMode>
       <WheelScrollLines>3</WheelScrollLines>
     </Mouse>
-    <AutoFillColumns>False</AutoFillColumns>
-    <AutoSizeColumn>1</AutoSizeColumn>
+    <AutoFillColumns>True</AutoFillColumns>
+    <AutoSizeColumn>0</AutoSizeColumn>
     <CustomColumnsChangeAllColumns>False</CustomColumnsChangeAllColumns>
     <BriefViewFileExtAligned>False</BriefViewFileExtAligned>
     <DateTimeFormat>dd.mm.yyyy hh:nn:ss</DateTimeFormat>
     <CutTextToColumnWidth>False</CutTextToColumnWidth>
-    <ExtendCellWidth>False</ExtendCellWidth>
+    <ExtendCellWidth>True</ExtendCellWidth>
     <ShowSystemFiles>True</ShowSystemFiles>
     <ListFilesInThread>True</ListFilesInThread>
     <LoadIconsSeparately>True</LoadIconsSeparately>
@@ -787,7 +789,7 @@
       <Quality>0</Quality>
     </SearchResults>
     <PathEdit>
-      <Name>Noto Sans UI</Name>
+      <Name>Noto Sans</Name>
       <Size>11</Size>
       <Style>0</Style>
       <Quality>0</Quality>
@@ -952,7 +954,7 @@
   </QuickFilter>
   <Miscellaneous>
     <GridVertLine>False</GridVertLine>
-    <GridHorzLine>False</GridHorzLine>
+    <GridHorzLine>True</GridHorzLine>
     <ShowWarningMessages>False</ShowWarningMessages>
     <SpaceMovesDown>False</SpaceMovesDown>
     <DirBrackets>False</DirBrackets>
@@ -1134,7 +1136,7 @@
   <ColumnsSets DefaultTitleHash="540805403">
     <ColumnsSet UseFrameCursor="False">
       <Name>Default</Name>
-      <CustomView>False</CustomView>
+      <CustomView>True</CustomView>
       <PixelsPerInch>110</PixelsPerInch>
       <CursorBorder Enabled="True">
         <Color>-2147483640</Color>
@@ -1142,36 +1144,13 @@
       <Columns>
         <Column>
           <Title>Name</Title>
-          <FuncString>[DC().GETFILENAMENOEXT{}]</FuncString>
+          <FuncString>[DC().GETFILENAME{}] </FuncString>
           <Width>250</Width>
           <Align>0</Align>
           <Font>
-            <Name>Noto Sans UI</Name>
-            <Size>13</Size>
-            <Style>1</Style>
-            <Quality>0</Quality>
-          </Font>
-          <TextColor>-2147483640</TextColor>
-          <Background>-2147483643</Background>
-          <Background2>-2147483643</Background2>
-          <MarkColor>-2147483635</MarkColor>
-          <CursorColor>15781286</CursorColor>
-          <CursorText>-2147483640</CursorText>
-          <InactiveCursorColor>-2147483647</InactiveCursorColor>
-          <InactiveMarkColor>-2147483635</InactiveMarkColor>
-          <UseInvertedSelection>True</UseInvertedSelection>
-          <UseInactiveSelColor>True</UseInactiveSelColor>
-          <Overcolor>False</Overcolor>
-        </Column>
-        <Column>
-          <Title>Ext</Title>
-          <FuncString>[DC().GETFILEEXT{}]</FuncString>
-          <Width>50</Width>
-          <Align>0</Align>
-          <Font>
-            <Name>Noto Sans UI</Name>
-            <Size>13</Size>
-            <Style>1</Style>
+            <Name>Noto Sans CJK JP</Name>
+            <Size>12</Size>
+            <Style>0</Style>
             <Quality>0</Quality>
           </Font>
           <TextColor>-2147483640</TextColor>
@@ -1188,59 +1167,69 @@
         </Column>
         <Column>
           <Title>Size</Title>
-          <FuncString>[DC().GETFILESIZE{}]</FuncString>
-          <Width>70</Width>
-          <Align>1</Align>
-          <Font>
-            <Name>Noto Sans UI</Name>
-            <Size>13</Size>
-            <Style>1</Style>
-            <Quality>0</Quality>
-          </Font>
-          <TextColor>-2147483640</TextColor>
-          <Background>-2147483643</Background>
-          <Background2>-2147483643</Background2>
-          <MarkColor>-2147483635</MarkColor>
-          <CursorColor>15781286</CursorColor>
-          <CursorText>-2147483640</CursorText>
-          <InactiveCursorColor>-2147483647</InactiveCursorColor>
-          <InactiveMarkColor>-2147483635</InactiveMarkColor>
-          <UseInvertedSelection>True</UseInvertedSelection>
-          <UseInactiveSelColor>True</UseInactiveSelColor>
-          <Overcolor>False</Overcolor>
-        </Column>
-        <Column>
-          <Title>Date</Title>
-          <FuncString>[DC().GETFILETIME{}]</FuncString>
-          <Width>140</Width>
-          <Align>1</Align>
-          <Font>
-            <Name>Noto Sans UI</Name>
-            <Size>13</Size>
-            <Style>1</Style>
-            <Quality>0</Quality>
-          </Font>
-          <TextColor>-2147483640</TextColor>
-          <Background>-2147483643</Background>
-          <Background2>-2147483643</Background2>
-          <MarkColor>-2147483635</MarkColor>
-          <CursorColor>15781286</CursorColor>
-          <CursorText>-2147483640</CursorText>
-          <InactiveCursorColor>-2147483647</InactiveCursorColor>
-          <InactiveMarkColor>-2147483635</InactiveMarkColor>
-          <UseInvertedSelection>True</UseInvertedSelection>
-          <UseInactiveSelColor>True</UseInactiveSelColor>
-          <Overcolor>False</Overcolor>
-        </Column>
-        <Column>
-          <Title>Attr</Title>
-          <FuncString>[DC().GETFILEATTR{}]</FuncString>
-          <Width>100</Width>
+          <FuncString>[DC().GETFILESIZE{}] </FuncString>
+          <Width>50</Width>
           <Align>0</Align>
           <Font>
-            <Name>Noto Sans UI</Name>
-            <Size>13</Size>
-            <Style>1</Style>
+            <Name>Noto Sans</Name>
+            <Size>12</Size>
+            <Style>0</Style>
+            <Quality>0</Quality>
+          </Font>
+          <TextColor>-2147483640</TextColor>
+          <Background>-2147483643</Background>
+          <Background2>-2147483643</Background2>
+          <MarkColor>-2147483635</MarkColor>
+          <CursorColor>15781286</CursorColor>
+          <CursorText>-2147483640</CursorText>
+          <InactiveCursorColor>-2147483647</InactiveCursorColor>
+          <InactiveMarkColor>-2147483635</InactiveMarkColor>
+          <UseInvertedSelection>True</UseInvertedSelection>
+          <UseInactiveSelColor>True</UseInactiveSelColor>
+          <Overcolor>False</Overcolor>
+        </Column>
+        <Column>
+          <Title>Modification date</Title>
+          <FuncString>[DC().GETFILETIME{}] </FuncString>
+          <Width>70</Width>
+          <Align>0</Align>
+          <Font>
+            <Name>Noto Sans</Name>
+            <Size>12</Size>
+            <Style>0</Style>
+            <Quality>0</Quality>
+          </Font>
+          <TextColor>-2147483640</TextColor>
+          <Background>-2147483643</Background>
+          <Background2>-2147483643</Background2>
+          <MarkColor>-2147483635</MarkColor>
+          <CursorColor>15781286</CursorColor>
+          <CursorText>-2147483640</CursorText>
+          <InactiveCursorColor>-2147483647</InactiveCursorColor>
+          <InactiveMarkColor>-2147483635</InactiveMarkColor>
+          <UseInvertedSelection>True</UseInvertedSelection>
+          <UseInactiveSelColor>True</UseInactiveSelColor>
+          <Overcolor>False</Overcolor>
+        </Column>
+      </Columns>
+    </ColumnsSet>
+    <ColumnsSet UseFrameCursor="False">
+      <Name>Default (2017-12-16@12-32-41)</Name>
+      <CustomView>True</CustomView>
+      <PixelsPerInch>110</PixelsPerInch>
+      <CursorBorder Enabled="True">
+        <Color>-2147483640</Color>
+      </CursorBorder>
+      <Columns>
+        <Column>
+          <Title>Name</Title>
+          <FuncString>[DC().GETFILENAMENOEXT{}]</FuncString>
+          <Width>250</Width>
+          <Align>0</Align>
+          <Font>
+            <Name>Noto Sans</Name>
+            <Size>12</Size>
+            <Style>0</Style>
             <Quality>0</Quality>
           </Font>
           <TextColor>-2147483640</TextColor>
