@@ -7,12 +7,12 @@
     <FileFilters/>
     <UseCursorBorder>True</UseCursorBorder>
     <CursorBorderColor>-2147483640</CursorBorderColor>
-    <UseFrameCursor>False</UseFrameCursor>
+    <UseFrameCursor>True</UseFrameCursor>
     <Foreground>-2147483627</Foreground>
     <Background>-2147483643</Background>
     <Background2>-2147483643</Background2>
-    <Cursor>15781286</Cursor>
-    <CursorText>-2147483641</CursorText>
+    <Cursor>-2147483641</Cursor>
+    <CursorText>255</CursorText>
     <Mark>-2147483642</Mark>
     <InactiveCursor>-2147483647</InactiveCursor>
     <InactiveMark>10789024</InactiveMark>
@@ -23,7 +23,7 @@
     <InactivePanelBrightness>95</InactivePanelBrightness>
     <FreeSpaceIndicator>
       <UseGradient>False</UseGradient>
-      <ForeColor>0</ForeColor>
+      <ForeColor>-2147483644</ForeColor>
       <BackColor>16777215</BackColor>
     </FreeSpaceIndicator>
   </Colors>
@@ -258,7 +258,7 @@
   <Tabs>
     <OpenedTabs>
       <Left>
-        <ActiveTab>1</ActiveTab>
+        <ActiveTab>8</ActiveTab>
         <Tab>
           <FileView Type="brief">
             <History>
@@ -274,6 +274,10 @@
                   <Path Filename="home">/</Path>
                   <Path Filename="doomy">/home/</Path>
                   <Path Filename="Videos">/home/doomy/</Path>
+                  <Path Filename="idx">/home/doomy/Videos/</Path>
+                  <Path Filename="..">/home/doomy/Videos/idx/</Path>
+                  <Path Filename="idx">/home/doomy/Videos/</Path>
+                  <Path Filename="jungle.2017.proper.bdrip.x264-ghouls.idx">/home/doomy/Videos/idx/</Path>
                   <Path Filename="">/home/doomy/Videos/</Path>
                 </Paths>
               </Entry>
@@ -282,6 +286,12 @@
         </Tab>
         <Tab>
           <FileView Type="brief">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
             <History>
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
@@ -297,7 +307,7 @@
                   <Path Filename="Videos">/home/doomy/</Path>
                   <Path Filename="The.Ballad.of.Lefty.Brown.2017.1080p.WEB-DL.DD5.1.H264-FGT[EtHD].srt">/home/doomy/Videos/</Path>
                   <Path Filename="Music">/home/doomy/</Path>
-                  <Path Filename="Bob Moses - I Aint Gonna Be The First To Cry.mp3">/home/doomy/Music/</Path>
+                  <Path Filename="">/home/doomy/Music/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -324,6 +334,12 @@
                   <Path Filename="Documents">/home/doomy/</Path>
                   <Path Filename="..">/home/doomy/Documents/</Path>
                   <Path Filename="Pictures">/home/doomy/</Path>
+                  <Path Filename="950xl videos">/home/doomy/Pictures/</Path>
+                  <Path Filename="..">/home/doomy/Pictures/950xl videos/</Path>
+                  <Path Filename="950xl videos">/home/doomy/Pictures/</Path>
+                  <Path Filename="WP_20160911_17_07_43_Pro.mp4">/home/doomy/Pictures/950xl videos/</Path>
+                  <Path Filename="colorado">/home/doomy/Pictures/</Path>
+                  <Path Filename="..">/home/doomy/Pictures/colorado/</Path>
                   <Path Filename="">/home/doomy/Pictures/</Path>
                 </Paths>
               </Entry>
@@ -332,29 +348,133 @@
         </Tab>
         <Tab>
           <FileView Type="brief">
+            <Sortings>
+              <Sorting>
+                <Direction>2</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
             <History>
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="..">/home/doomy/Downloads/doublecmd/</Path>
-                  <Path Filename="ebooks">/home/doomy/Documents/</Path>
-                  <Path Filename="dotnet-core">/home/doomy/Documents/ebooks/</Path>
-                  <Path Filename="..">/home/doomy/Documents/ebooks/dotnet-core/</Path>
-                  <Path Filename="..">/home/doomy/</Path>
-                  <Path Filename="doomy">/home/</Path>
-                  <Path Filename="home">/</Path>
-                  <Path Filename="doomy">/home/</Path>
-                  <Path Filename="Videos">/home/doomy/</Path>
-                  <Path Filename="The.Ballad.of.Lefty.Brown.2017.1080p.WEB-DL.DD5.1.H264-FGT[EtHD].srt">/home/doomy/Videos/</Path>
-                  <Path Filename="Music">/home/doomy/</Path>
-                  <Path Filename="..">/home/doomy/Music/</Path>
                   <Path Filename="Documents">/home/doomy/</Path>
                   <Path Filename="..">/home/doomy/Documents/</Path>
                   <Path Filename="Pictures">/home/doomy/</Path>
                   <Path Filename="..">/home/doomy/Pictures/</Path>
                   <Path Filename="Documents">/home/doomy/</Path>
                   <Path Filename="ebooks">/home/doomy/Documents/</Path>
-                  <Path Filename="">/home/doomy/Documents/ebooks/</Path>
+                  <Path Filename="..">/home/doomy/Documents/ebooks/</Path>
+                  <Path Filename="lit">/home/doomy/Documents/</Path>
+                  <Path Filename="Van Vogt, A.E - Fauritorii de arme.doc">/home/doomy/Documents/lit/</Path>
+                  <Path Filename="lit">/home/doomy/Documents/</Path>
+                  <Path Filename="Van Vogt, A.E - Non-A  3 - Sfarsitul Non-A.doc">/home/doomy/Documents/lit/</Path>
+                  <Path Filename="lit">/home/doomy/Documents/</Path>
+                  <Path Filename="..">/home/doomy/Documents/lit/</Path>
+                  <Path Filename="lit">/home/doomy/Documents/</Path>
+                  <Path Filename="..">/home/doomy/Documents/lit/</Path>
+                  <Path Filename="lit">/home/doomy/Documents/</Path>
+                  <Path Filename="..">/home/doomy/Documents/lit/</Path>
+                  <Path Filename="personal">/home/doomy/Documents/</Path>
+                  <Path Filename="browser">/home/doomy/Documents/personal/</Path>
+                  <Path Filename="..">/home/doomy/Documents/personal/browser/</Path>
+                  <Path Filename="email accounts">/home/doomy/Documents/personal/</Path>
+                  <Path Filename="..">/home/doomy/Documents/personal/email accounts/</Path>
+                  <Path Filename="family">/home/doomy/Documents/personal/</Path>
+                  <Path Filename="..">/home/doomy/Documents/personal/family/</Path>
+                  <Path Filename="finlux subtitrare">/home/doomy/Documents/personal/</Path>
+                  <Path Filename="contact.txt">/home/doomy/Documents/personal/finlux subtitrare/</Path>
+                  <Path Filename="holiday">/home/doomy/Documents/personal/</Path>
+                  <Path Filename="Rezervarea Marrea.pdf">/home/doomy/Documents/personal/holiday/</Path>
+                  <Path Filename="netBuy">/home/doomy/Documents/personal/</Path>
+                  <Path Filename="euroamanet iosia chitanta gear fit.pdf">/home/doomy/Documents/personal/netBuy/</Path>
+                  <Path Filename="robestcomalcatel">/home/doomy/Documents/personal/</Path>
+                  <Path Filename="mozilla.pdf">/home/doomy/Documents/personal/robestcomalcatel/</Path>
+                  <Path Filename="media galaxy televizor samsung">/home/doomy/Documents/personal/</Path>
+                  <Path Filename="plangere online.txt">/home/doomy/Documents/personal/media galaxy televizor samsung/</Path>
+                  <Path Filename="media galaxy samsung pixeli">/home/doomy/Documents/personal/</Path>
+                  <Path Filename="img-161216141012.pdf">/home/doomy/Documents/personal/media galaxy samsung pixeli/</Path>
+                  <Path Filename="viza mama si tata">/home/doomy/Documents/personal/</Path>
+                  <Path Filename="Ungureanu Dumitru.jpg">/home/doomy/Documents/personal/viza mama si tata/</Path>
+                  <Path Filename="..">/home/doomy/Documents/personal/</Path>
+                  <Path Filename="ebooks">/home/doomy/Documents/</Path>
+                  <Path Filename="..">/home/doomy/Documents/ebooks/</Path>
+                  <Path Filename="personal">/home/doomy/Documents/</Path>
+                  <Path Filename="holiday">/home/doomy/Documents/personal/</Path>
+                  <Path Filename="personal">/home/doomy/Documents/</Path>
+                  <Path Filename="Documents">/home/doomy/</Path>
+                  <Path Filename="ebooks">/home/doomy/Documents/</Path>
+                  <Path Filename="dotnet-core">/home/doomy/Documents/ebooks/</Path>
+                  <Path Filename="..">/home/doomy/Documents/ebooks/dotnet-core/</Path>
+                  <Path Filename="golang">/home/doomy/Documents/ebooks/</Path>
+                  <Path Filename="">/home/doomy/Documents/ebooks/golang/</Path>
+                </Paths>
+              </Entry>
+            </History>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="brief">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="Pebble-SimpleWatch">/home/doomy/Projects/pebble/</Path>
+                  <Path Filename="resources">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
+                  <Path Filename="images">/home/doomy/Projects/pebble/Pebble-SimpleWatch/resources/</Path>
+                  <Path Filename="screenshot.png">/home/doomy/Projects/pebble/Pebble-SimpleWatch/resources/images/</Path>
+                  <Path Filename="images">/home/doomy/Projects/pebble/Pebble-SimpleWatch/resources/</Path>
+                  <Path Filename="resources">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
+                  <Path Filename="resources">/home/doomy/Projects/pebble/</Path>
+                  <Path Filename="..">/home/doomy/Projects/pebble/resources/</Path>
+                  <Path Filename="Pebble-SimpleWatch">/home/doomy/Projects/pebble/</Path>
+                  <Path Filename="bin">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
+                  <Path Filename="..">/home/doomy/Projects/pebble/Pebble-SimpleWatch/bin/</Path>
+                  <Path Filename="src">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
+                  <Path Filename="c">/home/doomy/Projects/pebble/Pebble-SimpleWatch/src/</Path>
+                  <Path Filename="main.c">/home/doomy/Projects/pebble/Pebble-SimpleWatch/src/c/</Path>
+                  <Path Filename="c">/home/doomy/Projects/pebble/Pebble-SimpleWatch/src/</Path>
+                  <Path Filename="resources">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
+                  <Path Filename="images">/home/doomy/Projects/pebble/Pebble-SimpleWatch/resources/</Path>
+                  <Path Filename="roundframe.png">/home/doomy/Projects/pebble/Pebble-SimpleWatch/resources/images/</Path>
+                  <Path Filename="images">/home/doomy/Projects/pebble/Pebble-SimpleWatch/resources/</Path>
+                  <Path Filename="resources">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
+                  <Path Filename="resources">/home/doomy/Projects/pebble/</Path>
+                  <Path Filename="roundframe.png">/home/doomy/Projects/pebble/resources/</Path>
+                  <Path Filename="Pebble-SimpleWatch">/home/doomy/Projects/pebble/</Path>
+                  <Path Filename="resources">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
+                  <Path Filename="images">/home/doomy/Projects/pebble/Pebble-SimpleWatch/resources/</Path>
+                  <Path Filename="roundframe.png">/home/doomy/Projects/pebble/Pebble-SimpleWatch/resources/images/</Path>
+                  <Path Filename="images">/home/doomy/Projects/pebble/Pebble-SimpleWatch/resources/</Path>
+                  <Path Filename="resources">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
+                  <Path Filename="images">/home/doomy/Projects/pebble/Pebble-SimpleWatch/resources/</Path>
+                  <Path Filename="screenshot.png">/home/doomy/Projects/pebble/Pebble-SimpleWatch/resources/images/</Path>
+                  <Path Filename="images">/home/doomy/Projects/pebble/Pebble-SimpleWatch/resources/</Path>
+                  <Path Filename="resources">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
+                  <Path Filename="resources">/home/doomy/Projects/pebble/</Path>
+                  <Path Filename="wallpaper.png">/home/doomy/Projects/pebble/resources/</Path>
+                  <Path Filename="Pebble-SimpleWatch">/home/doomy/Projects/pebble/</Path>
+                  <Path Filename="bin">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
+                  <Path Filename="..">/home/doomy/Projects/pebble/Pebble-SimpleWatch/bin/</Path>
+                  <Path Filename="resources">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
+                  <Path Filename="images">/home/doomy/Projects/pebble/Pebble-SimpleWatch/resources/</Path>
+                  <Path Filename="screenshot.png">/home/doomy/Projects/pebble/Pebble-SimpleWatch/resources/images/</Path>
+                  <Path Filename="images">/home/doomy/Projects/pebble/Pebble-SimpleWatch/resources/</Path>
+                  <Path Filename="resources">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
+                  <Path Filename="Pebble-SimpleWatch">/home/doomy/Projects/pebble/</Path>
+                  <Path Filename="bin">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
+                  <Path Filename="..">/home/doomy/Projects/pebble/Pebble-SimpleWatch/bin/</Path>
+                  <Path Filename="bin">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
+                  <Path Filename="..">/home/doomy/Projects/pebble/Pebble-SimpleWatch/bin/</Path>
+                  <Path Filename="bin">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
+                  <Path Filename="resources">/home/doomy/Projects/pebble/</Path>
+                  <Path Filename="">/home/doomy/Projects/pebble/resources/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -366,113 +486,56 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="..">/home/doomy/Downloads/doublecmd/</Path>
-                  <Path Filename="ebooks">/home/doomy/Documents/</Path>
-                  <Path Filename="dotnet-core">/home/doomy/Documents/ebooks/</Path>
-                  <Path Filename="..">/home/doomy/Documents/ebooks/dotnet-core/</Path>
-                  <Path Filename="..">/home/doomy/</Path>
-                  <Path Filename="doomy">/home/</Path>
-                  <Path Filename="home">/</Path>
-                  <Path Filename="doomy">/home/</Path>
-                  <Path Filename="Videos">/home/doomy/</Path>
-                  <Path Filename="The.Ballad.of.Lefty.Brown.2017.1080p.WEB-DL.DD5.1.H264-FGT[EtHD].srt">/home/doomy/Videos/</Path>
-                  <Path Filename="Music">/home/doomy/</Path>
-                  <Path Filename="..">/home/doomy/Music/</Path>
-                  <Path Filename="Documents">/home/doomy/</Path>
-                  <Path Filename="..">/home/doomy/Documents/</Path>
-                  <Path Filename="Pictures">/home/doomy/</Path>
-                  <Path Filename="..">/home/doomy/Pictures/</Path>
-                  <Path Filename="Documents">/home/doomy/</Path>
-                  <Path Filename="..">/home/doomy/Documents/</Path>
-                  <Path Filename="Projects">/home/doomy/</Path>
-                  <Path Filename="slimUG">/home/doomy/Projects/</Path>
-                  <Path Filename=".config">/home/doomy/Projects/slimUG/</Path>
-                  <Path Filename="doublecmd">/home/doomy/Projects/slimUG/.config/</Path>
-                  <Path Filename="doublecmd">/home/doomy/Projects/slimUG/.config/doublecmd/</Path>
-                  <Path Filename="..">/home/doomy/Projects/slimUG/.config/doublecmd/doublecmd/</Path>
-                  <Path Filename="doublecmd">/home/doomy/Projects/slimUG/.config/doublecmd/</Path>
-                  <Path Filename="..">/home/doomy/Projects/slimUG/.config/doublecmd/doublecmd/</Path>
-                  <Path Filename="doublecmd">/home/doomy/Projects/slimUG/.config/doublecmd/</Path>
-                  <Path Filename="..">/home/doomy/Projects/slimUG/.config/doublecmd/doublecmd/</Path>
-                  <Path Filename="highlighters.xml">/home/doomy/Projects/slimUG/.config/doublecmd/</Path>
-                  <Path Filename="doublecmd">/home/doomy/Projects/slimUG/.config/</Path>
-                  <Path Filename=".config">/home/doomy/Projects/slimUG/</Path>
-                  <Path Filename="doublecmd">/home/doomy/Projects/slimUG/.config/</Path>
-                  <Path Filename="multiarc.ini">/home/doomy/Projects/slimUG/.config/doublecmd/</Path>
-                </Paths>
-              </Entry>
-            </History>
-          </FileView>
-        </Tab>
-        <Tab>
-          <FileView Type="brief">
-            <History>
-              <Entry Active="True">
-                <FileSource Type="FileSystem"/>
-                <Paths>
-                  <Path Filename="..">/home/doomy/Downloads/doublecmd/</Path>
-                  <Path Filename="ebooks">/home/doomy/Documents/</Path>
-                  <Path Filename="dotnet-core">/home/doomy/Documents/ebooks/</Path>
-                  <Path Filename="..">/home/doomy/Documents/ebooks/dotnet-core/</Path>
-                  <Path Filename="..">/home/doomy/</Path>
-                  <Path Filename="doomy">/home/</Path>
-                  <Path Filename="home">/</Path>
-                  <Path Filename="doomy">/home/</Path>
-                  <Path Filename="Videos">/home/doomy/</Path>
-                  <Path Filename="The.Ballad.of.Lefty.Brown.2017.1080p.WEB-DL.DD5.1.H264-FGT[EtHD].srt">/home/doomy/Videos/</Path>
-                  <Path Filename="Music">/home/doomy/</Path>
-                  <Path Filename="..">/home/doomy/Music/</Path>
-                  <Path Filename="Documents">/home/doomy/</Path>
-                  <Path Filename="..">/home/doomy/Documents/</Path>
-                  <Path Filename="Pictures">/home/doomy/</Path>
-                  <Path Filename="..">/home/doomy/Pictures/</Path>
-                  <Path Filename="Documents">/home/doomy/</Path>
-                  <Path Filename="..">/home/doomy/Documents/</Path>
-                  <Path Filename="Projects">/home/doomy/</Path>
-                  <Path Filename="slimUG">/home/doomy/Projects/</Path>
-                  <Path Filename="screenshot01.jpg">/home/doomy/Projects/slimUG/</Path>
-                  <Path Filename="vuejs">/home/doomy/Projects/</Path>
-                  <Path Filename="">/home/doomy/Projects/vuejs/</Path>
-                </Paths>
-              </Entry>
-            </History>
-          </FileView>
-        </Tab>
-        <Tab>
-          <FileView Type="brief">
-            <History>
-              <Entry Active="True">
-                <FileSource Type="FileSystem"/>
-                <Paths>
-                  <Path Filename="..">/home/doomy/Downloads/doublecmd/</Path>
-                  <Path Filename="ebooks">/home/doomy/Documents/</Path>
-                  <Path Filename="dotnet-core">/home/doomy/Documents/ebooks/</Path>
-                  <Path Filename="..">/home/doomy/Documents/ebooks/dotnet-core/</Path>
-                  <Path Filename="..">/home/doomy/</Path>
-                  <Path Filename="doomy">/home/</Path>
-                  <Path Filename="home">/</Path>
-                  <Path Filename="doomy">/home/</Path>
-                  <Path Filename="Videos">/home/doomy/</Path>
-                  <Path Filename="The.Ballad.of.Lefty.Brown.2017.1080p.WEB-DL.DD5.1.H264-FGT[EtHD].srt">/home/doomy/Videos/</Path>
-                  <Path Filename="Music">/home/doomy/</Path>
-                  <Path Filename="..">/home/doomy/Music/</Path>
-                  <Path Filename="Documents">/home/doomy/</Path>
-                  <Path Filename="..">/home/doomy/Documents/</Path>
-                  <Path Filename="Pictures">/home/doomy/</Path>
-                  <Path Filename="..">/home/doomy/Pictures/</Path>
-                  <Path Filename="Documents">/home/doomy/</Path>
-                  <Path Filename="..">/home/doomy/Documents/</Path>
-                  <Path Filename="Projects">/home/doomy/</Path>
-                  <Path Filename="slimUG">/home/doomy/Projects/</Path>
-                  <Path Filename="screenshot01.jpg">/home/doomy/Projects/slimUG/</Path>
-                  <Path Filename="vuejs">/home/doomy/Projects/</Path>
-                  <Path Filename="..">/home/doomy/Projects/vuejs/</Path>
-                  <Path Filename="dotnet-core">/home/doomy/Projects/</Path>
-                  <Path Filename="..">/home/doomy/Projects/dotnet-core/</Path>
+                  <Path Filename="diagrams">/home/doomy/Projects/dotnet-core/</Path>
+                  <Path Filename="rounding.pdf">/home/doomy/Projects/dotnet-core/diagrams/</Path>
+                  <Path Filename="vscode-sln">/home/doomy/Projects/dotnet-core/</Path>
+                  <Path Filename="flow.txt">/home/doomy/Projects/dotnet-core/vscode-sln/</Path>
+                  <Path Filename="vscode-sln">/home/doomy/Projects/dotnet-core/</Path>
+                  <Path Filename="monofirst">/home/doomy/Projects/</Path>
+                  <Path Filename="monofirst">/home/doomy/Projects/monofirst/</Path>
+                  <Path Filename="..">/home/doomy/Projects/monofirst/monofirst/</Path>
+                  <Path Filename="monofirst">/home/doomy/Projects/monofirst/</Path>
                   <Path Filename="notes">/home/doomy/Projects/</Path>
                   <Path Filename="..">/home/doomy/Projects/notes/</Path>
-                  <Path Filename="graphs-for-docs">/home/doomy/Projects/</Path>
-                  <Path Filename="">/home/doomy/Projects/graphs-for-docs/</Path>
+                  <Path Filename="notes">/home/doomy/Projects/</Path>
+                  <Path Filename="..">/home/doomy/Projects/notes/</Path>
+                  <Path Filename="notes">/home/doomy/Projects/</Path>
+                  <Path Filename="microservices">/home/doomy/Projects/notes/</Path>
+                  <Path Filename="..">/home/doomy/Projects/notes/microservices/</Path>
+                  <Path Filename="system">/home/doomy/Projects/notes/</Path>
+                  <Path Filename="..">/home/doomy/Projects/notes/system/</Path>
+                  <Path Filename="microservices">/home/doomy/Projects/notes/</Path>
+                  <Path Filename="..">/home/doomy/Projects/notes/microservices/</Path>
+                  <Path Filename="c# topics.txt">/home/doomy/Projects/notes/</Path>
+                  <Path Filename="notes">/home/doomy/Projects/</Path>
+                  <Path Filename="..">/home/doomy/Projects/notes/</Path>
+                  <Path Filename="notes">/home/doomy/Projects/</Path>
+                  <Path Filename="csharp">/home/doomy/Projects/notes/</Path>
+                  <Path Filename="..">/home/doomy/Projects/notes/csharp/</Path>
+                  <Path Filename="system">/home/doomy/Projects/notes/</Path>
+                  <Path Filename="ocr">/home/doomy/Projects/notes/system/</Path>
+                  <Path Filename="..">/home/doomy/Projects/notes/system/ocr/</Path>
+                  <Path Filename="ocr">/home/doomy/Projects/notes/system/</Path>
+                  <Path Filename="microservices">/home/doomy/Projects/notes/</Path>
+                  <Path Filename="context, bounded">/home/doomy/Projects/notes/microservices/</Path>
+                  <Path Filename="..">/home/doomy/Projects/notes/microservices/context, bounded/</Path>
+                  <Path Filename="context, bounded">/home/doomy/Projects/notes/microservices/</Path>
+                  <Path Filename="trash">/home/doomy/Projects/notes/</Path>
+                  <Path Filename="..">/home/doomy/Projects/notes/trash/</Path>
+                  <Path Filename="..">/home/doomy/Projects/notes/</Path>
+                  <Path Filename="golang">/home/doomy/Projects/</Path>
+                  <Path Filename="..">/home/doomy/Projects/golang/</Path>
+                  <Path Filename="golang">/home/doomy/Projects/</Path>
+                  <Path Filename="Projects">/home/doomy/</Path>
+                  <Path Filename="golang">/home/doomy/Projects/</Path>
+                  <Path Filename="doc">/home/doomy/Projects/golang/</Path>
+                  <Path Filename="..">/home/doomy/Projects/golang/doc/</Path>
+                  <Path Filename="doc">/home/doomy/Projects/golang/</Path>
+                  <Path Filename="golang">/home/doomy/Projects/</Path>
+                  <Path Filename="doc">/home/doomy/Projects/golang/</Path>
+                  <Path Filename="..">/home/doomy/Projects/golang/doc/</Path>
+                  <Path Filename="doc">/home/doomy/Projects/golang/</Path>
+                  <Path Filename="">/home/doomy/Projects/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -480,6 +543,195 @@
         </Tab>
         <Tab>
           <FileView Type="brief">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="images">/home/doomy/Projects/pebble/Pebble-SimpleWatch/resources/</Path>
+                  <Path Filename="screenshot.png">/home/doomy/Projects/pebble/Pebble-SimpleWatch/resources/images/</Path>
+                  <Path Filename="images">/home/doomy/Projects/pebble/Pebble-SimpleWatch/resources/</Path>
+                  <Path Filename="bin">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
+                  <Path Filename="..">/home/doomy/Projects/pebble/Pebble-SimpleWatch/bin/</Path>
+                  <Path Filename="bin">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
+                  <Path Filename="itmitica-simple-watch.pbw">/home/doomy/Projects/pebble/Pebble-SimpleWatch/bin/</Path>
+                  <Path Filename="bin">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
+                  <Path Filename="PebbleTimely">/home/doomy/Projects/pebble/</Path>
+                  <Path Filename="appinfo.json">/home/doomy/Projects/pebble/PebbleTimely/</Path>
+                  <Path Filename="PebbleTimely">/home/doomy/Projects/pebble/</Path>
+                  <Path Filename="resources">/home/doomy/Projects/pebble/PebbleTimely/</Path>
+                  <Path Filename="fonts">/home/doomy/Projects/pebble/PebbleTimely/resources/</Path>
+                  <Path Filename="unifont_latest.ttf">/home/doomy/Projects/pebble/PebbleTimely/resources/fonts/</Path>
+                  <Path Filename="fonts">/home/doomy/Projects/pebble/PebbleTimely/resources/</Path>
+                  <Path Filename="..">/home/doomy/Projects/pebble/PebbleTimely/</Path>
+                  <Path Filename="Pebble-SimpleWatch">/home/doomy/Projects/pebble/</Path>
+                  <Path Filename="..">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
+                  <Path Filename="resources">/home/doomy/Projects/pebble/</Path>
+                  <Path Filename="dial.svg">/home/doomy/Projects/pebble/resources/</Path>
+                  <Path Filename="Pebble-SimpleWatch">/home/doomy/Projects/pebble/</Path>
+                  <Path Filename="bin">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
+                  <Path Filename="..">/home/doomy/Projects/pebble/Pebble-SimpleWatch/bin/</Path>
+                  <Path Filename="bin">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
+                  <Path Filename="..">/home/doomy/Projects/pebble/Pebble-SimpleWatch/bin/</Path>
+                  <Path Filename="README.md">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
+                  <Path Filename="resources">/home/doomy/Projects/pebble/</Path>
+                  <Path Filename="roundframe.png">/home/doomy/Projects/pebble/resources/</Path>
+                  <Path Filename="Pebble-SimpleWatch">/home/doomy/Projects/pebble/</Path>
+                  <Path Filename="resources">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
+                  <Path Filename="fonts">/home/doomy/Projects/pebble/Pebble-SimpleWatch/resources/</Path>
+                  <Path Filename="..">/home/doomy/Projects/pebble/Pebble-SimpleWatch/resources/fonts/</Path>
+                  <Path Filename="fonts">/home/doomy/Projects/pebble/Pebble-SimpleWatch/resources/</Path>
+                  <Path Filename="wscript">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
+                  <Path Filename="clay_work">/home/doomy/Projects/pebble/</Path>
+                  <Path Filename="src">/home/doomy/Projects/pebble/clay_work/</Path>
+                  <Path Filename="pkjs">/home/doomy/Projects/pebble/clay_work/src/</Path>
+                  <Path Filename="index.js">/home/doomy/Projects/pebble/clay_work/src/pkjs/</Path>
+                  <Path Filename="c">/home/doomy/Projects/pebble/clay_work/src/</Path>
+                  <Path Filename="hello_world.c">/home/doomy/Projects/pebble/clay_work/src/c/</Path>
+                  <Path Filename="c">/home/doomy/Projects/pebble/clay_work/src/</Path>
+                  <Path Filename="package.json">/home/doomy/Projects/pebble/clay_work/</Path>
+                  <Path Filename="Pebble-SimpleWatch">/home/doomy/Projects/pebble/</Path>
+                  <Path Filename="bin">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
+                  <Path Filename="..">/home/doomy/Projects/pebble/Pebble-SimpleWatch/bin/</Path>
+                  <Path Filename="bin">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
+                  <Path Filename="..">/home/doomy/Projects/pebble/Pebble-SimpleWatch/bin/</Path>
+                  <Path Filename="bin">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
+                  <Path Filename="..">/home/doomy/Projects/pebble/Pebble-SimpleWatch/bin/</Path>
+                  <Path Filename="bin">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
+                </Paths>
+              </Entry>
+            </History>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="brief">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="ubuntu-touch15.04.rev3-dec.17">/home/doomy/Public/oneplus one essential kits/TWRP/Backups/</Path>
+                  <Path Filename="..">/home/doomy/Public/oneplus one essential kits/TWRP/Backups/ubuntu-touch15.04.rev3-dec.17/</Path>
+                  <Path Filename="..">/home/doomy/Public/oneplus one essential kits/TWRP/Backups/</Path>
+                  <Path Filename="platform-tools">/home/doomy/Public/oneplus one essential kits/</Path>
+                  <Path Filename="lib64">/home/doomy/Public/oneplus one essential kits/platform-tools/</Path>
+                  <Path Filename="platform-tools">/home/doomy/Public/oneplus one essential kits/</Path>
+                  <Path Filename="..">/home/doomy/Public/oneplus one essential kits/platform-tools/</Path>
+                  <Path Filename="platform-tools-latest-linux.zip">/home/doomy/Public/oneplus one essential kits/</Path>
+                  <Path Filename="oneplus one essential kits">/home/doomy/Public/</Path>
+                  <Path Filename="platform-tools">/home/doomy/Public/oneplus one essential kits/</Path>
+                  <Path Filename="..">/home/doomy/Public/oneplus one essential kits/platform-tools/</Path>
+                  <Path Filename="..">/home/doomy/Public/oneplus one essential kits/</Path>
+                  <Path Filename="go">/home/doomy/Public/</Path>
+                  <Path Filename="..">/home/doomy/Public/go/</Path>
+                  <Path Filename="liteide">/home/doomy/Public/</Path>
+                  <Path Filename="bin">/home/doomy/Public/liteide/</Path>
+                  <Path Filename="liteide">/home/doomy/Public/liteide/bin/</Path>
+                  <Path Filename="bin">/home/doomy/Public/liteide/</Path>
+                  <Path Filename="go">/home/doomy/Public/</Path>
+                  <Path Filename="bin">/home/doomy/Public/go/</Path>
+                  <Path Filename="..">/home/doomy/Public/go/bin/</Path>
+                  <Path Filename="blog">/home/doomy/Public/go/</Path>
+                  <Path Filename="..">/home/doomy/Public/go/blog/</Path>
+                  <Path Filename="src">/home/doomy/Public/go/</Path>
+                  <Path Filename="..">/home/doomy/Public/go/src/</Path>
+                  <Path Filename="src">/home/doomy/Public/go/</Path>
+                  <Path Filename="go">/home/doomy/Public/</Path>
+                  <Path Filename="api">/home/doomy/Public/go/</Path>
+                  <Path Filename="..">/home/doomy/Public/go/api/</Path>
+                  <Path Filename="bin">/home/doomy/Public/go/</Path>
+                  <Path Filename="..">/home/doomy/Public/go/bin/</Path>
+                  <Path Filename="blog">/home/doomy/Public/go/</Path>
+                  <Path Filename="..">/home/doomy/Public/go/blog/</Path>
+                  <Path Filename="doc">/home/doomy/Public/go/</Path>
+                  <Path Filename="..">/home/doomy/Public/go/doc/</Path>
+                  <Path Filename="lib">/home/doomy/Public/go/</Path>
+                  <Path Filename="time">/home/doomy/Public/go/lib/</Path>
+                  <Path Filename="..">/home/doomy/Public/go/lib/time/</Path>
+                  <Path Filename="time">/home/doomy/Public/go/lib/</Path>
+                  <Path Filename="misc">/home/doomy/Public/go/</Path>
+                  <Path Filename="..">/home/doomy/Public/go/misc/</Path>
+                  <Path Filename="misc">/home/doomy/Public/go/</Path>
+                  <Path Filename="liteide">/home/doomy/Public/</Path>
+                  <Path Filename="bin">/home/doomy/Public/liteide/</Path>
+                  <Path Filename="..">/home/doomy/Public/liteide/bin/</Path>
+                  <Path Filename="bin">/home/doomy/Public/liteide/</Path>
+                  <Path Filename="liteide">/home/doomy/Public/</Path>
+                  <Path Filename="Projects">/home/doomy/</Path>
+                  <Path Filename="slimUG">/home/doomy/Projects/</Path>
+                  <Path Filename="">/home/doomy/Projects/slimUG/</Path>
+                </Paths>
+              </Entry>
+            </History>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="brief">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="Backups">/home/doomy/Public/oneplus one essential kits/TWRP/</Path>
+                  <Path Filename="platform-tools">/home/doomy/Public/oneplus one essential kits/</Path>
+                  <Path Filename="dmtracedump">/home/doomy/Public/oneplus one essential kits/platform-tools/</Path>
+                  <Path Filename="platform-tools">/home/doomy/Public/oneplus one essential kits/</Path>
+                  <Path Filename="cm13">/home/doomy/Public/oneplus one essential kits/platform-tools/</Path>
+                  <Path Filename="system">/home/doomy/Public/oneplus one essential kits/platform-tools/cm13/</Path>
+                  <Path Filename="..">/home/doomy/Public/oneplus one essential kits/platform-tools/cm13/system/</Path>
+                  <Path Filename="install">/home/doomy/Public/oneplus one essential kits/platform-tools/cm13/</Path>
+                  <Path Filename="cm13">/home/doomy/Public/oneplus one essential kits/platform-tools/</Path>
+                  <Path Filename="platform-tools">/home/doomy/Public/oneplus one essential kits/</Path>
+                  <Path Filename="cm-13.1.2-ZNH2KAS3P0-bacon-signed-fastboot-76d803f730">/home/doomy/Public/oneplus one essential kits/platform-tools/</Path>
+                  <Path Filename="..">/home/doomy/Public/oneplus one essential kits/platform-tools/cm-13.1.2-ZNH2KAS3P0-bacon-signed-fastboot-76d803f730/</Path>
+                  <Path Filename="twrp">/home/doomy/Public/oneplus one essential kits/platform-tools/</Path>
+                  <Path Filename="..">/home/doomy/Public/oneplus one essential kits/platform-tools/twrp/</Path>
+                  <Path Filename="twrp">/home/doomy/Public/oneplus one essential kits/platform-tools/</Path>
+                  <Path Filename="platform-tools">/home/doomy/Public/oneplus one essential kits/</Path>
+                  <Path Filename="cm13">/home/doomy/Public/oneplus one essential kits/platform-tools/</Path>
+                  <Path Filename="platform-tools-latest-linux.zip">/home/doomy/Public/oneplus one essential kits/</Path>
+                  <Path Filename="serviio-1.9">/home/doomy/Public/</Path>
+                  <Path Filename="bin">/home/doomy/Public/serviio-1.9/</Path>
+                  <Path Filename="..">/home/doomy/Public/serviio-1.9/bin/</Path>
+                  <Path Filename="firefox">/home/doomy/Public/</Path>
+                  <Path Filename="firefox">/home/doomy/Public/firefox/</Path>
+                  <Path Filename="serviio-1.9">/home/doomy/Public/</Path>
+                  <Path Filename="bin">/home/doomy/Public/serviio-1.9/</Path>
+                  <Path Filename="serviio-console.sh">/home/doomy/Public/serviio-1.9/bin/</Path>
+                  <Path Filename="firefox">/home/doomy/Public/</Path>
+                  <Path Filename="firefox">/home/doomy/Public/firefox/</Path>
+                  <Path Filename="serviio-1.9">/home/doomy/Public/</Path>
+                  <Path Filename="bin">/home/doomy/Public/serviio-1.9/</Path>
+                  <Path Filename="serviio-console.sh">/home/doomy/Public/serviio-1.9/bin/</Path>
+                  <Path Filename="bin">/home/doomy/Public/serviio-1.9/</Path>
+                  <Path Filename="firefox">/home/doomy/Public/</Path>
+                  <Path Filename="firefox">/home/doomy/Public/firefox/</Path>
+                  <Path Filename="serviio-1.9">/home/doomy/Public/</Path>
+                  <Path Filename="bin">/home/doomy/Public/serviio-1.9/</Path>
+                  <Path Filename="serviio-console.sh">/home/doomy/Public/serviio-1.9/bin/</Path>
+                  <Path Filename="bin">/home/doomy/Public/serviio-1.9/</Path>
+                  <Path Filename="firefox">/home/doomy/Public/</Path>
+                  <Path Filename="..">/home/doomy/Public/firefox/</Path>
+                  <Path Filename="serviio-1.9">/home/doomy/Public/</Path>
+                  <Path Filename="bin">/home/doomy/Public/serviio-1.9/</Path>
+                  <Path Filename="serviio-console.sh">/home/doomy/Public/serviio-1.9/bin/</Path>
+                  <Path Filename="firefox">/home/doomy/Public/</Path>
+                  <Path Filename="..">/home/doomy/Public/firefox/</Path>
+                  <Path Filename="graphics">/home/doomy/Public/</Path>
+                  <Path Filename="ships_01.eps">/home/doomy/Public/graphics/</Path>
+                  <Path Filename="firefox">/home/doomy/Public/</Path>
+                  <Path Filename="firefox">/home/doomy/Public/firefox/</Path>
+                  <Path Filename="laddiso">/home/doomy/Public/</Path>
+                </Paths>
+              </Entry>
+            </History>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="brief">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
             <History>
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
@@ -495,19 +747,80 @@
                   <Path Filename="Videos">/home/doomy/</Path>
                   <Path Filename="The.Ballad.of.Lefty.Brown.2017.1080p.WEB-DL.DD5.1.H264-FGT[EtHD].srt">/home/doomy/Videos/</Path>
                   <Path Filename="Music">/home/doomy/</Path>
-                  <Path Filename="..">/home/doomy/Music/</Path>
-                  <Path Filename="Documents">/home/doomy/</Path>
-                  <Path Filename="..">/home/doomy/Documents/</Path>
-                  <Path Filename="Pictures">/home/doomy/</Path>
-                  <Path Filename="..">/home/doomy/Pictures/</Path>
-                  <Path Filename="Documents">/home/doomy/</Path>
-                  <Path Filename="..">/home/doomy/Documents/</Path>
+                  <Path Filename="">/home/doomy/Music/</Path>
+                  <Path Filename=".local">/home/doomy/</Path>
+                  <Path Filename="share">/home/doomy/.local/</Path>
+                  <Path Filename="fonts">/home/doomy/.local/share/</Path>
+                  <Path Filename="share">/home/doomy/.local/</Path>
+                  <Path Filename=".local">/home/doomy/</Path>
+                  <Path Filename="share">/home/doomy/.local/</Path>
+                  <Path Filename="fonts">/home/doomy/.local/share/</Path>
+                  <Path Filename="">/home/doomy/.local/share/fonts/</Path>
+                  <Path Filename=".local">/home/doomy/</Path>
+                  <Path Filename="share">/home/doomy/.local/</Path>
+                  <Path Filename="fonts">/home/doomy/.local/share/</Path>
+                  <Path Filename="">/home/doomy/.local/share/fonts/</Path>
+                </Paths>
+              </Entry>
+            </History>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="brief">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="golang">/home/doomy/Projects/</Path>
                   <Path Filename="Projects">/home/doomy/</Path>
-                  <Path Filename="slimUG">/home/doomy/Projects/</Path>
-                  <Path Filename=".config">/home/doomy/Projects/slimUG/</Path>
-                  <Path Filename="Public">/home/doomy/</Path>
-                  <Path Filename="firefox">/home/doomy/Public/</Path>
-                  <Path Filename="libmozsqlite3.so">/home/doomy/Public/firefox/</Path>
+                  <Path Filename="golang">/home/doomy/Projects/</Path>
+                  <Path Filename="doc">/home/doomy/Projects/golang/</Path>
+                  <Path Filename="..">/home/doomy/Projects/golang/doc/</Path>
+                  <Path Filename="doc">/home/doomy/Projects/golang/</Path>
+                  <Path Filename="golang">/home/doomy/Projects/</Path>
+                  <Path Filename="doc">/home/doomy/Projects/golang/</Path>
+                  <Path Filename="..">/home/doomy/Projects/golang/doc/</Path>
+                  <Path Filename="doc">/home/doomy/Projects/golang/</Path>
+                  <Path Filename="monofirst">/home/doomy/Projects/</Path>
+                  <Path Filename="go">/home/doomy/</Path>
+                  <Path Filename="pkg">/home/doomy/go/</Path>
+                  <Path Filename="linux_amd64">/home/doomy/go/pkg/</Path>
+                  <Path Filename="github.com">/home/doomy/go/pkg/linux_amd64/</Path>
+                  <Path Filename="golang">/home/doomy/go/pkg/linux_amd64/github.com/</Path>
+                  <Path Filename="..">/home/doomy/go/pkg/linux_amd64/github.com/golang/</Path>
+                  <Path Filename="golang">/home/doomy/go/pkg/linux_amd64/github.com/</Path>
+                  <Path Filename="golang.org">/home/doomy/go/pkg/linux_amd64/</Path>
+                  <Path Filename="..">/home/doomy/go/pkg/linux_amd64/golang.org/</Path>
+                  <Path Filename="golang.org">/home/doomy/go/pkg/linux_amd64/</Path>
+                  <Path Filename="linux_amd64">/home/doomy/go/pkg/</Path>
+                  <Path Filename="bin">/home/doomy/go/</Path>
+                  <Path Filename="..">/home/doomy/go/bin/</Path>
+                  <Path Filename="pkg">/home/doomy/go/</Path>
+                  <Path Filename="linux_amd64">/home/doomy/go/pkg/</Path>
+                  <Path Filename="github.com">/home/doomy/go/pkg/linux_amd64/</Path>
+                  <Path Filename="itmitica">/home/doomy/go/pkg/linux_amd64/github.com/</Path>
+                  <Path Filename="golang">/home/doomy/go/pkg/linux_amd64/github.com/itmitica/</Path>
+                  <Path Filename="..">/home/doomy/go/pkg/linux_amd64/github.com/itmitica/golang/</Path>
+                  <Path Filename="golang">/home/doomy/go/pkg/linux_amd64/github.com/itmitica/</Path>
+                  <Path Filename="golang">/home/doomy/go/pkg/linux_amd64/github.com/</Path>
+                  <Path Filename="..">/home/doomy/go/pkg/linux_amd64/github.com/golang/</Path>
+                  <Path Filename="derekparker">/home/doomy/go/pkg/linux_amd64/github.com/</Path>
+                  <Path Filename="delve">/home/doomy/go/pkg/linux_amd64/github.com/derekparker/</Path>
+                  <Path Filename="..">/home/doomy/go/pkg/linux_amd64/github.com/derekparker/delve/</Path>
+                  <Path Filename="delve">/home/doomy/go/pkg/linux_amd64/github.com/derekparker/</Path>
+                  <Path Filename="itmitica">/home/doomy/go/pkg/linux_amd64/github.com/</Path>
+                  <Path Filename="golang">/home/doomy/go/pkg/linux_amd64/github.com/itmitica/</Path>
+                  <Path Filename="..">/home/doomy/go/pkg/linux_amd64/github.com/itmitica/golang/</Path>
+                  <Path Filename="golang">/home/doomy/go/pkg/linux_amd64/github.com/itmitica/</Path>
+                  <Path Filename="itmitica">/home/doomy/go/pkg/linux_amd64/github.com/</Path>
+                  <Path Filename="golang">/home/doomy/go/pkg/linux_amd64/github.com/itmitica/</Path>
+                  <Path Filename="stringutil.a">/home/doomy/go/pkg/linux_amd64/github.com/itmitica/golang/</Path>
+                  <Path Filename="golang">/home/doomy/go/pkg/linux_amd64/github.com/itmitica/</Path>
+                  <Path Filename="itmitica">/home/doomy/go/pkg/linux_amd64/github.com/</Path>
+                  <Path Filename="github.com">/home/doomy/go/pkg/linux_amd64/</Path>
+                  <Path Filename="linux_amd64">/home/doomy/go/pkg/</Path>
+                  <Path Filename="bin">/home/doomy/go/</Path>
+                  <Path Filename="..">/home/doomy/go/bin/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -515,19 +828,63 @@
         </Tab>
       </Left>
       <Right>
-        <ActiveTab>3</ActiveTab>
+        <ActiveTab>0</ActiveTab>
         <Tab>
           <FileView Type="brief">
             <History>
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="..">/home/doomy/Downloads/doublecmd/</Path>
-                  <Path Filename="ebooks">/home/doomy/Documents/</Path>
-                  <Path Filename="dotnet-core">/home/doomy/Documents/ebooks/</Path>
-                  <Path Filename="Building Web Applications with Visual Studio 2017.pdf">/home/doomy/Documents/ebooks/dotnet-core/</Path>
+                  <Path Filename="..">/home/doomy/Downloads/Battle.of.the.Sexes.2017.1080p.BluRay.X264-AMIABLE[rarbg]/</Path>
+                  <Path Filename="Battle.of.the.Sexes.2017.1080p.BluRay.X264-AMIABLE[rarbg]">/home/doomy/Downloads/</Path>
+                  <Path Filename="Subs">/home/doomy/Downloads/Battle.of.the.Sexes.2017.1080p.BluRay.X264-AMIABLE[rarbg]/</Path>
+                  <Path Filename="..">/home/doomy/Downloads/Battle.of.the.Sexes.2017.1080p.BluRay.X264-AMIABLE[rarbg]/Subs/</Path>
+                  <Path Filename="Subs">/home/doomy/Downloads/Battle.of.the.Sexes.2017.1080p.BluRay.X264-AMIABLE[rarbg]/</Path>
+                  <Path Filename="platform-tools">/home/doomy/Downloads/</Path>
                   <Path Filename="Downloads">/home/doomy/</Path>
-                  <Path Filename="">/home/doomy/Downloads/</Path>
+                  <Path Filename="platform-tools">/home/doomy/Downloads/</Path>
+                  <Path Filename="..">/home/doomy/Downloads/platform-tools/</Path>
+                  <Path Filename="platform-tools">/home/doomy/Downloads/</Path>
+                  <Path Filename="lib64">/home/doomy/Downloads/platform-tools/</Path>
+                  <Path Filename="xlunch-3.2.5">/home/doomy/Downloads/</Path>
+                  <Path Filename="docs">/home/doomy/Downloads/xlunch-3.2.5/</Path>
+                  <Path Filename="usage.txt">/home/doomy/Downloads/xlunch-3.2.5/docs/</Path>
+                  <Path Filename="docs">/home/doomy/Downloads/xlunch-3.2.5/</Path>
+                  <Path Filename="Blade Runner 2049.2017.HDRip.XViD.AC3-ETRG">/home/doomy/Downloads/</Path>
+                  <Path Filename="Torrent downloaded from ettv.tv.txt">/home/doomy/Downloads/Blade Runner 2049.2017.HDRip.XViD.AC3-ETRG/</Path>
+                  <Path Filename="..">/home/doomy/Downloads/</Path>
+                  <Path Filename="Downloads">/home/doomy/</Path>
+                  <Path Filename="Valerian.and.the.City.of.a.Thousand.Planets.2017.720p.BluRay.x264-NeZu">/home/doomy/Downloads/</Path>
+                  <Path Filename="valerian.and.the.city.of.a.thousand.planets.2017.720p.bluray.x264-nezu.nfo">/home/doomy/Downloads/Valerian.and.the.City.of.a.Thousand.Planets.2017.720p.BluRay.x264-NeZu/</Path>
+                  <Path Filename="Lucky.2017.DVDRip.x264-WiDE[EtMovies]">/home/doomy/Downloads/</Path>
+                  <Path Filename="lucky.2017.dvdrip.x264-wide.sfv">/home/doomy/Downloads/Lucky.2017.DVDRip.x264-WiDE[EtMovies]/</Path>
+                  <Path Filename="Hard.Sun.S01E01.HDTV.x264-ORGANiC[ettv]">/home/doomy/Downloads/</Path>
+                  <Path Filename="Downloaded from www.ETTV.tv .txt">/home/doomy/Downloads/Hard.Sun.S01E01.HDTV.x264-ORGANiC[ettv]/</Path>
+                  <Path Filename="Shrink.2017.S01E01.WEB.x264-TBS[ettv]">/home/doomy/Downloads/</Path>
+                  <Path Filename="Downloaded from www.ETTV.tv .txt">/home/doomy/Downloads/Shrink.2017.S01E01.WEB.x264-TBS[ettv]/</Path>
+                  <Path Filename="liteide">/home/doomy/Downloads/</Path>
+                  <Path Filename="bin">/home/doomy/Downloads/liteide/</Path>
+                  <Path Filename="liteide">/home/doomy/Downloads/liteide/bin/</Path>
+                  <Path Filename="bin">/home/doomy/Downloads/liteide/</Path>
+                  <Path Filename="..">/home/doomy/Downloads/</Path>
+                  <Path Filename="Downloads">/home/doomy/</Path>
+                  <Path Filename="Jungle.2017.PROPER.BDRip.x264-GHOULS[EtMovies]">/home/doomy/Downloads/</Path>
+                  <Path Filename="Subs">/home/doomy/Downloads/Jungle.2017.PROPER.BDRip.x264-GHOULS[EtMovies]/</Path>
+                  <Path Filename="jungle.2017.proper.bdrip.x264-ghouls.subs.sfv">/home/doomy/Downloads/Jungle.2017.PROPER.BDRip.x264-GHOULS[EtMovies]/Subs/</Path>
+                  <Path Filename="Subs">/home/doomy/Downloads/Jungle.2017.PROPER.BDRip.x264-GHOULS[EtMovies]/</Path>
+                  <Path Filename="Jungle (2017) [1080p] [YTS.AG]">/home/doomy/Downloads/</Path>
+                  <Path Filename="WWW.YTS.AG.jpg">/home/doomy/Downloads/Jungle (2017) [1080p] [YTS.AG]/</Path>
+                  <Path Filename="spectre-meltdown-checker-0.29">/home/doomy/Downloads/</Path>
+                  <Path Filename="spectre-meltdown-checker-0.29">/home/doomy/Downloads/spectre-meltdown-checker-0.29/</Path>
+                  <Path Filename="spectre-meltdown-checker.sh">/home/doomy/Downloads/spectre-meltdown-checker-0.29/spectre-meltdown-checker-0.29/</Path>
+                  <Path Filename="spectre-meltdown-checker-0.29">/home/doomy/Downloads/spectre-meltdown-checker-0.29/</Path>
+                  <Path Filename="LA.to.Vegas.S01E03.HDTV.x264-SVA[ettv]">/home/doomy/Downloads/</Path>
+                  <Path Filename="Downloaded from www.ETTV.tv .txt">/home/doomy/Downloads/LA.to.Vegas.S01E03.HDTV.x264-SVA[ettv]/</Path>
+                  <Path Filename="The.Man.from.Earth.Holocene.2017.720p.BluRay.x264-UNiVEARTH">/home/doomy/Downloads/</Path>
+                  <Path Filename="Subs">/home/doomy/Downloads/The.Man.from.Earth.Holocene.2017.720p.BluRay.x264-UNiVEARTH/</Path>
+                  <Path Filename="The.Man.from.Earth.Holocene.2017.720p.BluRay.x264-UNiVEARTH.French.srt">/home/doomy/Downloads/The.Man.from.Earth.Holocene.2017.720p.BluRay.x264-UNiVEARTH/Subs/</Path>
+                  <Path Filename="Subs">/home/doomy/Downloads/The.Man.from.Earth.Holocene.2017.720p.BluRay.x264-UNiVEARTH/</Path>
+                  <Path Filename="..">/home/doomy/Downloads/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -600,7 +957,7 @@
                   <Path Filename="alternate-tab@gnome-shell-extensions.gcampax.github.com">/home/doomy/.local/share/gnome-shell/extensions/</Path>
                   <Path Filename="..">/home/doomy/.local/share/gnome-shell/extensions/alternate-tab@gnome-shell-extensions.gcampax.github.com/</Path>
                   <Path Filename="dash-to-dock@micxgx.gmail.com">/home/doomy/.local/share/gnome-shell/extensions/</Path>
-                  <Path Filename="metadata.json">/home/doomy/.local/share/gnome-shell/extensions/dash-to-dock@micxgx.gmail.com/</Path>
+                  <Path Filename="">/home/doomy/.local/share/gnome-shell/extensions/dash-to-dock@micxgx.gmail.com/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -612,30 +969,55 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="..">/home/doomy/Downloads/doublecmd/</Path>
-                  <Path Filename="ebooks">/home/doomy/Documents/</Path>
-                  <Path Filename="dotnet-core">/home/doomy/Documents/ebooks/</Path>
-                  <Path Filename="Building Web Applications with Visual Studio 2017.pdf">/home/doomy/Documents/ebooks/dotnet-core/</Path>
-                  <Path Filename="Downloads">/home/doomy/</Path>
-                  <Path Filename="..">/home/doomy/Downloads/</Path>
-                  <Path Filename=".local">/home/doomy/</Path>
-                  <Path Filename="share">/home/doomy/.local/</Path>
-                  <Path Filename="icons">/home/doomy/.local/share/</Path>
-                  <Path Filename="hicolor">/home/doomy/.local/share/icons/</Path>
-                  <Path Filename="themes">/home/doomy/.local/share/</Path>
-                  <Path Filename="..">/home/doomy/.local/share/themes/</Path>
-                  <Path Filename="gnome-shell">/home/doomy/.local/share/</Path>
-                  <Path Filename="extensions">/home/doomy/.local/share/gnome-shell/</Path>
-                  <Path Filename="alternate-tab@gnome-shell-extensions.gcampax.github.com">/home/doomy/.local/share/gnome-shell/extensions/</Path>
-                  <Path Filename="..">/home/doomy/.local/share/gnome-shell/extensions/alternate-tab@gnome-shell-extensions.gcampax.github.com/</Path>
-                  <Path Filename="..">/home/doomy/.local/share/gnome-shell/extensions/</Path>
-                  <Path Filename="extensions">/home/doomy/.local/share/gnome-shell/</Path>
-                  <Path Filename="gnome-shell">/home/doomy/.local/share/</Path>
-                  <Path Filename="share">/home/doomy/.local/</Path>
-                  <Path Filename=".local">/home/doomy/</Path>
-                  <Path Filename="doomy">/home/</Path>
-                  <Path Filename="media">/</Path>
-                  <Path Filename="doomy">/media/</Path>
+                  <Path Filename="Documents">/media/doomy/ubuntugnome1604/home/doomy/</Path>
+                  <Path Filename="ebooks">/media/doomy/ubuntugnome1604/home/doomy/Documents/</Path>
+                  <Path Filename="microservices">/media/doomy/ubuntugnome1604/home/doomy/Documents/ebooks/</Path>
+                  <Path Filename="personal">/media/doomy/ubuntugnome1604/home/doomy/Documents/</Path>
+                  <Path Filename="dochita viorel">/media/doomy/ubuntugnome1604/home/doomy/Documents/personal/</Path>
+                  <Path Filename="personal">/media/doomy/ubuntugnome1604/home/doomy/Documents/</Path>
+                  <Path Filename="Projects">/media/doomy/ubuntugnome1604/home/doomy/</Path>
+                  <Path Filename="..">/media/doomy/ubuntugnome1604/home/doomy/Projects/</Path>
+                  <Path Filename="2b2ad8fc-568e-4321-824a-69adefb39a61">/media/doomy/</Path>
+                  <Path Filename="..">/media/doomy/2b2ad8fc-568e-4321-824a-69adefb39a61/</Path>
+                  <Path Filename="Samsung1TUSB3">/media/doomy/</Path>
+                  <Path Filename="BAK12">/media/doomy/Samsung1TUSB3/</Path>
+                  <Path Filename="..">/media/doomy/Samsung1TUSB3/BAK12/</Path>
+                  <Path Filename="Pictures">/media/doomy/Samsung1TUSB3/</Path>
+                  <Path Filename="..">/media/doomy/Samsung1TUSB3/Pictures/</Path>
+                  <Path Filename="BAK12">/media/doomy/Samsung1TUSB3/</Path>
+                  <Path Filename="..">/media/doomy/Samsung1TUSB3/BAK12/</Path>
+                  <Path Filename="BAK13">/media/doomy/Samsung1TUSB3/</Path>
+                  <Path Filename="..">/media/doomy/Samsung1TUSB3/BAK13/</Path>
+                  <Path Filename="Pictures">/media/doomy/Samsung1TUSB3/</Path>
+                  <Path Filename="Camera Roll">/media/doomy/Samsung1TUSB3/Pictures/</Path>
+                  <Path Filename="Music">/media/doomy/Samsung1TUSB3/</Path>
+                  <Path Filename="SELECTII">/media/doomy/Samsung1TUSB3/Music/</Path>
+                  <Path Filename="chillout">/media/doomy/Samsung1TUSB3/Music/SELECTII/</Path>
+                  <Path Filename="A Fine Frenzy - Almost lover.mp3">/media/doomy/Samsung1TUSB3/Music/SELECTII/chillout/</Path>
+                  <Path Filename="chillout">/media/doomy/Samsung1TUSB3/Music/SELECTII/</Path>
+                  <Path Filename="SELECTII">/media/doomy/Samsung1TUSB3/Music/</Path>
+                  <Path Filename="BAK13">/media/doomy/Samsung1TUSB3/</Path>
+                  <Path Filename="Public">/media/doomy/Samsung1TUSB3/BAK13/</Path>
+                  <Path Filename="..">/media/doomy/Samsung1TUSB3/BAK13/Public/</Path>
+                  <Path Filename="Public">/media/doomy/Samsung1TUSB3/BAK13/</Path>
+                  <Path Filename="ubuntugnome1604">/media/doomy/</Path>
+                  <Path Filename="home">/media/doomy/ubuntugnome1604/</Path>
+                  <Path Filename="doomy">/media/doomy/ubuntugnome1604/home/</Path>
+                  <Path Filename="Public">/media/doomy/ubuntugnome1604/home/doomy/</Path>
+                  <Path Filename="oneplus one essential kits">/media/doomy/ubuntugnome1604/home/doomy/Public/</Path>
+                  <Path Filename="Music">/media/doomy/ubuntugnome1604/home/doomy/</Path>
+                  <Path Filename="Bob Moses - I Aint Gonna Be The First To Cry.mp3">/media/doomy/ubuntugnome1604/home/doomy/Music/</Path>
+                  <Path Filename="ubuntugnome1604">/media/doomy/</Path>
+                  <Path Filename="home">/media/doomy/ubuntugnome1604/</Path>
+                  <Path Filename="doomy">/media/doomy/ubuntugnome1604/home/</Path>
+                  <Path Filename="Projects">/media/doomy/ubuntugnome1604/home/doomy/</Path>
+                  <Path Filename="pebble">/media/doomy/ubuntugnome1604/home/doomy/Projects/</Path>
+                  <Path Filename="resources">/media/doomy/ubuntugnome1604/home/doomy/Projects/pebble/</Path>
+                  <Path Filename="wallpaper.svg">/media/doomy/ubuntugnome1604/home/doomy/Projects/pebble/resources/</Path>
+                  <Path Filename="7821-D242">/media/doomy/</Path>
+                  <Path Filename="slax">/media/doomy/7821-D242/</Path>
+                  <Path Filename="..">/media/doomy/7821-D242/slax/</Path>
+                  <Path Filename="slax">/media/doomy/7821-D242/</Path>
                   <Path Filename="">/media/doomy/</Path>
                 </Paths>
               </Entry>
@@ -677,7 +1059,135 @@
                   <Path Filename="usr">/</Path>
                   <Path Filename="share">/usr/</Path>
                   <Path Filename="applications">/usr/share/</Path>
+                  <Path Filename="..">/usr/share/applications/</Path>
+                  <Path Filename="applications">/usr/share/</Path>
+                  <Path Filename="..">/usr/share/applications/</Path>
+                  <Path Filename="virtualbox">/usr/share/</Path>
+                  <Path Filename="VBoxGuestAdditions.iso">/usr/share/virtualbox/</Path>
+                  <Path Filename="applications">/usr/share/</Path>
                   <Path Filename="">/usr/share/applications/</Path>
+                </Paths>
+              </Entry>
+            </History>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="brief">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="golang">/home/doomy/go/src/github.com/itmitica/</Path>
+                  <Path Filename="derekparker">/home/doomy/go/src/github.com/</Path>
+                  <Path Filename="delve">/home/doomy/go/src/github.com/derekparker/</Path>
+                  <Path Filename="..">/home/doomy/go/src/github.com/derekparker/delve/</Path>
+                  <Path Filename="delve">/home/doomy/go/src/github.com/derekparker/</Path>
+                  <Path Filename="nsf">/home/doomy/go/src/github.com/</Path>
+                  <Path Filename="gocode">/home/doomy/go/src/github.com/nsf/</Path>
+                  <Path Filename="..">/home/doomy/go/src/github.com/nsf/gocode/</Path>
+                  <Path Filename="gocode">/home/doomy/go/src/github.com/nsf/</Path>
+                  <Path Filename="ramya-rao-a">/home/doomy/go/src/github.com/</Path>
+                  <Path Filename="go-outline">/home/doomy/go/src/github.com/ramya-rao-a/</Path>
+                  <Path Filename="..">/home/doomy/go/src/github.com/ramya-rao-a/go-outline/</Path>
+                  <Path Filename="go-outline">/home/doomy/go/src/github.com/ramya-rao-a/</Path>
+                  <Path Filename="itmitica">/home/doomy/go/src/github.com/</Path>
+                  <Path Filename="golang">/home/doomy/go/src/github.com/itmitica/</Path>
+                  <Path Filename="hello">/home/doomy/go/src/github.com/itmitica/golang/</Path>
+                  <Path Filename="..">/home/doomy/go/src/github.com/itmitica/golang/hello/</Path>
+                  <Path Filename="hello">/home/doomy/go/src/github.com/itmitica/golang/</Path>
+                  <Path Filename="..">/home/doomy/go/src/github.com/itmitica/golang/hello/</Path>
+                  <Path Filename="hello">/home/doomy/go/src/github.com/itmitica/golang/</Path>
+                  <Path Filename="golang">/home/doomy/go/src/github.com/itmitica/</Path>
+                  <Path Filename="itmitica">/home/doomy/go/src/github.com/</Path>
+                  <Path Filename="github.com">/home/doomy/go/src/</Path>
+                  <Path Filename="bin">/home/doomy/go/</Path>
+                  <Path Filename="..">/home/doomy/go/bin/</Path>
+                  <Path Filename="src">/home/doomy/go/</Path>
+                  <Path Filename="github.com">/home/doomy/go/src/</Path>
+                  <Path Filename="itmitica">/home/doomy/go/src/github.com/</Path>
+                  <Path Filename="golang">/home/doomy/go/src/github.com/itmitica/</Path>
+                  <Path Filename="..">/home/doomy/go/src/github.com/itmitica/golang/</Path>
+                  <Path Filename="bin">/home/doomy/go/</Path>
+                  <Path Filename="hello">/home/doomy/go/bin/</Path>
+                  <Path Filename="go">/home/doomy/</Path>
+                  <Path Filename="bin">/home/doomy/go/</Path>
+                  <Path Filename="guru">/home/doomy/go/bin/</Path>
+                  <Path Filename="src">/home/doomy/go/</Path>
+                  <Path Filename="github.com">/home/doomy/go/src/</Path>
+                  <Path Filename="itmitica">/home/doomy/go/src/github.com/</Path>
+                  <Path Filename="golang">/home/doomy/go/src/github.com/itmitica/</Path>
+                  <Path Filename="doc">/home/doomy/go/src/github.com/itmitica/golang/</Path>
+                  <Path Filename="..">/home/doomy/go/src/github.com/itmitica/golang/doc/</Path>
+                  <Path Filename="doc">/home/doomy/go/src/github.com/itmitica/golang/</Path>
+                  <Path Filename="installation.txt">/home/doomy/go/src/github.com/itmitica/golang/doc/</Path>
+                  <Path Filename="doc">/home/doomy/go/src/github.com/itmitica/golang/</Path>
+                  <Path Filename="a tour of go - graph for docs.svg">/home/doomy/go/src/github.com/itmitica/golang/doc/</Path>
+                  <Path Filename="doc">/home/doomy/go/src/github.com/itmitica/golang/</Path>
+                  <Path Filename="..">/home/doomy/go/src/github.com/itmitica/golang/doc/</Path>
+                  <Path Filename="doc">/home/doomy/go/src/github.com/itmitica/golang/</Path>
+                  <Path Filename="golang">/home/doomy/go/src/github.com/itmitica/</Path>
+                  <Path Filename="">/home/doomy/go/src/github.com/itmitica/golang/</Path>
+                </Paths>
+              </Entry>
+            </History>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="brief">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/home/doomy/Downloads/Battle.of.the.Sexes.2017.1080p.BluRay.X264-AMIABLE[rarbg]/Subs/</Path>
+                  <Path Filename="Subs">/home/doomy/Downloads/Battle.of.the.Sexes.2017.1080p.BluRay.X264-AMIABLE[rarbg]/</Path>
+                  <Path Filename="platform-tools">/home/doomy/Downloads/</Path>
+                  <Path Filename="Downloads">/home/doomy/</Path>
+                  <Path Filename="platform-tools">/home/doomy/Downloads/</Path>
+                  <Path Filename="..">/home/doomy/Downloads/platform-tools/</Path>
+                  <Path Filename="platform-tools">/home/doomy/Downloads/</Path>
+                  <Path Filename="lib64">/home/doomy/Downloads/platform-tools/</Path>
+                  <Path Filename="xlunch-3.2.5">/home/doomy/Downloads/</Path>
+                  <Path Filename="docs">/home/doomy/Downloads/xlunch-3.2.5/</Path>
+                  <Path Filename="usage.txt">/home/doomy/Downloads/xlunch-3.2.5/docs/</Path>
+                  <Path Filename="docs">/home/doomy/Downloads/xlunch-3.2.5/</Path>
+                  <Path Filename="Blade Runner 2049.2017.HDRip.XViD.AC3-ETRG">/home/doomy/Downloads/</Path>
+                  <Path Filename="Torrent downloaded from ettv.tv.txt">/home/doomy/Downloads/Blade Runner 2049.2017.HDRip.XViD.AC3-ETRG/</Path>
+                  <Path Filename="..">/home/doomy/Downloads/</Path>
+                  <Path Filename="Downloads">/home/doomy/</Path>
+                  <Path Filename="Valerian.and.the.City.of.a.Thousand.Planets.2017.720p.BluRay.x264-NeZu">/home/doomy/Downloads/</Path>
+                  <Path Filename="valerian.and.the.city.of.a.thousand.planets.2017.720p.bluray.x264-nezu.nfo">/home/doomy/Downloads/Valerian.and.the.City.of.a.Thousand.Planets.2017.720p.BluRay.x264-NeZu/</Path>
+                  <Path Filename="Lucky.2017.DVDRip.x264-WiDE[EtMovies]">/home/doomy/Downloads/</Path>
+                  <Path Filename="lucky.2017.dvdrip.x264-wide.sfv">/home/doomy/Downloads/Lucky.2017.DVDRip.x264-WiDE[EtMovies]/</Path>
+                  <Path Filename="Hard.Sun.S01E01.HDTV.x264-ORGANiC[ettv]">/home/doomy/Downloads/</Path>
+                  <Path Filename="Downloaded from www.ETTV.tv .txt">/home/doomy/Downloads/Hard.Sun.S01E01.HDTV.x264-ORGANiC[ettv]/</Path>
+                  <Path Filename="Shrink.2017.S01E01.WEB.x264-TBS[ettv]">/home/doomy/Downloads/</Path>
+                  <Path Filename="Downloaded from www.ETTV.tv .txt">/home/doomy/Downloads/Shrink.2017.S01E01.WEB.x264-TBS[ettv]/</Path>
+                  <Path Filename="liteide">/home/doomy/Downloads/</Path>
+                  <Path Filename="bin">/home/doomy/Downloads/liteide/</Path>
+                  <Path Filename="liteide">/home/doomy/Downloads/liteide/bin/</Path>
+                  <Path Filename="bin">/home/doomy/Downloads/liteide/</Path>
+                  <Path Filename="..">/home/doomy/Downloads/</Path>
+                  <Path Filename="Downloads">/home/doomy/</Path>
+                  <Path Filename="Jungle.2017.PROPER.BDRip.x264-GHOULS[EtMovies]">/home/doomy/Downloads/</Path>
+                  <Path Filename="Subs">/home/doomy/Downloads/Jungle.2017.PROPER.BDRip.x264-GHOULS[EtMovies]/</Path>
+                  <Path Filename="jungle.2017.proper.bdrip.x264-ghouls.subs.sfv">/home/doomy/Downloads/Jungle.2017.PROPER.BDRip.x264-GHOULS[EtMovies]/Subs/</Path>
+                  <Path Filename="Subs">/home/doomy/Downloads/Jungle.2017.PROPER.BDRip.x264-GHOULS[EtMovies]/</Path>
+                  <Path Filename="Jungle (2017) [1080p] [YTS.AG]">/home/doomy/Downloads/</Path>
+                  <Path Filename="WWW.YTS.AG.jpg">/home/doomy/Downloads/Jungle (2017) [1080p] [YTS.AG]/</Path>
+                  <Path Filename="spectre-meltdown-checker-0.29">/home/doomy/Downloads/</Path>
+                  <Path Filename="spectre-meltdown-checker-0.29">/home/doomy/Downloads/spectre-meltdown-checker-0.29/</Path>
+                  <Path Filename="spectre-meltdown-checker.sh">/home/doomy/Downloads/spectre-meltdown-checker-0.29/spectre-meltdown-checker-0.29/</Path>
+                  <Path Filename="spectre-meltdown-checker-0.29">/home/doomy/Downloads/spectre-meltdown-checker-0.29/</Path>
+                  <Path Filename="LA.to.Vegas.S01E03.HDTV.x264-SVA[ettv]">/home/doomy/Downloads/</Path>
+                  <Path Filename="Downloaded from www.ETTV.tv .txt">/home/doomy/Downloads/LA.to.Vegas.S01E03.HDTV.x264-SVA[ettv]/</Path>
+                  <Path Filename="The.Man.from.Earth.Holocene.2017.720p.BluRay.x264-UNiVEARTH">/home/doomy/Downloads/</Path>
+                  <Path Filename="Subs">/home/doomy/Downloads/The.Man.from.Earth.Holocene.2017.720p.BluRay.x264-UNiVEARTH/</Path>
+                  <Path Filename="The.Man.from.Earth.Holocene.2017.720p.BluRay.x264-UNiVEARTH.French.srt">/home/doomy/Downloads/The.Man.from.Earth.Holocene.2017.720p.BluRay.x264-UNiVEARTH/Subs/</Path>
+                  <Path Filename="Subs">/home/doomy/Downloads/The.Man.from.Earth.Holocene.2017.720p.BluRay.x264-UNiVEARTH/</Path>
+                  <Path Filename="..">/home/doomy/Downloads/</Path>
+                  <Path Filename="Projects">/home/doomy/</Path>
+                  <Path Filename="pebble">/home/doomy/Projects/</Path>
+                  <Path Filename="">/home/doomy/Projects/pebble/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -753,8 +1263,8 @@
   </Tools>
   <Fonts>
     <Main>
-      <Name>Noto Sans</Name>
-      <Size>12</Size>
+      <Name>Alte Haas Grotesk</Name>
+      <Size>13</Size>
       <Style>0</Style>
       <Quality>0</Quality>
     </Main>
@@ -789,8 +1299,8 @@
       <Quality>0</Quality>
     </SearchResults>
     <PathEdit>
-      <Name>Noto Sans</Name>
-      <Size>11</Size>
+      <Name>DejaVu Sans</Name>
+      <Size>10</Size>
       <Style>0</Style>
       <Quality>0</Quality>
     </PathEdit>
@@ -832,14 +1342,14 @@
       <ReportErrorWithCommands>False</ReportErrorWithCommands>
     </ButtonBar>
     <DriveBar1>False</DriveBar1>
-    <DriveBar2>False</DriveBar2>
-    <DriveBarFlat>True</DriveBarFlat>
-    <DrivesListButton Enabled="False">
+    <DriveBar2>True</DriveBar2>
+    <DriveBarFlat>False</DriveBarFlat>
+    <DrivesListButton Enabled="True">
       <ShowLabel>False</ShowLabel>
       <ShowFileSystem>False</ShowFileSystem>
       <ShowFreeSpace>False</ShowFreeSpace>
     </DrivesListButton>
-    <SeparateTree>True</SeparateTree>
+    <SeparateTree>False</SeparateTree>
     <DirectoryTabs>True</DirectoryTabs>
     <CurrentDirectory>True</CurrentDirectory>
     <TabHeader>False</TabHeader>
@@ -850,7 +1360,7 @@
     <KeyButtons>False</KeyButtons>
     <InterfaceFlat>True</InterfaceFlat>
     <DriveFreeSpace>False</DriveFreeSpace>
-    <DriveIndicator>False</DriveIndicator>
+    <DriveIndicator>True</DriveIndicator>
     <ProgressInMenuBar>True</ProgressInMenuBar>
     <PanelOfOperationsInBackground>True</PanelOfOperationsInBackground>
     <HorizontalFilePanels>True</HorizontalFilePanels>
@@ -858,9 +1368,9 @@
   </Layout>
   <FilesViews>
     <Sorting>
-      <CaseSensitivity>0</CaseSensitivity>
-      <NaturalSorting>False</NaturalSorting>
-      <SortFolderMode>0</SortFolderMode>
+      <CaseSensitivity>2</CaseSensitivity>
+      <NaturalSorting>True</NaturalSorting>
+      <SortFolderMode>1</SortFolderMode>
       <NewFilesPosition>2</NewFilesPosition>
       <UpdatedFilesPosition>2</UpdatedFilesPosition>
     </Sorting>
@@ -898,7 +1408,7 @@
     <WipePassNumber>1</WipePassNumber>
     <DropReadOnlyFlag>False</DropReadOnlyFlag>
     <ProcessComments>False</ProcessComments>
-    <RenameSelOnlyName>False</RenameSelOnlyName>
+    <RenameSelOnlyName>True</RenameSelOnlyName>
     <ShowCopyTabSelectPanel>False</ShowCopyTabSelectPanel>
     <UseTrash>True</UseTrash>
     <SkipFileOpError>False</SkipFileOpError>
@@ -1014,7 +1524,7 @@
     <PaintMode>Pen</PaintMode>
     <PaintWidth>5</PaintWidth>
     <NumberOfColumns>1</NumberOfColumns>
-    <ViewerMode>0</ViewerMode>
+    <ViewerMode>1</ViewerMode>
     <PaintColor>255</PaintColor>
     <BackgroundColor>0</BackgroundColor>
     <FontColor>16777215</FontColor>

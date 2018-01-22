@@ -2,44 +2,61 @@
 <doublecmd>
   <History>
     <Navigation>
-      <Item>/home/doomy/Projects/slimUG/.config/doublecmd/</Item>
-      <Item>/home/doomy/Projects/slimUG/.config/</Item>
-      <Item>/home/doomy/.local/share/gnome-shell/extensions/dash-to-dock@micxgx.gmail.com/</Item>
-      <Item>/home/doomy/Projects/slimUG/</Item>
-      <Item>/home/doomy/Projects/slimUG/.config/doublecmd/doublecmd/</Item>
-      <Item>/home/doomy/Public/firefox/</Item>
       <Item>/home/doomy/Public/</Item>
-      <Item>/home/doomy/</Item>
-      <Item>/usr/share/applications/</Item>
-      <Item>/usr/share/</Item>
-      <Item>/usr/</Item>
-      <Item>/</Item>
-      <Item>/media/</Item>
-      <Item>/home/doomy/Projects/graphs-for-docs/</Item>
-      <Item>/home/doomy/Projects/</Item>
-      <Item>/home/doomy/Projects/notes/</Item>
-      <Item>/home/doomy/Projects/dotnet-core/</Item>
-      <Item>/home/doomy/Projects/vuejs/</Item>
-      <Item>/home/doomy/Documents/ebooks/</Item>
-      <Item>/media/doomy/</Item>
-      <Item>/home/</Item>
-      <Item>/home/doomy/.local/</Item>
-      <Item>/home/doomy/.local/share/</Item>
-      <Item>/home/doomy/.local/share/gnome-shell/</Item>
-      <Item>/home/doomy/.local/share/gnome-shell/extensions/</Item>
-      <Item>/home/doomy/.local/share/gnome-shell/extensions/alternate-tab@gnome-shell-extensions.gcampax.github.com/</Item>
-      <Item>/home/doomy/.local/share/themes/</Item>
-      <Item>/home/doomy/.local/share/icons/</Item>
-      <Item>/home/doomy/Documents/</Item>
-      <Item>/home/doomy/Pictures/</Item>
-      <Item>/home/doomy/Music/</Item>
+      <Item>/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Item>
+      <Item>/home/doomy/Projects/pebble/Pebble-SimpleWatch/bin/</Item>
       <Item>/home/doomy/Downloads/</Item>
+      <Item>/home/doomy/Public/firefox/</Item>
+      <Item>/home/doomy/Public/graphics/</Item>
+      <Item>/home/doomy/Projects/pebble/</Item>
+      <Item>/home/doomy/Projects/pebble/clay_work/</Item>
+      <Item>/home/doomy/Projects/pebble/clay_work/src/</Item>
+      <Item>/home/doomy/Projects/pebble/clay_work/src/c/</Item>
+      <Item>/home/doomy/Projects/pebble/clay_work/src/pkjs/</Item>
+      <Item>/home/doomy/Projects/pebble/Pebble-SimpleWatch/resources/</Item>
+      <Item>/media/doomy/</Item>
+      <Item>/media/doomy/7821-D242/</Item>
+      <Item>/media/doomy/7821-D242/slax/</Item>
+      <Item>/home/doomy/Projects/pebble/resources/</Item>
+      <Item>/home/doomy/Projects/pebble/Pebble-SimpleWatch/resources/images/</Item>
+      <Item>/home/doomy/Projects/</Item>
+      <Item>/home/doomy/</Item>
+      <Item>/home/doomy/Projects/pebble/Pebble-SimpleWatch/src/</Item>
+      <Item>/home/doomy/Projects/pebble/Pebble-SimpleWatch/src/c/</Item>
+      <Item>/media/doomy/ubuntugnome1604/home/doomy/Projects/pebble/resources/</Item>
+      <Item>/media/doomy/ubuntugnome1604/home/doomy/Projects/pebble/</Item>
+      <Item>/media/doomy/ubuntugnome1604/home/doomy/Projects/</Item>
+      <Item>/media/doomy/ubuntugnome1604/home/doomy/</Item>
+      <Item>/media/doomy/ubuntugnome1604/home/</Item>
+      <Item>/media/doomy/ubuntugnome1604/</Item>
+      <Item>/home/doomy/Projects/pebble/Pebble-SimpleWatch/resources/fonts/</Item>
+      <Item>/home/doomy/Downloads/The.Man.from.Earth.Holocene.2017.720p.BluRay.x264-UNiVEARTH/</Item>
+      <Item>/home/doomy/Downloads/The.Man.from.Earth.Holocene.2017.720p.BluRay.x264-UNiVEARTH/Subs/</Item>
+      <Item>/home/doomy/Projects/pebble/PebbleTimely/</Item>
+      <Item>/home/doomy/Projects/pebble/PebbleTimely/resources/</Item>
+      <Item>/home/doomy/Projects/pebble/PebbleTimely/resources/fonts/</Item>
+      <Item>/home/doomy/Projects/slimUG/</Item>
+      <Item>/home/doomy/Projects/pebble/Pebble-SimpleWatch/src/pkjs/</Item>
+      <Item>/home/doomy/Downloads/LA.to.Vegas.S01E03.HDTV.x264-SVA[ettv]/</Item>
+      <Item>/home/doomy/Downloads/spectre-meltdown-checker-0.29/</Item>
+      <Item>/home/doomy/Downloads/spectre-meltdown-checker-0.29/spectre-meltdown-checker-0.29/</Item>
+      <Item>/home/doomy/Downloads/Jungle (2017) [1080p] [YTS.AG]/</Item>
       <Item>/home/doomy/Videos/</Item>
-      <Item>/home/doomy/Documents/ebooks/dotnet-core/</Item>
+      <Item>/home/doomy/Videos/idx/</Item>
+      <Item>/home/doomy/Public/serviio-1.9/bin/</Item>
+      <Item>/home/doomy/Public/serviio-1.9/</Item>
+      <Item>/home/doomy/Downloads/Jungle.2017.PROPER.BDRip.x264-GHOULS[EtMovies]/</Item>
+      <Item>/home/doomy/Downloads/Jungle.2017.PROPER.BDRip.x264-GHOULS[EtMovies]/Subs/</Item>
+      <Item>/home/doomy/go/src/github.com/itmitica/golang/</Item>
+      <Item>/home/doomy/go/src/github.com/itmitica/</Item>
+      <Item>/home/doomy/Public/liteide/</Item>
+      <Item>/home/doomy/go/src/github.com/itmitica/golang/doc/</Item>
+      <Item>/home/doomy/Documents/ebooks/golang/</Item>
     </Navigation>
     <CommandLine/>
     <FileMask>
       <Item>*</Item>
+      <Item>*.*</Item>
     </FileMask>
     <SearchText/>
     <SearchTextPath/>
