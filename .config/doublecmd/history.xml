@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <doublecmd>
   <History>
     <Navigation>
+      <Item>/home/dumitru/Projects/linux/</Item>
+      <Item>/home/dumitru/Projects/</Item>
+      <Item>/home/dumitru/</Item>
       <Item>/home/doomy/Public/</Item>
       <Item>/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Item>
       <Item>/home/doomy/Projects/pebble/Pebble-SimpleWatch/bin/</Item>
@@ -49,9 +52,6 @@
       <Item>/home/doomy/Downloads/Jungle.2017.PROPER.BDRip.x264-GHOULS[EtMovies]/Subs/</Item>
       <Item>/home/doomy/go/src/github.com/itmitica/golang/</Item>
       <Item>/home/doomy/go/src/github.com/itmitica/</Item>
-      <Item>/home/doomy/Public/liteide/</Item>
-      <Item>/home/doomy/go/src/github.com/itmitica/golang/doc/</Item>
-      <Item>/home/doomy/Documents/ebooks/golang/</Item>
     </Navigation>
     <CommandLine/>
     <FileMask>
@@ -62,7 +62,6 @@
     <SearchTextPath/>
     <ReplaceText/>
     <ReplaceTextPath/>
-    <SearchDirectories/>
     <SearchExcludeFiles/>
     <SearchExcludeDirectories/>
   </History>

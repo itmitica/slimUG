@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<doublecmd DCVersion="0.8.0 beta" ConfigVersion="10">
+<?xml version="1.0" encoding="utf-8"?>
+<doublecmd DCVersion="0.7.7 beta" ConfigVersion="9">
   <Configuration Save="True" SortOrder="0">
     <UseConfigInProgramDir>False</UseConfigInProgramDir>
   </Configuration>
@@ -7,12 +7,12 @@
     <FileFilters/>
     <UseCursorBorder>True</UseCursorBorder>
     <CursorBorderColor>-2147483640</CursorBorderColor>
-    <UseFrameCursor>True</UseFrameCursor>
+    <UseFrameCursor>False</UseFrameCursor>
     <Foreground>-2147483627</Foreground>
     <Background>-2147483643</Background>
     <Background2>-2147483643</Background2>
-    <Cursor>-2147483641</Cursor>
-    <CursorText>255</CursorText>
+    <Cursor>-2147483617</Cursor>
+    <CursorText>-2147483640</CursorText>
     <Mark>-2147483642</Mark>
     <InactiveCursor>-2147483647</InactiveCursor>
     <InactiveMark>10789024</InactiveMark>
@@ -95,7 +95,7 @@
       <WcxPlugin Enabled="True">
         <ArchiveExt>zipx</ArchiveExt>
         <Path>%commander_path%/plugins/wcx/zip/zip.wcx</Path>
-        <Flags>223</Flags>
+        <Flags>212</Flags>
       </WcxPlugin>
       <WcxPlugin Enabled="True">
         <ArchiveExt>cpio</ArchiveExt>
@@ -279,6 +279,7 @@
                   <Path Filename="idx">/home/doomy/Videos/</Path>
                   <Path Filename="jungle.2017.proper.bdrip.x264-ghouls.idx">/home/doomy/Videos/idx/</Path>
                   <Path Filename="">/home/doomy/Videos/</Path>
+                  <Path Filename="">/home/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -308,6 +309,7 @@
                   <Path Filename="The.Ballad.of.Lefty.Brown.2017.1080p.WEB-DL.DD5.1.H264-FGT[EtHD].srt">/home/doomy/Videos/</Path>
                   <Path Filename="Music">/home/doomy/</Path>
                   <Path Filename="">/home/doomy/Music/</Path>
+                  <Path Filename="">/home/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -341,6 +343,7 @@
                   <Path Filename="colorado">/home/doomy/Pictures/</Path>
                   <Path Filename="..">/home/doomy/Pictures/colorado/</Path>
                   <Path Filename="">/home/doomy/Pictures/</Path>
+                  <Path Filename="">/home/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -358,7 +361,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="Documents">/home/doomy/</Path>
                   <Path Filename="..">/home/doomy/Documents/</Path>
                   <Path Filename="Pictures">/home/doomy/</Path>
                   <Path Filename="..">/home/doomy/Pictures/</Path>
@@ -408,6 +410,7 @@
                   <Path Filename="..">/home/doomy/Documents/ebooks/dotnet-core/</Path>
                   <Path Filename="golang">/home/doomy/Documents/ebooks/</Path>
                   <Path Filename="">/home/doomy/Documents/ebooks/golang/</Path>
+                  <Path Filename="">/home/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -425,7 +428,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="Pebble-SimpleWatch">/home/doomy/Projects/pebble/</Path>
                   <Path Filename="resources">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
                   <Path Filename="images">/home/doomy/Projects/pebble/Pebble-SimpleWatch/resources/</Path>
                   <Path Filename="screenshot.png">/home/doomy/Projects/pebble/Pebble-SimpleWatch/resources/images/</Path>
@@ -475,6 +477,7 @@
                   <Path Filename="bin">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
                   <Path Filename="resources">/home/doomy/Projects/pebble/</Path>
                   <Path Filename="">/home/doomy/Projects/pebble/resources/</Path>
+                  <Path Filename="">/home/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -486,7 +489,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="diagrams">/home/doomy/Projects/dotnet-core/</Path>
                   <Path Filename="rounding.pdf">/home/doomy/Projects/dotnet-core/diagrams/</Path>
                   <Path Filename="vscode-sln">/home/doomy/Projects/dotnet-core/</Path>
                   <Path Filename="flow.txt">/home/doomy/Projects/dotnet-core/vscode-sln/</Path>
@@ -536,6 +538,7 @@
                   <Path Filename="..">/home/doomy/Projects/golang/doc/</Path>
                   <Path Filename="doc">/home/doomy/Projects/golang/</Path>
                   <Path Filename="">/home/doomy/Projects/</Path>
+                  <Path Filename="">/home/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -547,7 +550,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="images">/home/doomy/Projects/pebble/Pebble-SimpleWatch/resources/</Path>
                   <Path Filename="screenshot.png">/home/doomy/Projects/pebble/Pebble-SimpleWatch/resources/images/</Path>
                   <Path Filename="images">/home/doomy/Projects/pebble/Pebble-SimpleWatch/resources/</Path>
                   <Path Filename="bin">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
@@ -597,6 +599,7 @@
                   <Path Filename="bin">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
                   <Path Filename="..">/home/doomy/Projects/pebble/Pebble-SimpleWatch/bin/</Path>
                   <Path Filename="bin">/home/doomy/Projects/pebble/Pebble-SimpleWatch/</Path>
+                  <Path Filename="">/home/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -608,7 +611,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="ubuntu-touch15.04.rev3-dec.17">/home/doomy/Public/oneplus one essential kits/TWRP/Backups/</Path>
                   <Path Filename="..">/home/doomy/Public/oneplus one essential kits/TWRP/Backups/ubuntu-touch15.04.rev3-dec.17/</Path>
                   <Path Filename="..">/home/doomy/Public/oneplus one essential kits/TWRP/Backups/</Path>
                   <Path Filename="platform-tools">/home/doomy/Public/oneplus one essential kits/</Path>
@@ -658,6 +660,7 @@
                   <Path Filename="Projects">/home/doomy/</Path>
                   <Path Filename="slimUG">/home/doomy/Projects/</Path>
                   <Path Filename="">/home/doomy/Projects/slimUG/</Path>
+                  <Path Filename="">/home/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -669,10 +672,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="Backups">/home/doomy/Public/oneplus one essential kits/TWRP/</Path>
-                  <Path Filename="platform-tools">/home/doomy/Public/oneplus one essential kits/</Path>
-                  <Path Filename="dmtracedump">/home/doomy/Public/oneplus one essential kits/platform-tools/</Path>
-                  <Path Filename="platform-tools">/home/doomy/Public/oneplus one essential kits/</Path>
                   <Path Filename="cm13">/home/doomy/Public/oneplus one essential kits/platform-tools/</Path>
                   <Path Filename="system">/home/doomy/Public/oneplus one essential kits/platform-tools/cm13/</Path>
                   <Path Filename="..">/home/doomy/Public/oneplus one essential kits/platform-tools/cm13/system/</Path>
@@ -719,6 +718,10 @@
                   <Path Filename="firefox">/home/doomy/Public/</Path>
                   <Path Filename="firefox">/home/doomy/Public/firefox/</Path>
                   <Path Filename="laddiso">/home/doomy/Public/</Path>
+                  <Path Filename="dumitru">/home/</Path>
+                  <Path Filename="Projects">/home/dumitru/</Path>
+                  <Path Filename="linux">/home/dumitru/Projects/</Path>
+                  <Path Filename="how i installed minimal debian with openbox on a asus k501u notebook.txt">/home/dumitru/Projects/linux/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -760,6 +763,7 @@
                   <Path Filename="share">/home/doomy/.local/</Path>
                   <Path Filename="fonts">/home/doomy/.local/share/</Path>
                   <Path Filename="">/home/doomy/.local/share/fonts/</Path>
+                  <Path Filename="">/home/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -771,7 +775,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="golang">/home/doomy/Projects/</Path>
                   <Path Filename="Projects">/home/doomy/</Path>
                   <Path Filename="golang">/home/doomy/Projects/</Path>
                   <Path Filename="doc">/home/doomy/Projects/golang/</Path>
@@ -821,6 +824,7 @@
                   <Path Filename="linux_amd64">/home/doomy/go/pkg/</Path>
                   <Path Filename="bin">/home/doomy/go/</Path>
                   <Path Filename="..">/home/doomy/go/bin/</Path>
+                  <Path Filename="">/home/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -835,7 +839,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="..">/home/doomy/Downloads/Battle.of.the.Sexes.2017.1080p.BluRay.X264-AMIABLE[rarbg]/</Path>
                   <Path Filename="Battle.of.the.Sexes.2017.1080p.BluRay.X264-AMIABLE[rarbg]">/home/doomy/Downloads/</Path>
                   <Path Filename="Subs">/home/doomy/Downloads/Battle.of.the.Sexes.2017.1080p.BluRay.X264-AMIABLE[rarbg]/</Path>
                   <Path Filename="..">/home/doomy/Downloads/Battle.of.the.Sexes.2017.1080p.BluRay.X264-AMIABLE[rarbg]/Subs/</Path>
@@ -885,6 +888,7 @@
                   <Path Filename="The.Man.from.Earth.Holocene.2017.720p.BluRay.x264-UNiVEARTH.French.srt">/home/doomy/Downloads/The.Man.from.Earth.Holocene.2017.720p.BluRay.x264-UNiVEARTH/Subs/</Path>
                   <Path Filename="Subs">/home/doomy/Downloads/The.Man.from.Earth.Holocene.2017.720p.BluRay.x264-UNiVEARTH/</Path>
                   <Path Filename="..">/home/doomy/Downloads/</Path>
+                  <Path Filename="..">/home/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -906,6 +910,7 @@
                   <Path Filename="share">/home/doomy/.local/</Path>
                   <Path Filename="icons">/home/doomy/.local/share/</Path>
                   <Path Filename="">/home/doomy/.local/share/icons/</Path>
+                  <Path Filename="">/home/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -929,6 +934,7 @@
                   <Path Filename="hicolor">/home/doomy/.local/share/icons/</Path>
                   <Path Filename="themes">/home/doomy/.local/share/</Path>
                   <Path Filename="">/home/doomy/.local/share/themes/</Path>
+                  <Path Filename="">/home/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -958,6 +964,7 @@
                   <Path Filename="..">/home/doomy/.local/share/gnome-shell/extensions/alternate-tab@gnome-shell-extensions.gcampax.github.com/</Path>
                   <Path Filename="dash-to-dock@micxgx.gmail.com">/home/doomy/.local/share/gnome-shell/extensions/</Path>
                   <Path Filename="">/home/doomy/.local/share/gnome-shell/extensions/dash-to-dock@micxgx.gmail.com/</Path>
+                  <Path Filename="">/home/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -969,7 +976,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="Documents">/media/doomy/ubuntugnome1604/home/doomy/</Path>
                   <Path Filename="ebooks">/media/doomy/ubuntugnome1604/home/doomy/Documents/</Path>
                   <Path Filename="microservices">/media/doomy/ubuntugnome1604/home/doomy/Documents/ebooks/</Path>
                   <Path Filename="personal">/media/doomy/ubuntugnome1604/home/doomy/Documents/</Path>
@@ -1019,6 +1025,7 @@
                   <Path Filename="..">/media/doomy/7821-D242/slax/</Path>
                   <Path Filename="slax">/media/doomy/7821-D242/</Path>
                   <Path Filename="">/media/doomy/</Path>
+                  <Path Filename="">/media/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -1077,7 +1084,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="golang">/home/doomy/go/src/github.com/itmitica/</Path>
                   <Path Filename="derekparker">/home/doomy/go/src/github.com/</Path>
                   <Path Filename="delve">/home/doomy/go/src/github.com/derekparker/</Path>
                   <Path Filename="..">/home/doomy/go/src/github.com/derekparker/delve/</Path>
@@ -1127,6 +1133,7 @@
                   <Path Filename="doc">/home/doomy/go/src/github.com/itmitica/golang/</Path>
                   <Path Filename="golang">/home/doomy/go/src/github.com/itmitica/</Path>
                   <Path Filename="">/home/doomy/go/src/github.com/itmitica/golang/</Path>
+                  <Path Filename="">/home/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -1138,7 +1145,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="..">/home/doomy/Downloads/Battle.of.the.Sexes.2017.1080p.BluRay.X264-AMIABLE[rarbg]/Subs/</Path>
                   <Path Filename="Subs">/home/doomy/Downloads/Battle.of.the.Sexes.2017.1080p.BluRay.X264-AMIABLE[rarbg]/</Path>
                   <Path Filename="platform-tools">/home/doomy/Downloads/</Path>
                   <Path Filename="Downloads">/home/doomy/</Path>
@@ -1188,6 +1194,7 @@
                   <Path Filename="Projects">/home/doomy/</Path>
                   <Path Filename="pebble">/home/doomy/Projects/</Path>
                   <Path Filename="">/home/doomy/Projects/pebble/</Path>
+                  <Path Filename="">/home/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -1205,23 +1212,21 @@
   </Language>
   <Behaviours>
     <GoToRoot>False</GoToRoot>
-    <RunInTerminalStayOpenCmd>gnome-terminal</RunInTerminalStayOpenCmd>
+    <RunInTerminalStayOpenCmd>lxterminal</RunInTerminalStayOpenCmd>
     <RunInTerminalStayOpenParams>-e sh -c '{command}; echo -n Press ENTER to exit... ; read a'</RunInTerminalStayOpenParams>
-    <RunInTerminalCloseCmd>gnome-terminal</RunInTerminalCloseCmd>
+    <RunInTerminalCloseCmd>lxterminal</RunInTerminalCloseCmd>
     <RunInTerminalCloseParams>-e sh -c {command}</RunInTerminalCloseParams>
-    <JustRunTerminal>gnome-terminal</JustRunTerminal>
+    <JustRunTerminal>lxterminal</JustRunTerminal>
     <JustRunTermParams/>
     <OnlyOneAppInstance>False</OnlyOneAppInstance>
     <LynxLike>True</LynxLike>
     <FileSizeFormat>0</FileSizeFormat>
-    <FileSizeDigits>1</FileSizeDigits>
     <MinimizeToTray>False</MinimizeToTray>
     <AlwaysShowTrayIcon>False</AlwaysShowTrayIcon>
     <Mouse>
       <Selection Enabled="True">
         <Button>0</Button>
       </Selection>
-      <SingleClickStart>0</SingleClickStart>
       <ScrollMode>1</ScrollMode>
       <WheelScrollLines>3</WheelScrollLines>
     </Mouse>
@@ -1231,7 +1236,6 @@
     <BriefViewFileExtAligned>False</BriefViewFileExtAligned>
     <DateTimeFormat>dd.mm.yyyy hh:nn:ss</DateTimeFormat>
     <CutTextToColumnWidth>False</CutTextToColumnWidth>
-    <ExtendCellWidth>True</ExtendCellWidth>
     <ShowSystemFiles>True</ShowSystemFiles>
     <ListFilesInThread>True</ListFilesInThread>
     <LoadIconsSeparately>True</LoadIconsSeparately>
@@ -1263,8 +1267,8 @@
   </Tools>
   <Fonts>
     <Main>
-      <Name>Alte Haas Grotesk</Name>
-      <Size>13</Size>
+      <Name>DejaVu Sans</Name>
+      <Size>14</Size>
       <Style>0</Style>
       <Quality>0</Quality>
     </Main>
@@ -1494,7 +1498,7 @@
     <Theme>dctheme</Theme>
     <ShowMode>3</ShowMode>
     <ShowOverlays>False</ShowOverlays>
-    <Size>32</Size>
+    <Size>22</Size>
     <DiskSize>32</DiskSize>
     <DiskAlpha>50</DiskAlpha>
     <Exclude>False</Exclude>
@@ -1505,6 +1509,7 @@
       <Size>16</Size>
     </ShowInMenus>
     <ShowButtonGlyphs>0</ShowButtonGlyphs>
+    <CustomDriveIcons>False</CustomDriveIcons>
   </Icons>
   <IgnoreList Enabled="False">
     <IgnoreListFile>%DC_CONFIG_PATH%/ignorelist.txt</IgnoreListFile>
@@ -1647,7 +1652,6 @@
     <ColumnsSet UseFrameCursor="False">
       <Name>Default</Name>
       <CustomView>True</CustomView>
-      <PixelsPerInch>110</PixelsPerInch>
       <CursorBorder Enabled="True">
         <Color>-2147483640</Color>
       </CursorBorder>
@@ -1726,7 +1730,6 @@
     <ColumnsSet UseFrameCursor="False">
       <Name>Default (2017-12-16@12-32-41)</Name>
       <CustomView>True</CustomView>
-      <PixelsPerInch>110</PixelsPerInch>
       <CursorBorder Enabled="True">
         <Color>-2147483640</Color>
       </CursorBorder>
